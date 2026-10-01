@@ -1,0 +1,30 @@
+# python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+
+# datasets live outside the repository (DATASET_ROOT)
+dataset/
+
+# runner outputs, retrieval caches, figures and logs
+data_out/
+data_figures/
+data_results/
+data_debug/
+data_*/
+cache/
+log/
+**.log
+
+# raw campaign measurements (results/exp7 is tracked; the raw job outputs are shipped separately)
+results/campaign/
+results/memory_grids/
+scripts/exp4/campaign.lock
+scripts/exp4/cli_validation.json
+
+# local tool configuration
+.claude/
+.codex
+.cursor/
+.vscode/

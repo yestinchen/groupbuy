@@ -1,0 +1,43 @@
+method,deadline_ms,median,q25,q75,metric,n_evaluated,clock,mode
+PACS,1.1,0.0,0.0,0.0,hv,100,fresh-stages,observation
+PACS,3.0,0.0,0.0,0.0,hv,100,fresh-stages,observation
+PACS,10.0,1.0,0.8354176301656091,1.0,hv,100,fresh-stages,observation
+PACS,30.0,1.0,0.8838580960172904,1.0,hv,100,fresh-stages,observation
+PACS,100.0,1.0,0.8905489510092436,1.0,hv,100,fresh-stages,observation
+PACS,300.0,1.0,0.8930709443574991,1.0,hv,100,fresh-stages,observation
+PACS,1000.0,1.0,0.8930709443574991,1.0,hv,100,fresh-stages,observation
+PTS,1.1,0.0,0.0,0.0,hv,100,fresh-stages,observation
+PTS,3.0,0.11080403571819675,0.0001567679267277,0.26864123381786814,hv,100,fresh-stages,observation
+PTS,10.0,0.5567019374264782,0.31026091211515994,0.7642550030774179,hv,100,fresh-stages,observation
+PTS,30.0,0.8086584121634106,0.4231528094181607,1.0,hv,100,fresh-stages,observation
+PTS,100.0,0.9738331664101506,0.6860549996787164,1.0,hv,100,fresh-stages,observation
+PTS,300.0,1.0,0.9198028665317499,1.0,hv,100,fresh-stages,observation
+PTS,1000.0,1.0,0.9639613011979761,1.0,hv,100,fresh-stages,observation
+eps-ILP g=4,1.1,0.0,0.0,0.0,hv,100,fresh-stages,observation
+eps-ILP g=4,3.0,0.0,0.0,0.0,hv,100,fresh-stages,observation
+eps-ILP g=4,10.0,0.0,0.0,0.0,hv,100,fresh-stages,observation
+eps-ILP g=4,30.0,0.22457007834631276,0.0637822379408597,0.4280125600765342,hv,100,fresh-stages,observation
+eps-ILP g=4,100.0,0.4682100661316752,0.30734509087155715,0.6694970972062352,hv,100,fresh-stages,observation
+eps-ILP g=4,300.0,0.5884362094414269,0.42035897234049374,0.7266111239231872,hv,100,fresh-stages,observation
+eps-ILP g=4,1000.0,0.5934917396947149,0.4372129452435031,0.7308471860808557,hv,100,fresh-stages,observation
+eps-ILP g=16,1.1,0.0,0.0,0.0,hv,100,fresh-stages,observation
+eps-ILP g=16,3.0,0.0,0.0,0.0,hv,100,fresh-stages,observation
+eps-ILP g=16,10.0,0.0,0.0,0.0,hv,100,fresh-stages,observation
+eps-ILP g=16,30.0,0.1899133808503078,0.05170890647502972,0.4205330888435355,hv,100,fresh-stages,observation
+eps-ILP g=16,100.0,0.3952148325215693,0.2464969426339412,0.5945001439160221,hv,100,fresh-stages,observation
+eps-ILP g=16,300.0,0.49101541920860514,0.31799038316363226,0.6472949346622442,hv,100,fresh-stages,observation
+eps-ILP g=16,1000.0,0.5131868805282167,0.34394772374289156,0.7142524011960315,hv,100,fresh-stages,observation
+PBS-unbounded,1.1,0.0,0.0,0.0,hv,100,fresh-stages,observation
+PBS-unbounded,3.0,0.0,0.0,0.0,hv,100,fresh-stages,observation
+PBS-unbounded,10.0,1.0,0.0,1.0,hv,100,fresh-stages,observation
+PBS-unbounded,30.0,1.0,1.0,1.0,hv,100,fresh-stages,observation
+PBS-unbounded,100.0,1.0,1.0,1.0,hv,100,fresh-stages,observation
+PBS-unbounded,300.0,1.0,1.0,1.0,hv,100,fresh-stages,observation
+PBS-unbounded,1000.0,1.0,1.0,1.0,hv,100,fresh-stages,observation
+Pareto-DP,1.1,0.0,0.0,0.0,hv,100,fresh-stages,observation
+Pareto-DP,3.0,0.0,0.0,0.0,hv,100,fresh-stages,observation
+Pareto-DP,10.0,1.0,0.0,1.0,hv,100,fresh-stages,observation
+Pareto-DP,30.0,1.0,0.9999999999999998,1.0,hv,100,fresh-stages,observation
+Pareto-DP,100.0,1.0,1.0,1.0,hv,100,fresh-stages,observation
+Pareto-DP,300.0,1.0,1.0,1.0,hv,100,fresh-stages,observation
+Pareto-DP,1000.0,1.0,1.0,1.0,hv,100,fresh-stages,observation

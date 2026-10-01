@@ -1,0 +1,1301 @@
+query_id,method,metric_eligible,solver_status,completed,termination_reason,value
+0,PACS,1,returned,True,completed,0.6378325203268165
+1,PACS,1,returned,True,completed,0.2971716820939353
+2,PACS,1,returned,True,completed,1.0
+3,PACS,1,returned,True,completed,0.9543602454457932
+4,PACS,1,returned,True,completed,1.0
+5,PACS,1,returned,True,completed,0.9818815358089248
+6,PACS,1,returned,True,completed,0.4670757913339338
+7,PACS,1,returned,True,completed,0.8255099966227851
+8,PACS,1,returned,True,completed,1.0
+9,PACS,1,returned,True,completed,0.8681499897187248
+10,PACS,1,returned,True,completed,0.4040244702765531
+11,PACS,1,returned,True,completed,0.8777207706233455
+12,PACS,1,returned,True,completed,0.8398076586629862
+13,PACS,1,returned,True,completed,1.0
+14,PACS,1,returned,True,completed,0.6098199817259631
+15,PACS,1,returned,True,completed,0.9015596945863278
+16,PACS,1,returned,True,completed,0.6849918987586744
+17,PACS,1,returned,True,completed,0.9471004109319758
+18,PACS,1,returned,True,completed,0.6651305758145856
+19,PACS,1,returned,True,completed,1.0
+20,PACS,1,returned,True,completed,1.0
+21,PACS,1,returned,True,completed,0.8783527704100007
+22,PACS,1,returned,True,completed,1.0
+23,PACS,1,returned,True,completed,0.7874377826993885
+24,PACS,1,returned,True,completed,0.5514160094820156
+25,PACS,1,returned,True,completed,1.0
+26,PACS,1,returned,True,completed,1.0
+27,PACS,1,returned,True,completed,0.6128255118977306
+28,PACS,1,returned,True,completed,0.4612417340275223
+29,PACS,1,returned,True,completed,1.0
+30,PACS,1,returned,True,completed,0.8646746863634308
+31,PACS,1,returned,True,completed,1.0
+32,PACS,1,returned,True,completed,0.9991496812169846
+33,PACS,1,returned,True,completed,0.2238185921006438
+34,PACS,1,returned,True,completed,0.8293061414780606
+35,PACS,1,returned,True,completed,1.0
+36,PACS,1,returned,True,completed,0.5782686718016096
+37,PACS,1,returned,True,completed,0.7666171712728048
+38,PACS,1,returned,True,completed,0.9698638105257886
+39,PACS,1,returned,True,completed,0.9954407463782576
+40,PACS,1,returned,True,completed,0.5251769698480898
+41,PACS,1,returned,True,completed,0.5094130132960476
+42,PACS,1,returned,True,completed,1.0
+43,PACS,1,returned,True,completed,1.0
+44,PACS,1,returned,True,completed,0.923230996802166
+45,PACS,1,returned,True,completed,0.6797214100817204
+46,PACS,1,returned,True,completed,0.9739897010161064
+47,PACS,1,returned,True,completed,0.6766718080630608
+48,PACS,1,returned,True,completed,0.8898947230475247
+49,PACS,1,returned,True,completed,0.84373529148498
+50,PACS,1,returned,True,completed,0.888934164863908
+51,PACS,1,returned,True,completed,1.0
+52,PACS,1,returned,True,completed,0.8956810877223643
+53,PACS,1,returned,True,completed,0.3939980542005226
+54,PACS,1,no_assignment,True,completed,0.0
+55,PACS,1,returned,True,completed,1.0
+56,PACS,1,returned,True,completed,0.5973650279008624
+57,PACS,1,returned,True,completed,0.7993296410057077
+58,PACS,1,returned,True,completed,0.3546120629050808
+59,PACS,1,returned,True,completed,0.7373006804503018
+60,PACS,1,returned,True,completed,0.97430759979476
+61,PACS,1,returned,True,completed,0.6171008837074194
+62,PACS,1,returned,True,completed,0.5219710290369213
+63,PACS,1,returned,True,completed,1.0
+64,PACS,1,returned,True,completed,0.961468655634656
+65,PACS,1,returned,True,completed,0.5916604440584158
+66,PACS,1,returned,True,completed,1.0
+67,PACS,1,returned,True,completed,0.7704376510019519
+68,PACS,1,returned,True,completed,0.7568358938652792
+69,PACS,1,returned,True,completed,0.6086475183914679
+70,PACS,1,returned,True,completed,0.7472696303019336
+71,PACS,1,returned,True,completed,1.0
+72,PACS,1,returned,True,completed,0.1468812313653261
+73,PACS,1,returned,True,completed,0.6814861696614075
+74,PACS,1,returned,True,completed,1.0
+75,PACS,1,returned,True,completed,0.9514211966959012
+76,PACS,1,returned,True,completed,0.763351143336281
+77,PACS,1,returned,True,completed,0.5042948355573966
+78,PACS,1,returned,True,completed,0.7496663282205777
+79,PACS,1,returned,True,completed,1.0
+80,PACS,1,returned,True,completed,0.7716357858287806
+81,PACS,1,returned,True,completed,0.7412874633848408
+82,PACS,1,returned,True,completed,0.6739023699700097
+83,PACS,1,returned,True,completed,1.0
+84,PACS,1,returned,True,completed,0.53133286482657
+85,PACS,1,returned,True,completed,0.7226049845968293
+86,PACS,1,returned,True,completed,0.6824480953367081
+87,PACS,1,returned,True,completed,0.7816151333245296
+88,PACS,1,returned,True,completed,0.6276850693914225
+89,PACS,1,returned,True,completed,0.9745351969544848
+90,PACS,1,returned,True,completed,0.5611606030499591
+91,PACS,1,returned,True,completed,0.2022770526815175
+92,PACS,1,returned,True,completed,0.8381304040852436
+93,PACS,1,returned,True,completed,0.6880824470505321
+94,PACS,1,returned,True,completed,0.9357695068624984
+95,PACS,1,returned,True,completed,1.0
+96,PACS,1,returned,True,completed,0.6949642893078375
+97,PACS,1,returned,True,completed,1.0
+98,PACS,1,returned,True,completed,0.958430992140098
+99,PACS,1,returned,True,completed,1.0
+0,PTS,1,returned,False,iteration_limit,0.2956349541346671
+1,PTS,1,returned,False,iteration_limit,0.1614773577737355
+2,PTS,1,returned,True,completed,1.0
+3,PTS,1,returned,False,iteration_limit,0.5141049437158758
+4,PTS,1,returned,True,completed,1.0
+5,PTS,1,returned,True,completed,1.0
+6,PTS,1,returned,False,iteration_limit,0.0674610458160921
+7,PTS,1,returned,False,iteration_limit,0.1944246841977973
+8,PTS,1,returned,True,completed,1.0
+9,PTS,1,returned,False,iteration_limit,0.2071693793964403
+10,PTS,1,returned,False,iteration_limit,0.3109203560733263
+11,PTS,1,returned,True,completed,1.0
+12,PTS,1,returned,False,iteration_limit,0.6858305932040597
+13,PTS,1,returned,True,completed,1.0
+14,PTS,1,returned,False,iteration_limit,0.4747046352025411
+15,PTS,1,returned,False,iteration_limit,0.4662578969810197
+16,PTS,1,returned,False,iteration_limit,0.7919914249549898
+17,PTS,1,returned,False,iteration_limit,0.8763458438987456
+18,PTS,1,returned,False,iteration_limit,0.0865156758051844
+19,PTS,1,returned,True,completed,1.0
+20,PTS,1,returned,True,completed,1.0
+21,PTS,1,returned,False,iteration_limit,0.2565600113191925
+22,PTS,1,returned,True,completed,1.0
+23,PTS,1,returned,False,iteration_limit,0.4464730913099706
+24,PTS,1,returned,False,iteration_limit,0.1467693027641393
+25,PTS,1,returned,True,completed,1.0
+26,PTS,1,returned,True,completed,1.0
+27,PTS,1,returned,False,iteration_limit,0.0940264340907456
+28,PTS,1,returned,False,iteration_limit,0.1046351340512382
+29,PTS,1,returned,True,completed,1.0
+30,PTS,1,returned,False,iteration_limit,0.7188638856398722
+31,PTS,1,returned,True,completed,1.0
+32,PTS,1,returned,False,iteration_limit,0.9016227353907732
+33,PTS,1,returned,False,iteration_limit,0.6180856780220937
+34,PTS,1,returned,False,iteration_limit,0.085990412353924
+35,PTS,1,returned,True,completed,1.0
+36,PTS,1,returned,False,iteration_limit,0.3259816180495185
+37,PTS,1,returned,False,iteration_limit,0.4720169569460501
+38,PTS,1,returned,True,completed,1.0
+39,PTS,1,returned,True,completed,1.0
+40,PTS,1,returned,False,iteration_limit,0.6480256581385881
+41,PTS,1,returned,False,iteration_limit,0.5171801643139438
+42,PTS,1,returned,True,completed,1.0
+43,PTS,1,returned,True,completed,1.0
+44,PTS,1,returned,False,iteration_limit,0.7827576226568411
+45,PTS,1,returned,False,iteration_limit,0.1318906024650492
+46,PTS,1,returned,False,iteration_limit,0.9773905124166936
+47,PTS,1,returned,False,iteration_limit,0.3117668291341076
+48,PTS,1,returned,False,iteration_limit,0.6921586880168604
+49,PTS,1,returned,False,iteration_limit,0.98517919869444
+50,PTS,1,returned,False,iteration_limit,0.878428949913469
+51,PTS,1,returned,True,completed,1.0
+52,PTS,1,returned,False,iteration_limit,0.9831816276258756
+53,PTS,1,returned,False,iteration_limit,0.1015029699833681
+54,PTS,1,returned,False,iteration_limit,0.8284829542020858
+55,PTS,1,returned,True,completed,1.0
+56,PTS,1,returned,False,iteration_limit,0.6083496425947337
+57,PTS,1,returned,False,iteration_limit,0.6789503790925624
+58,PTS,1,returned,False,iteration_limit,0.3678215991006756
+59,PTS,1,returned,False,iteration_limit,0.3869739686670309
+60,PTS,1,returned,False,iteration_limit,0.8566367168543473
+61,PTS,1,returned,False,iteration_limit,0.0225905611455328
+62,PTS,1,returned,False,iteration_limit,0.338416062433519
+63,PTS,1,returned,True,completed,1.0
+64,PTS,1,returned,False,iteration_limit,0.9406698658381024
+65,PTS,1,returned,False,iteration_limit,0.1616504455444356
+66,PTS,1,returned,True,completed,1.0000000000000002
+67,PTS,1,returned,False,iteration_limit,0.5718171661614366
+68,PTS,1,returned,False,iteration_limit,0.6286289266998131
+69,PTS,1,returned,False,iteration_limit,0.1084255991099321
+70,PTS,1,returned,False,iteration_limit,0.8868689117002458
+71,PTS,1,returned,True,completed,1.0
+72,PTS,1,returned,False,iteration_limit,0.8363270798655729
+73,PTS,1,returned,False,iteration_limit,0.6283801972922584
+74,PTS,1,returned,True,completed,1.0
+75,PTS,1,returned,False,iteration_limit,0.8852568706107685
+76,PTS,1,returned,False,iteration_limit,0.7705107205533694
+77,PTS,1,returned,False,iteration_limit,0.3878472919246687
+78,PTS,1,returned,False,iteration_limit,0.738434581185082
+79,PTS,1,returned,True,completed,1.0
+80,PTS,1,returned,False,iteration_limit,0.2570610495557699
+81,PTS,1,returned,False,iteration_limit,0.4491533363178728
+82,PTS,1,returned,False,iteration_limit,0.1929296217112405
+83,PTS,1,returned,True,completed,1.0
+84,PTS,1,returned,False,iteration_limit,0.3968511831124831
+85,PTS,1,returned,False,iteration_limit,0.4826141410773652
+86,PTS,1,returned,False,iteration_limit,0.3344264504746573
+87,PTS,1,returned,False,iteration_limit,0.4405774549738217
+88,PTS,1,returned,False,iteration_limit,0.3949927482274683
+89,PTS,1,returned,False,iteration_limit,0.997824948827872
+90,PTS,1,returned,False,iteration_limit,0.211176438988291
+91,PTS,1,returned,False,iteration_limit,0.8626929303147468
+92,PTS,1,returned,False,iteration_limit,0.2494455774098862
+93,PTS,1,returned,False,iteration_limit,0.2409235080989819
+94,PTS,1,returned,False,iteration_limit,0.4089299413126461
+95,PTS,1,returned,True,completed,1.0
+96,PTS,1,returned,False,iteration_limit,0.3957796928392262
+97,PTS,1,returned,True,completed,1.0
+98,PTS,1,returned,True,completed,1.0
+99,PTS,1,returned,True,completed,1.0
+0,PBS-unbounded,1,returned,True,completed,1.0
+1,PBS-unbounded,1,returned,True,completed,1.0
+2,PBS-unbounded,1,returned,True,completed,1.0
+3,PBS-unbounded,1,returned,True,completed,1.0
+4,PBS-unbounded,1,returned,True,completed,1.0
+5,PBS-unbounded,1,returned,True,completed,1.0
+6,PBS-unbounded,1,returned,True,completed,1.0
+7,PBS-unbounded,1,returned,True,completed,1.0
+8,PBS-unbounded,1,returned,True,completed,1.0
+9,PBS-unbounded,1,returned,True,completed,1.0
+10,PBS-unbounded,1,returned,True,completed,1.0
+11,PBS-unbounded,1,returned,True,completed,1.0
+12,PBS-unbounded,1,returned,True,completed,1.0
+13,PBS-unbounded,1,returned,True,completed,1.0
+14,PBS-unbounded,1,returned,True,completed,1.0
+15,PBS-unbounded,1,returned,True,completed,1.0
+16,PBS-unbounded,1,returned,True,completed,1.0
+17,PBS-unbounded,1,returned,True,completed,1.0
+18,PBS-unbounded,1,returned,True,completed,1.0
+19,PBS-unbounded,1,returned,True,completed,1.0
+20,PBS-unbounded,1,returned,True,completed,1.0
+21,PBS-unbounded,1,returned,True,completed,1.0
+22,PBS-unbounded,1,returned,True,completed,1.0
+23,PBS-unbounded,1,returned,True,completed,1.0
+24,PBS-unbounded,1,returned,True,completed,1.0
+25,PBS-unbounded,1,returned,True,completed,1.0
+26,PBS-unbounded,1,returned,True,completed,1.0
+27,PBS-unbounded,1,returned,True,completed,1.0
+28,PBS-unbounded,1,returned,True,completed,1.0
+29,PBS-unbounded,1,returned,True,completed,1.0
+30,PBS-unbounded,1,returned,True,completed,1.0
+31,PBS-unbounded,1,returned,True,completed,1.0
+32,PBS-unbounded,1,returned,True,completed,1.0
+33,PBS-unbounded,1,returned,True,completed,1.0
+34,PBS-unbounded,1,returned,True,completed,1.0
+35,PBS-unbounded,1,returned,True,completed,1.0
+36,PBS-unbounded,1,returned,True,completed,1.0
+37,PBS-unbounded,1,returned,True,completed,1.0
+38,PBS-unbounded,1,returned,True,completed,1.0
+39,PBS-unbounded,1,returned,True,completed,1.0
+40,PBS-unbounded,1,returned,True,completed,1.0
+41,PBS-unbounded,1,returned,True,completed,1.0
+42,PBS-unbounded,1,returned,True,completed,1.0
+43,PBS-unbounded,1,returned,True,completed,1.0
+44,PBS-unbounded,1,returned,True,completed,1.0
+45,PBS-unbounded,1,returned,True,completed,1.0
+46,PBS-unbounded,1,returned,True,completed,1.0
+47,PBS-unbounded,1,returned,True,completed,1.0
+48,PBS-unbounded,1,returned,True,completed,1.0
+49,PBS-unbounded,1,returned,True,completed,1.0
+50,PBS-unbounded,1,returned,True,completed,1.0
+51,PBS-unbounded,1,returned,True,completed,1.0
+52,PBS-unbounded,1,returned,True,completed,1.0
+53,PBS-unbounded,1,returned,True,completed,1.0
+54,PBS-unbounded,1,returned,True,completed,1.0
+55,PBS-unbounded,1,returned,True,completed,1.0
+56,PBS-unbounded,1,returned,True,completed,1.0
+57,PBS-unbounded,1,returned,True,completed,1.0
+58,PBS-unbounded,1,returned,True,completed,1.0
+59,PBS-unbounded,1,returned,True,completed,1.0
+60,PBS-unbounded,1,returned,True,completed,1.0
+61,PBS-unbounded,1,returned,True,completed,1.0
+62,PBS-unbounded,1,returned,True,completed,1.0
+63,PBS-unbounded,1,returned,True,completed,1.0
+64,PBS-unbounded,1,returned,True,completed,1.0
+65,PBS-unbounded,1,returned,True,completed,1.0
+66,PBS-unbounded,1,returned,True,completed,1.0
+67,PBS-unbounded,1,returned,True,completed,1.0
+68,PBS-unbounded,1,returned,True,completed,1.0
+69,PBS-unbounded,1,returned,True,completed,1.0
+70,PBS-unbounded,1,returned,True,completed,1.0
+71,PBS-unbounded,1,returned,True,completed,1.0
+72,PBS-unbounded,1,returned,True,completed,1.0
+73,PBS-unbounded,1,returned,True,completed,1.0
+74,PBS-unbounded,1,returned,True,completed,1.0
+75,PBS-unbounded,1,returned,True,completed,1.0
+76,PBS-unbounded,1,returned,True,completed,1.0
+77,PBS-unbounded,1,returned,True,completed,1.0
+78,PBS-unbounded,1,returned,True,completed,1.0
+79,PBS-unbounded,1,returned,True,completed,1.0
+80,PBS-unbounded,1,returned,True,completed,1.0
+81,PBS-unbounded,1,returned,True,completed,1.0
+82,PBS-unbounded,1,returned,True,completed,1.0
+83,PBS-unbounded,1,returned,True,completed,1.0
+84,PBS-unbounded,1,returned,True,completed,1.0
+85,PBS-unbounded,1,returned,True,completed,1.0
+86,PBS-unbounded,1,returned,True,completed,1.0
+87,PBS-unbounded,1,returned,True,completed,1.0
+88,PBS-unbounded,1,returned,True,completed,1.0
+89,PBS-unbounded,1,returned,True,completed,1.0
+90,PBS-unbounded,1,returned,True,completed,1.0
+91,PBS-unbounded,1,returned,True,completed,1.0
+92,PBS-unbounded,1,returned,True,completed,1.0
+93,PBS-unbounded,1,returned,True,completed,1.0
+94,PBS-unbounded,1,returned,True,completed,1.0
+95,PBS-unbounded,1,returned,True,completed,1.0
+96,PBS-unbounded,1,returned,True,completed,1.0
+97,PBS-unbounded,1,returned,True,completed,1.0
+98,PBS-unbounded,1,returned,True,completed,1.0
+99,PBS-unbounded,1,returned,True,completed,1.0
+0,Pareto-DP,1,returned,True,completed,1.0000000000000002
+1,Pareto-DP,1,returned,True,completed,1.0
+2,Pareto-DP,1,returned,True,completed,1.0
+3,Pareto-DP,1,returned,True,completed,1.0
+4,Pareto-DP,1,returned,True,completed,1.0
+5,Pareto-DP,1,returned,True,completed,1.0
+6,Pareto-DP,1,returned,True,completed,1.0
+7,Pareto-DP,1,returned,True,completed,1.0
+8,Pareto-DP,1,returned,True,completed,1.0
+9,Pareto-DP,1,returned,True,completed,1.0
+10,Pareto-DP,1,returned,True,completed,1.0
+11,Pareto-DP,1,returned,True,completed,1.0
+12,Pareto-DP,1,returned,True,completed,1.0
+13,Pareto-DP,1,returned,True,completed,1.0
+14,Pareto-DP,1,returned,True,completed,1.0
+15,Pareto-DP,1,returned,True,completed,1.0
+16,Pareto-DP,1,returned,True,completed,0.9999999999999998
+17,Pareto-DP,1,returned,True,completed,1.0
+18,Pareto-DP,1,returned,True,completed,1.0
+19,Pareto-DP,1,returned,True,completed,1.0
+20,Pareto-DP,1,returned,True,completed,1.0
+21,Pareto-DP,1,returned,True,completed,0.9999999999999998
+22,Pareto-DP,1,returned,True,completed,1.0
+23,Pareto-DP,1,returned,True,completed,1.0
+24,Pareto-DP,1,returned,True,completed,1.0
+25,Pareto-DP,1,returned,True,completed,1.0
+26,Pareto-DP,1,returned,True,completed,1.0
+27,Pareto-DP,1,returned,True,completed,1.0
+28,Pareto-DP,1,solver_timeout,False,cancelled,0.0
+29,Pareto-DP,1,returned,True,completed,1.0
+30,Pareto-DP,1,returned,True,completed,0.9999999999999996
+31,Pareto-DP,1,returned,True,completed,1.0
+32,Pareto-DP,1,returned,True,completed,1.0
+33,Pareto-DP,1,returned,True,completed,1.0
+34,Pareto-DP,1,returned,True,completed,1.0000000000000002
+35,Pareto-DP,1,returned,True,completed,1.0
+36,Pareto-DP,1,returned,True,completed,1.0
+37,Pareto-DP,1,returned,True,completed,1.0
+38,Pareto-DP,1,returned,True,completed,1.0
+39,Pareto-DP,1,returned,True,completed,1.0
+40,Pareto-DP,1,returned,True,completed,1.0
+41,Pareto-DP,1,returned,True,completed,1.0
+42,Pareto-DP,1,returned,True,completed,1.0
+43,Pareto-DP,1,returned,True,completed,1.0
+44,Pareto-DP,1,returned,True,completed,1.0
+45,Pareto-DP,1,returned,True,completed,1.0
+46,Pareto-DP,1,returned,True,completed,1.0
+47,Pareto-DP,1,returned,True,completed,1.0
+48,Pareto-DP,1,returned,True,completed,1.0
+49,Pareto-DP,1,returned,True,completed,1.0
+50,Pareto-DP,1,returned,True,completed,1.0
+51,Pareto-DP,1,returned,True,completed,1.0
+52,Pareto-DP,1,returned,True,completed,1.0000000000000002
+53,Pareto-DP,1,returned,True,completed,1.0
+54,Pareto-DP,1,returned,True,completed,1.0
+55,Pareto-DP,1,returned,True,completed,1.0
+56,Pareto-DP,1,returned,True,completed,1.0
+57,Pareto-DP,1,returned,True,completed,1.0
+58,Pareto-DP,1,returned,True,completed,1.0
+59,Pareto-DP,1,returned,True,completed,1.0
+60,Pareto-DP,1,returned,True,completed,1.0
+61,Pareto-DP,1,returned,True,completed,0.9999999999999998
+62,Pareto-DP,1,returned,True,completed,1.0
+63,Pareto-DP,1,returned,True,completed,1.0
+64,Pareto-DP,1,returned,True,completed,1.0
+65,Pareto-DP,1,returned,True,completed,1.0
+66,Pareto-DP,1,returned,True,completed,1.0
+67,Pareto-DP,1,returned,True,completed,1.0000000000000002
+68,Pareto-DP,1,returned,True,completed,1.0
+69,Pareto-DP,1,returned,True,completed,1.0
+70,Pareto-DP,1,returned,True,completed,1.0
+71,Pareto-DP,1,returned,True,completed,1.0
+72,Pareto-DP,1,returned,True,completed,1.0
+73,Pareto-DP,1,returned,True,completed,1.0
+74,Pareto-DP,1,returned,True,completed,1.0
+75,Pareto-DP,1,returned,True,completed,1.0000000000000002
+76,Pareto-DP,1,returned,True,completed,1.0
+77,Pareto-DP,1,returned,True,completed,1.0
+78,Pareto-DP,1,returned,True,completed,1.0
+79,Pareto-DP,1,returned,True,completed,1.0
+80,Pareto-DP,1,returned,True,completed,1.0
+81,Pareto-DP,1,returned,True,completed,1.0
+82,Pareto-DP,1,returned,True,completed,1.0
+83,Pareto-DP,1,returned,True,completed,1.0
+84,Pareto-DP,1,returned,True,completed,1.0
+85,Pareto-DP,1,returned,True,completed,1.0
+86,Pareto-DP,1,returned,True,completed,1.0
+87,Pareto-DP,1,returned,True,completed,1.0
+88,Pareto-DP,1,returned,True,completed,1.0
+89,Pareto-DP,1,returned,True,completed,1.0
+90,Pareto-DP,1,returned,True,completed,1.0
+91,Pareto-DP,1,returned,True,completed,1.0
+92,Pareto-DP,1,returned,True,completed,0.9999999999999998
+93,Pareto-DP,1,returned,True,completed,1.0
+94,Pareto-DP,1,returned,True,completed,1.0
+95,Pareto-DP,1,returned,True,completed,1.0000000000000002
+96,Pareto-DP,1,returned,True,completed,1.0000000000000004
+97,Pareto-DP,1,returned,True,completed,1.0
+98,Pareto-DP,1,returned,True,completed,1.0
+99,Pareto-DP,1,returned,True,completed,1.0
+0,eps-ILP g=4,1,returned,True,grid_complete,0.197688382694524
+1,eps-ILP g=4,1,returned,True,grid_complete,0.3779475047774719
+2,eps-ILP g=4,1,returned,True,grid_complete,0.6201549158766606
+3,eps-ILP g=4,1,returned,True,grid_complete,0.4286342865612407
+4,eps-ILP g=4,1,returned,True,grid_complete,0.7220772718012783
+5,eps-ILP g=4,1,returned,True,grid_complete,0.1726534510937137
+6,eps-ILP g=4,1,returned,True,grid_complete,0.3439794960587962
+7,eps-ILP g=4,1,returned,True,grid_complete,0.3344584928864497
+8,eps-ILP g=4,1,returned,True,grid_complete,0.3360313608076165
+9,eps-ILP g=4,1,returned,True,grid_complete,0.7791529246372335
+10,eps-ILP g=4,1,returned,True,grid_complete,0.0804860068460259
+11,eps-ILP g=4,1,returned,True,grid_complete,0.2906929487524067
+12,eps-ILP g=4,1,returned,True,grid_complete,0.5067095624392199
+13,eps-ILP g=4,1,returned,True,grid_complete,0.452108955775211
+14,eps-ILP g=4,1,returned,True,grid_complete,0.2682125719354397
+15,eps-ILP g=4,1,returned,True,grid_complete,0.3692669672489375
+16,eps-ILP g=4,1,returned,True,grid_complete,0.4593501188819411
+17,eps-ILP g=4,1,returned,True,grid_complete,0.0765117526542527
+18,eps-ILP g=4,1,returned,True,grid_complete,0.3492838753654987
+19,eps-ILP g=4,1,returned,True,grid_complete,0.7275896101758436
+20,eps-ILP g=4,1,returned,True,grid_complete,0.5906546162634306
+21,eps-ILP g=4,1,returned,True,grid_complete,0.5044927277669613
+22,eps-ILP g=4,1,returned,True,grid_complete,0.872781134285844
+23,eps-ILP g=4,1,returned,True,grid_complete,0.2595337156333832
+24,eps-ILP g=4,1,returned,True,grid_complete,0.5154067878299803
+25,eps-ILP g=4,1,returned,True,grid_complete,0.4534846474292426
+26,eps-ILP g=4,1,returned,True,grid_complete,0.632837985490583
+27,eps-ILP g=4,1,returned,True,grid_complete,0.3137273131625671
+28,eps-ILP g=4,1,returned,True,grid_complete,0.2872595876193147
+29,eps-ILP g=4,1,returned,True,grid_complete,0.6255272665938173
+30,eps-ILP g=4,1,returned,True,grid_complete,0.3480464191735604
+31,eps-ILP g=4,1,returned,True,grid_complete,0.6523673121918812
+32,eps-ILP g=4,1,returned,True,grid_complete,0.5863960086873208
+33,eps-ILP g=4,1,returned,True,grid_complete,0.4217024025791568
+34,eps-ILP g=4,1,returned,True,grid_complete,0.3656122471608997
+35,eps-ILP g=4,1,returned,True,grid_complete,0.8866910199997591
+36,eps-ILP g=4,1,returned,True,grid_complete,0.2866756259726019
+37,eps-ILP g=4,1,returned,True,grid_complete,0.5247079261696176
+38,eps-ILP g=4,1,returned,True,grid_complete,0.4556129042812397
+39,eps-ILP g=4,1,returned,True,grid_complete,0.2569541467321299
+40,eps-ILP g=4,1,returned,True,grid_complete,0.4362028365576857
+41,eps-ILP g=4,1,returned,True,grid_complete,0.4547800832934766
+42,eps-ILP g=4,1,returned,True,grid_complete,0.8131532446105767
+43,eps-ILP g=4,1,returned,True,grid_complete,0.8737660360676596
+44,eps-ILP g=4,1,returned,True,grid_complete,0.1724167883508288
+45,eps-ILP g=4,1,returned,True,grid_complete,0.4496573372729651
+46,eps-ILP g=4,1,returned,True,grid_complete,0.4363303336706935
+47,eps-ILP g=4,1,returned,True,grid_complete,0.3811937279047283
+48,eps-ILP g=4,1,returned,True,grid_complete,0.7683346311495014
+49,eps-ILP g=4,1,returned,True,grid_complete,0.4459209027044239
+50,eps-ILP g=4,1,returned,True,grid_complete,0.0815972977815958
+51,eps-ILP g=4,1,returned,True,grid_complete,0.398209947232112
+52,eps-ILP g=4,1,returned,True,grid_complete,0.5946193139096173
+53,eps-ILP g=4,1,returned,True,grid_complete,0.2562743687083416
+54,eps-ILP g=4,1,returned,True,grid_complete,0.3607130723504628
+55,eps-ILP g=4,1,returned,True,grid_complete,0.2575925702335126
+56,eps-ILP g=4,1,returned,True,grid_complete,0.3796803934690718
+57,eps-ILP g=4,1,returned,True,grid_complete,0.5017484745300702
+58,eps-ILP g=4,1,returned,True,grid_complete,0.3846387046809557
+59,eps-ILP g=4,1,returned,True,grid_complete,0.4036588222102324
+60,eps-ILP g=4,1,returned,True,grid_complete,0.0190380646671161
+61,eps-ILP g=4,1,returned,True,grid_complete,0.3221244282998367
+62,eps-ILP g=4,1,returned,True,grid_complete,0.4187325473306658
+63,eps-ILP g=4,1,returned,True,grid_complete,0.4390941503155646
+64,eps-ILP g=4,1,returned,True,grid_complete,0.5760190673092446
+65,eps-ILP g=4,1,returned,True,grid_complete,0.4163439443552173
+66,eps-ILP g=4,1,returned,True,grid_complete,0.4130911780346524
+67,eps-ILP g=4,1,returned,True,grid_complete,0.4487863561088551
+68,eps-ILP g=4,1,returned,True,grid_complete,0.4789484418618698
+69,eps-ILP g=4,1,returned,True,grid_complete,0.3392844315010928
+70,eps-ILP g=4,1,returned,True,grid_complete,0.6111828629227068
+71,eps-ILP g=4,1,returned,True,grid_complete,0.3478697680758412
+72,eps-ILP g=4,1,returned,True,grid_complete,0.26463167411124
+73,eps-ILP g=4,1,returned,True,grid_complete,0.2613964901005003
+74,eps-ILP g=4,1,returned,True,grid_complete,0.2035293208638368
+75,eps-ILP g=4,1,returned,True,grid_complete,0.725181265808833
+76,eps-ILP g=4,1,returned,True,grid_complete,0.3319119642009516
+77,eps-ILP g=4,1,returned,True,grid_complete,0.5083343159374379
+78,eps-ILP g=4,1,returned,True,grid_complete,0.4127829525011405
+79,eps-ILP g=4,1,returned,True,grid_complete,0.0056291375007927
+80,eps-ILP g=4,1,returned,True,grid_complete,0.5750202573909322
+81,eps-ILP g=4,1,returned,True,grid_complete,0.5671840526257251
+82,eps-ILP g=4,1,returned,True,grid_complete,0.2133818358355491
+83,eps-ILP g=4,1,returned,True,grid_complete,0.1694442102024111
+84,eps-ILP g=4,1,returned,True,grid_complete,0.5113001444764126
+85,eps-ILP g=4,1,returned,True,grid_complete,0.4633653484759727
+86,eps-ILP g=4,1,returned,True,grid_complete,0.2106126903940352
+87,eps-ILP g=4,1,returned,True,grid_complete,0.3793772351746216
+88,eps-ILP g=4,1,returned,True,grid_complete,0.6238848670671742
+89,eps-ILP g=4,1,returned,True,grid_complete,0.7390722092309089
+90,eps-ILP g=4,1,returned,True,grid_complete,0.3470005269116514
+91,eps-ILP g=4,1,returned,True,grid_complete,0.583028048281598
+92,eps-ILP g=4,1,returned,True,grid_complete,0.4249449902589666
+93,eps-ILP g=4,1,returned,True,grid_complete,0.5416863030802214
+94,eps-ILP g=4,1,returned,True,grid_complete,0.4998400465997925
+95,eps-ILP g=4,1,returned,True,grid_complete,0.2079710220467862
+96,eps-ILP g=4,1,returned,True,grid_complete,0.4953564817422736
+97,eps-ILP g=4,1,returned,True,grid_complete,0.6526073588744676
+98,eps-ILP g=4,1,returned,True,grid_complete,0.3499212963875626
+99,eps-ILP g=4,1,returned,True,grid_complete,0.5620239126880424
+0,eps-ILP g=8,1,returned,True,grid_complete,0.526999933127236
+1,eps-ILP g=8,1,returned,True,grid_complete,0.7476701668260441
+2,eps-ILP g=8,1,returned,True,grid_complete,0.8117712662220898
+3,eps-ILP g=8,1,returned,True,grid_complete,0.6646804730888959
+4,eps-ILP g=8,1,returned,True,grid_complete,0.7538380396645664
+5,eps-ILP g=8,1,returned,True,grid_complete,0.1726534510937137
+6,eps-ILP g=8,1,returned,True,grid_complete,0.7205327608198311
+7,eps-ILP g=8,1,returned,True,grid_complete,0.6714810819094054
+8,eps-ILP g=8,1,returned,True,grid_complete,0.8178208829190604
+9,eps-ILP g=8,1,returned,True,grid_complete,0.8343972604629897
+10,eps-ILP g=8,1,returned,True,grid_complete,0.6739368504432186
+11,eps-ILP g=8,1,returned,True,grid_complete,0.8756867430937585
+12,eps-ILP g=8,1,returned,True,grid_complete,0.750616535966414
+13,eps-ILP g=8,1,returned,True,grid_complete,0.9151433546121592
+14,eps-ILP g=8,1,returned,True,grid_complete,0.7354548074779986
+15,eps-ILP g=8,1,returned,True,grid_complete,0.7302926890160026
+16,eps-ILP g=8,1,returned,True,grid_complete,0.5393429879967089
+17,eps-ILP g=8,1,returned,True,grid_complete,0.6414326287104822
+18,eps-ILP g=8,1,returned,True,grid_complete,0.7782023749494497
+19,eps-ILP g=8,1,returned,True,grid_complete,0.8736043298458346
+20,eps-ILP g=8,1,returned,True,grid_complete,0.8286203140429178
+21,eps-ILP g=8,1,returned,True,grid_complete,0.6389183439767887
+22,eps-ILP g=8,1,returned,True,grid_complete,0.977834085785486
+23,eps-ILP g=8,1,returned,True,grid_complete,0.6869977905487855
+24,eps-ILP g=8,1,returned,True,grid_complete,0.5925995720878214
+25,eps-ILP g=8,1,returned,True,grid_complete,0.7788865738016671
+26,eps-ILP g=8,1,returned,True,grid_complete,0.7797647705543171
+27,eps-ILP g=8,1,returned,True,grid_complete,0.6633930381650518
+28,eps-ILP g=8,1,returned,True,grid_complete,0.7209841119777226
+29,eps-ILP g=8,1,returned,True,grid_complete,0.8576252602621323
+30,eps-ILP g=8,1,returned,True,grid_complete,0.4529400530333123
+31,eps-ILP g=8,1,returned,True,grid_complete,0.883483473698849
+32,eps-ILP g=8,1,returned,True,grid_complete,0.8305004181950281
+33,eps-ILP g=8,1,returned,True,grid_complete,0.7061918365779744
+34,eps-ILP g=8,1,returned,True,grid_complete,0.528528348786612
+35,eps-ILP g=8,1,returned,True,grid_complete,0.9699170860336168
+36,eps-ILP g=8,1,returned,True,grid_complete,0.6160810755017988
+37,eps-ILP g=8,1,returned,True,grid_complete,0.7237795029855705
+38,eps-ILP g=8,1,returned,True,grid_complete,0.8005702938295196
+39,eps-ILP g=8,1,returned,True,grid_complete,0.7786500669410519
+40,eps-ILP g=8,1,returned,True,grid_complete,0.6576128482413914
+41,eps-ILP g=8,1,returned,True,grid_complete,0.6267106289645286
+42,eps-ILP g=8,1,returned,True,grid_complete,0.8240187538637053
+43,eps-ILP g=8,1,returned,True,grid_complete,0.912038216025982
+44,eps-ILP g=8,1,returned,True,grid_complete,0.3442697625836056
+45,eps-ILP g=8,1,returned,True,grid_complete,0.7795049036972548
+46,eps-ILP g=8,1,returned,True,grid_complete,0.7679168814221546
+47,eps-ILP g=8,1,returned,True,grid_complete,0.7555938894181801
+48,eps-ILP g=8,1,returned,True,grid_complete,0.8327136533539288
+49,eps-ILP g=8,1,returned,True,grid_complete,0.8408488145753072
+50,eps-ILP g=8,1,returned,True,grid_complete,0.4253392932135219
+51,eps-ILP g=8,1,returned,True,grid_complete,0.748997140707398
+52,eps-ILP g=8,1,returned,True,grid_complete,0.7802395846584385
+53,eps-ILP g=8,1,returned,True,grid_complete,0.6921192294211135
+54,eps-ILP g=8,1,returned,True,grid_complete,0.6705359767263753
+55,eps-ILP g=8,1,returned,True,grid_complete,0.7107145089436997
+56,eps-ILP g=8,1,returned,True,grid_complete,0.736874521659582
+57,eps-ILP g=8,1,returned,True,grid_complete,0.8263906998655655
+58,eps-ILP g=8,1,returned,True,grid_complete,0.7149377310416257
+59,eps-ILP g=8,1,returned,True,grid_complete,0.7190801351705234
+60,eps-ILP g=8,1,returned,True,grid_complete,0.7917143444149094
+61,eps-ILP g=8,1,returned,True,grid_complete,0.7638650584100198
+62,eps-ILP g=8,1,returned,True,grid_complete,0.6720928917288431
+63,eps-ILP g=8,1,returned,True,grid_complete,0.7505585885183058
+64,eps-ILP g=8,1,returned,True,grid_complete,0.7614094747712246
+65,eps-ILP g=8,1,returned,True,grid_complete,0.8256646017003766
+66,eps-ILP g=8,1,returned,True,grid_complete,0.732876242784578
+67,eps-ILP g=8,1,returned,True,grid_complete,0.5893941942517151
+68,eps-ILP g=8,1,returned,True,grid_complete,0.6573735220577481
+69,eps-ILP g=8,1,returned,True,grid_complete,0.6117977936196825
+70,eps-ILP g=8,1,returned,True,grid_complete,0.841612181596771
+71,eps-ILP g=8,1,returned,True,grid_complete,0.7214280181924951
+72,eps-ILP g=8,1,returned,True,grid_complete,0.7097718540707515
+73,eps-ILP g=8,1,returned,True,grid_complete,0.6620055370918518
+74,eps-ILP g=8,1,returned,True,grid_complete,0.7847940618675022
+75,eps-ILP g=8,1,returned,True,grid_complete,0.7794459261387675
+76,eps-ILP g=8,1,returned,True,grid_complete,0.7044777849897735
+77,eps-ILP g=8,1,returned,True,grid_complete,0.5419537416930255
+78,eps-ILP g=8,1,returned,True,grid_complete,0.4749744923673736
+79,eps-ILP g=8,1,returned,True,grid_complete,0.3818865589208786
+80,eps-ILP g=8,1,returned,True,grid_complete,0.7706395741440737
+81,eps-ILP g=8,1,returned,True,grid_complete,0.7611284190390488
+82,eps-ILP g=8,1,returned,True,grid_complete,0.7031723351535654
+83,eps-ILP g=8,1,returned,True,grid_complete,0.7726691976234934
+84,eps-ILP g=8,1,returned,True,grid_complete,0.7118918929536463
+85,eps-ILP g=8,1,returned,True,grid_complete,0.7815663251669538
+86,eps-ILP g=8,1,returned,True,grid_complete,0.6757771834613191
+87,eps-ILP g=8,1,returned,True,grid_complete,0.6238921342956318
+88,eps-ILP g=8,1,returned,True,grid_complete,0.8132380167025035
+89,eps-ILP g=8,1,returned,True,grid_complete,0.8382854156380473
+90,eps-ILP g=8,1,returned,True,grid_complete,0.573382504222928
+91,eps-ILP g=8,1,returned,True,grid_complete,0.8022368096376218
+92,eps-ILP g=8,1,returned,True,grid_complete,0.7064965403031119
+93,eps-ILP g=8,1,returned,True,grid_complete,0.7520666531957186
+94,eps-ILP g=8,1,returned,True,grid_complete,0.8094927637849028
+95,eps-ILP g=8,1,returned,True,grid_complete,0.6888387879104534
+96,eps-ILP g=8,1,returned,True,grid_complete,0.6431265976041491
+97,eps-ILP g=8,1,returned,True,grid_complete,0.8669625214688222
+98,eps-ILP g=8,1,returned,True,grid_complete,0.8084437795804983
+99,eps-ILP g=8,1,returned,True,grid_complete,0.985894984362296
+0,eps-ILP g=16,1,returned,True,grid_complete,0.76800064177628
+1,eps-ILP g=16,1,returned,True,grid_complete,0.9169209360490972
+2,eps-ILP g=16,1,returned,True,grid_complete,0.8924024453242033
+3,eps-ILP g=16,1,returned,True,grid_complete,0.7854643606466263
+4,eps-ILP g=16,1,returned,True,grid_complete,0.96443479322856
+5,eps-ILP g=16,1,returned,True,grid_complete,0.7394265767195539
+6,eps-ILP g=16,1,returned,True,grid_complete,0.8818726783143399
+7,eps-ILP g=16,1,returned,True,grid_complete,0.8906215761486455
+8,eps-ILP g=16,1,returned,True,grid_complete,0.8344497794689895
+9,eps-ILP g=16,1,returned,True,grid_complete,0.8506356618958122
+10,eps-ILP g=16,1,returned,True,grid_complete,0.8518676810133318
+11,eps-ILP g=16,1,returned,True,grid_complete,0.9392306883395972
+12,eps-ILP g=16,1,returned,True,grid_complete,0.8711869305315287
+13,eps-ILP g=16,1,returned,True,grid_complete,0.9500389449508064
+14,eps-ILP g=16,1,returned,True,grid_complete,0.8333144572675089
+15,eps-ILP g=16,1,returned,True,grid_complete,0.7265661836459114
+16,eps-ILP g=16,1,returned,True,grid_complete,0.7329870943109508
+17,eps-ILP g=16,1,returned,True,grid_complete,0.7889599776872274
+18,eps-ILP g=16,1,returned,True,grid_complete,0.9183482028046462
+19,eps-ILP g=16,1,returned,True,grid_complete,0.9615504258611156
+20,eps-ILP g=16,1,returned,True,grid_complete,0.9363366954748988
+21,eps-ILP g=16,1,returned,True,grid_complete,0.8645443378791676
+22,eps-ILP g=16,1,returned,True,grid_complete,0.9782575351606796
+23,eps-ILP g=16,1,returned,True,grid_complete,0.8407770029967161
+24,eps-ILP g=16,1,returned,True,grid_complete,0.8312260490101557
+25,eps-ILP g=16,1,returned,True,grid_complete,0.9536481244016948
+26,eps-ILP g=16,1,returned,True,grid_complete,0.9434719129745124
+27,eps-ILP g=16,1,returned,True,grid_complete,0.8595115887137299
+28,eps-ILP g=16,1,returned,True,grid_complete,0.8478612012622652
+29,eps-ILP g=16,1,returned,True,grid_complete,0.9387583746037924
+30,eps-ILP g=16,1,returned,True,grid_complete,0.8094424397435146
+31,eps-ILP g=16,1,returned,True,grid_complete,0.92388608880439
+32,eps-ILP g=16,1,returned,True,grid_complete,0.955202169492826
+33,eps-ILP g=16,1,returned,True,grid_complete,0.8669127504049888
+34,eps-ILP g=16,1,returned,True,grid_complete,0.8371386783412078
+35,eps-ILP g=16,1,returned,True,grid_complete,0.9860531562090744
+36,eps-ILP g=16,1,returned,True,grid_complete,0.7717240873264127
+37,eps-ILP g=16,1,returned,True,grid_complete,0.8832285934886424
+38,eps-ILP g=16,1,returned,True,grid_complete,0.9020785029476248
+39,eps-ILP g=16,1,returned,True,grid_complete,0.840355752658188
+40,eps-ILP g=16,1,returned,True,grid_complete,0.7410924066921223
+41,eps-ILP g=16,1,returned,True,grid_complete,0.855172610554304
+42,eps-ILP g=16,1,returned,True,grid_complete,0.949549962272704
+43,eps-ILP g=16,1,returned,True,grid_complete,0.9883745133721604
+44,eps-ILP g=16,1,returned,True,grid_complete,0.7911383104208624
+45,eps-ILP g=16,1,returned,True,grid_complete,0.8766403907324837
+46,eps-ILP g=16,1,returned,True,grid_complete,0.8785175899861315
+47,eps-ILP g=16,1,returned,True,grid_complete,0.8782903601526182
+48,eps-ILP g=16,1,returned,True,grid_complete,0.915901717970885
+49,eps-ILP g=16,1,returned,True,grid_complete,0.9089198705216714
+50,eps-ILP g=16,1,returned,True,grid_complete,0.7528317062550545
+51,eps-ILP g=16,1,returned,True,grid_complete,0.8763175214241271
+52,eps-ILP g=16,1,returned,True,grid_complete,0.8764056870981567
+53,eps-ILP g=16,1,returned,True,grid_complete,0.8852378854176889
+54,eps-ILP g=16,1,returned,True,grid_complete,0.7721249285926661
+55,eps-ILP g=16,1,returned,True,grid_complete,0.914902839215788
+56,eps-ILP g=16,1,returned,True,grid_complete,0.9129637571643856
+57,eps-ILP g=16,1,returned,True,grid_complete,0.9372249537924514
+58,eps-ILP g=16,1,returned,True,grid_complete,0.9443555958704564
+59,eps-ILP g=16,1,returned,True,grid_complete,0.8872567123090483
+60,eps-ILP g=16,1,returned,True,grid_complete,0.8566278915672505
+61,eps-ILP g=16,1,returned,True,grid_complete,0.8803677358889492
+62,eps-ILP g=16,1,returned,True,grid_complete,0.8766143174665091
+63,eps-ILP g=16,1,returned,True,grid_complete,0.9874786405549456
+64,eps-ILP g=16,1,returned,True,grid_complete,0.8328992596014612
+65,eps-ILP g=16,1,returned,True,grid_complete,0.8971211367953148
+66,eps-ILP g=16,1,returned,True,grid_complete,0.9049302731807802
+67,eps-ILP g=16,1,returned,True,grid_complete,0.8116015573325015
+68,eps-ILP g=16,1,returned,True,grid_complete,0.9027177603254471
+69,eps-ILP g=16,1,returned,True,grid_complete,0.8787842981753435
+70,eps-ILP g=16,1,returned,True,grid_complete,0.9173051053644802
+71,eps-ILP g=16,1,returned,True,grid_complete,0.9141219220246892
+72,eps-ILP g=16,1,returned,True,grid_complete,0.8801308642998127
+73,eps-ILP g=16,1,returned,True,grid_complete,0.8984563530242601
+74,eps-ILP g=16,1,returned,True,grid_complete,0.9577794405660692
+75,eps-ILP g=16,1,returned,True,grid_complete,0.91562658627989
+76,eps-ILP g=16,1,returned,True,grid_complete,0.8930253197132956
+77,eps-ILP g=16,1,returned,True,grid_complete,0.8251853971354177
+78,eps-ILP g=16,1,returned,True,grid_complete,0.8247097766993337
+79,eps-ILP g=16,1,returned,True,grid_complete,0.484251644908721
+80,eps-ILP g=16,1,returned,True,grid_complete,0.9274006765739086
+81,eps-ILP g=16,1,returned,True,grid_complete,0.9132167468065606
+82,eps-ILP g=16,1,returned,True,grid_complete,0.8915442905450759
+83,eps-ILP g=16,1,returned,True,grid_complete,0.9324234238513716
+84,eps-ILP g=16,1,returned,True,grid_complete,0.9202110933640348
+85,eps-ILP g=16,1,returned,True,grid_complete,0.9274419482889792
+86,eps-ILP g=16,1,returned,True,grid_complete,0.8313261263607902
+87,eps-ILP g=16,1,returned,True,grid_complete,0.8922955735640008
+88,eps-ILP g=16,1,returned,True,grid_complete,0.8902245078885216
+89,eps-ILP g=16,1,returned,True,grid_complete,0.880022875905979
+90,eps-ILP g=16,1,returned,True,grid_complete,0.843336386973059
+91,eps-ILP g=16,1,returned,True,grid_complete,0.8823058112532415
+92,eps-ILP g=16,1,returned,True,grid_complete,0.8721634679336835
+93,eps-ILP g=16,1,returned,True,grid_complete,0.8929022910680895
+94,eps-ILP g=16,1,returned,True,grid_complete,0.947073083348404
+95,eps-ILP g=16,1,returned,True,grid_complete,0.8719794150666152
+96,eps-ILP g=16,1,returned,True,grid_complete,0.8734831573806187
+97,eps-ILP g=16,1,returned,True,grid_complete,0.9491987496353932
+98,eps-ILP g=16,1,returned,True,grid_complete,0.9344660238670708
+99,eps-ILP g=16,1,returned,True,grid_complete,0.985894984362296
+0,PBF,1,work_limit,False,combination_limit,0.0
+1,PBF,1,work_limit,False,combination_limit,0.0
+2,PBF,1,work_limit,False,combination_limit,0.0
+3,PBF,1,work_limit,False,combination_limit,0.0
+4,PBF,1,returned,True,complete,1.0
+5,PBF,1,solver_timeout,False,timeout,0.6536989333263541
+6,PBF,1,work_limit,False,combination_limit,0.0
+7,PBF,1,work_limit,False,combination_limit,0.0
+8,PBF,1,work_limit,False,combination_limit,0.0
+9,PBF,1,work_limit,False,combination_limit,0.0
+10,PBF,1,work_limit,False,combination_limit,0.0
+11,PBF,1,returned,True,complete,1.0
+12,PBF,1,work_limit,False,combination_limit,0.0
+13,PBF,1,returned,True,complete,0.9999999999999998
+14,PBF,1,work_limit,False,combination_limit,0.0
+15,PBF,1,work_limit,False,combination_limit,0.0
+16,PBF,1,work_limit,False,combination_limit,0.0
+17,PBF,1,work_limit,False,combination_limit,0.0
+18,PBF,1,work_limit,False,combination_limit,0.0
+19,PBF,1,returned,True,complete,1.0
+20,PBF,1,returned,True,complete,1.0
+21,PBF,1,work_limit,False,combination_limit,0.0
+22,PBF,1,returned,True,complete,1.0
+23,PBF,1,work_limit,False,combination_limit,0.0
+24,PBF,1,work_limit,False,combination_limit,0.0
+25,PBF,1,returned,True,complete,1.0
+26,PBF,1,solver_timeout,False,timeout,0.9823352556959428
+27,PBF,1,work_limit,False,combination_limit,0.0
+28,PBF,1,work_limit,False,combination_limit,0.0
+29,PBF,1,returned,True,complete,1.0
+30,PBF,1,work_limit,False,combination_limit,0.0
+31,PBF,1,returned,True,complete,1.0
+32,PBF,1,work_limit,False,combination_limit,0.0
+33,PBF,1,work_limit,False,combination_limit,0.0
+34,PBF,1,work_limit,False,combination_limit,0.0
+35,PBF,1,returned,True,complete,1.0
+36,PBF,1,work_limit,False,combination_limit,0.0
+37,PBF,1,work_limit,False,combination_limit,0.0
+38,PBF,1,work_limit,False,combination_limit,0.0
+39,PBF,1,work_limit,False,combination_limit,0.0
+40,PBF,1,work_limit,False,combination_limit,0.0
+41,PBF,1,work_limit,False,combination_limit,0.0
+42,PBF,1,returned,True,complete,1.0
+43,PBF,1,returned,True,complete,1.0
+44,PBF,1,work_limit,False,combination_limit,0.0
+45,PBF,1,work_limit,False,combination_limit,0.0
+46,PBF,1,work_limit,False,combination_limit,0.0
+47,PBF,1,work_limit,False,combination_limit,0.0
+48,PBF,1,work_limit,False,combination_limit,0.0
+49,PBF,1,work_limit,False,combination_limit,0.0
+50,PBF,1,work_limit,False,combination_limit,0.0
+51,PBF,1,work_limit,False,combination_limit,0.0
+52,PBF,1,returned,True,complete,1.0
+53,PBF,1,work_limit,False,combination_limit,0.0
+54,PBF,1,work_limit,False,combination_limit,0.0
+55,PBF,1,work_limit,False,combination_limit,0.0
+56,PBF,1,work_limit,False,combination_limit,0.0
+57,PBF,1,work_limit,False,combination_limit,0.0
+58,PBF,1,work_limit,False,combination_limit,0.0
+59,PBF,1,work_limit,False,combination_limit,0.0
+60,PBF,1,work_limit,False,combination_limit,0.0
+61,PBF,1,work_limit,False,combination_limit,0.0
+62,PBF,1,work_limit,False,combination_limit,0.0
+63,PBF,1,returned,True,complete,1.0
+64,PBF,1,work_limit,False,combination_limit,0.0
+65,PBF,1,work_limit,False,combination_limit,0.0
+66,PBF,1,returned,True,complete,1.0
+67,PBF,1,work_limit,False,combination_limit,0.0
+68,PBF,1,work_limit,False,combination_limit,0.0
+69,PBF,1,work_limit,False,combination_limit,0.0
+70,PBF,1,work_limit,False,combination_limit,0.0
+71,PBF,1,work_limit,False,combination_limit,0.0
+72,PBF,1,work_limit,False,combination_limit,0.0
+73,PBF,1,work_limit,False,combination_limit,0.0
+74,PBF,1,returned,True,complete,1.0
+75,PBF,1,work_limit,False,combination_limit,0.0
+76,PBF,1,work_limit,False,combination_limit,0.0
+77,PBF,1,work_limit,False,combination_limit,0.0
+78,PBF,1,work_limit,False,combination_limit,0.0
+79,PBF,1,work_limit,False,combination_limit,0.0
+80,PBF,1,work_limit,False,combination_limit,0.0
+81,PBF,1,work_limit,False,combination_limit,0.0
+82,PBF,1,work_limit,False,combination_limit,0.0
+83,PBF,1,returned,True,complete,1.0
+84,PBF,1,work_limit,False,combination_limit,0.0
+85,PBF,1,work_limit,False,combination_limit,0.0
+86,PBF,1,work_limit,False,combination_limit,0.0
+87,PBF,1,work_limit,False,combination_limit,0.0
+88,PBF,1,work_limit,False,combination_limit,0.0
+89,PBF,1,work_limit,False,combination_limit,0.0
+90,PBF,1,work_limit,False,combination_limit,0.0
+91,PBF,1,work_limit,False,combination_limit,0.0
+92,PBF,1,work_limit,False,combination_limit,0.0
+93,PBF,1,work_limit,False,combination_limit,0.0
+94,PBF,1,work_limit,False,combination_limit,0.0
+95,PBF,1,returned,True,complete,1.0000000000000002
+96,PBF,1,work_limit,False,combination_limit,0.0
+97,PBF,1,returned,True,complete,1.0
+98,PBF,1,work_limit,False,combination_limit,0.0
+99,PBF,1,returned,True,complete,1.0
+0,WS-28,1,returned,True,configured_work_complete,0.6191061058130619
+1,WS-28,1,returned,True,configured_work_complete,0.488295163826179
+2,WS-28,1,returned,True,configured_work_complete,0.6145669594431596
+3,WS-28,1,returned,True,configured_work_complete,0.489198847646714
+4,WS-28,1,returned,True,configured_work_complete,0.6637447743785883
+5,WS-28,1,returned,True,configured_work_complete,0.8463836767294834
+6,WS-28,1,returned,True,configured_work_complete,0.5634732670523386
+7,WS-28,1,returned,True,configured_work_complete,0.7827086234761029
+8,WS-28,1,returned,True,configured_work_complete,0.3788188918089649
+9,WS-28,1,returned,True,configured_work_complete,0.8903397729330327
+10,WS-28,1,returned,True,configured_work_complete,0.4632257541056735
+11,WS-28,1,returned,True,configured_work_complete,0.4012597110778964
+12,WS-28,1,returned,True,configured_work_complete,0.1779606334350005
+13,WS-28,1,returned,True,configured_work_complete,0.925532014330277
+14,WS-28,1,returned,True,configured_work_complete,0.6334729110397774
+15,WS-28,1,returned,True,configured_work_complete,0.7444411501059377
+16,WS-28,1,returned,True,configured_work_complete,0.811697422465507
+17,WS-28,1,returned,True,configured_work_complete,0.1078314085967156
+18,WS-28,1,returned,True,configured_work_complete,0.7057579513205683
+19,WS-28,1,returned,True,configured_work_complete,0.2597442170686652
+20,WS-28,1,returned,True,configured_work_complete,0.8501694473960092
+21,WS-28,1,returned,True,configured_work_complete,0.798871695815941
+22,WS-28,1,returned,True,configured_work_complete,0.921130392586791
+23,WS-28,1,returned,True,configured_work_complete,0.6772612149582233
+24,WS-28,1,returned,True,configured_work_complete,0.1572183536407709
+25,WS-28,1,returned,True,configured_work_complete,0.5439810899141084
+26,WS-28,1,returned,True,configured_work_complete,0.6359124029011033
+27,WS-28,1,returned,True,configured_work_complete,0.6455407309366704
+28,WS-28,1,returned,True,configured_work_complete,0.7821643134331832
+29,WS-28,1,returned,True,configured_work_complete,0.1922616660840816
+30,WS-28,1,returned,True,configured_work_complete,0.8456743756443625
+31,WS-28,1,returned,True,configured_work_complete,0.3522720460173565
+32,WS-28,1,returned,True,configured_work_complete,0.5781585125536798
+33,WS-28,1,returned,True,configured_work_complete,0.4581810014826243
+34,WS-28,1,returned,True,configured_work_complete,0.7457688319682735
+35,WS-28,1,returned,True,configured_work_complete,0.3859674076308823
+36,WS-28,1,returned,True,configured_work_complete,0.1883171008888134
+37,WS-28,1,returned,True,configured_work_complete,0.6930784238876403
+38,WS-28,1,returned,True,configured_work_complete,0.5306459552394093
+39,WS-28,1,returned,True,configured_work_complete,0.5772683210245109
+40,WS-28,1,returned,True,configured_work_complete,0.2715354427835071
+41,WS-28,1,returned,True,configured_work_complete,0.1407052552166284
+42,WS-28,1,returned,True,configured_work_complete,0.9546385469490924
+43,WS-28,1,returned,True,configured_work_complete,0.6057953800028438
+44,WS-28,1,returned,True,configured_work_complete,0.7690793464151666
+45,WS-28,1,returned,True,configured_work_complete,0.6346111706243259
+46,WS-28,1,returned,True,configured_work_complete,0.4476808147989352
+47,WS-28,1,returned,True,configured_work_complete,0.2853945805219917
+48,WS-28,1,returned,True,configured_work_complete,0.757364072276001
+49,WS-28,1,returned,True,configured_work_complete,0.677556707791118
+50,WS-28,1,returned,True,configured_work_complete,0.7474127586868883
+51,WS-28,1,returned,True,configured_work_complete,0.3428248340068368
+52,WS-28,1,returned,True,configured_work_complete,0.6809717549522956
+53,WS-28,1,returned,True,configured_work_complete,0.5741978105086172
+54,WS-28,1,returned,True,configured_work_complete,0.5558437998323945
+55,WS-28,1,returned,True,configured_work_complete,0.4775832907663422
+56,WS-28,1,returned,True,configured_work_complete,0.6580635252849677
+57,WS-28,1,returned,True,configured_work_complete,0.5646221342557789
+58,WS-28,1,returned,True,configured_work_complete,0.4969362134236367
+59,WS-28,1,returned,True,configured_work_complete,0.6080008432249838
+60,WS-28,1,returned,True,configured_work_complete,0.2198386557557307
+61,WS-28,1,returned,True,configured_work_complete,0.6575672206910652
+62,WS-28,1,returned,True,configured_work_complete,0.2457947832724756
+63,WS-28,1,returned,True,configured_work_complete,0.5950755163151968
+64,WS-28,1,returned,True,configured_work_complete,0.1938602725366045
+65,WS-28,1,returned,True,configured_work_complete,0.4085798459632142
+66,WS-28,1,returned,True,configured_work_complete,0.7436461997938727
+67,WS-28,1,returned,True,configured_work_complete,0.7063668294235815
+68,WS-28,1,returned,True,configured_work_complete,0.422607400010158
+69,WS-28,1,returned,True,configured_work_complete,0.6005255706465307
+70,WS-28,1,returned,True,configured_work_complete,0.4182481846821452
+71,WS-28,1,returned,True,configured_work_complete,0.6957222612796136
+72,WS-28,1,returned,True,configured_work_complete,0.5038979937407337
+73,WS-28,1,returned,True,configured_work_complete,0.6024541937930836
+74,WS-28,1,returned,True,configured_work_complete,0.5910686863773023
+75,WS-28,1,returned,True,configured_work_complete,0.6734738895815864
+76,WS-28,1,returned,True,configured_work_complete,0.4338776753960667
+77,WS-28,1,returned,True,configured_work_complete,0.6839878475041614
+78,WS-28,1,returned,True,configured_work_complete,0.6917072399611787
+79,WS-28,1,returned,True,configured_work_complete,0.5599535268451055
+80,WS-28,1,returned,True,configured_work_complete,0.2788658820476409
+81,WS-28,1,returned,True,configured_work_complete,0.5352190187443263
+82,WS-28,1,returned,True,configured_work_complete,0.6555883760575758
+83,WS-28,1,returned,True,configured_work_complete,0.5806491417188873
+84,WS-28,1,returned,True,configured_work_complete,0.7663590999905976
+85,WS-28,1,returned,True,configured_work_complete,0.6871899042943679
+86,WS-28,1,returned,True,configured_work_complete,0.3198563239604463
+87,WS-28,1,returned,True,configured_work_complete,0.7446496252701086
+88,WS-28,1,returned,True,configured_work_complete,0.5787118672078596
+89,WS-28,1,returned,True,configured_work_complete,0.7799457141193613
+90,WS-28,1,returned,True,configured_work_complete,0.4646495661175396
+91,WS-28,1,returned,True,configured_work_complete,0.1885861238891598
+92,WS-28,1,returned,True,configured_work_complete,0.7155787767604449
+93,WS-28,1,returned,True,configured_work_complete,0.5984346940475872
+94,WS-28,1,returned,True,configured_work_complete,0.4661978747192884
+95,WS-28,1,returned,True,configured_work_complete,0.7693910730592409
+96,WS-28,1,returned,True,configured_work_complete,0.7321814591364281
+97,WS-28,1,returned,True,configured_work_complete,0.9311157684934128
+98,WS-28,1,returned,True,configured_work_complete,0.6200361589751769
+99,WS-28,1,returned,True,configured_work_complete,0.8728756343513796
+0,WS-253,1,returned,True,configured_work_complete,0.654467013756461
+1,WS-253,1,returned,True,configured_work_complete,0.6253417375457294
+2,WS-253,1,returned,True,configured_work_complete,0.853630056119851
+3,WS-253,1,returned,True,configured_work_complete,0.745366695539628
+4,WS-253,1,returned,True,configured_work_complete,0.8970150050828145
+5,WS-253,1,returned,True,configured_work_complete,0.8900886680952399
+6,WS-253,1,returned,True,configured_work_complete,0.619503471189471
+7,WS-253,1,returned,True,configured_work_complete,0.7998957305880667
+8,WS-253,1,returned,True,configured_work_complete,0.3788188918089649
+9,WS-253,1,returned,True,configured_work_complete,0.9023070085695362
+10,WS-253,1,returned,True,configured_work_complete,0.7193940818012361
+11,WS-253,1,returned,True,configured_work_complete,0.4754186474288817
+12,WS-253,1,returned,True,configured_work_complete,0.6372310522363318
+13,WS-253,1,returned,True,configured_work_complete,0.9353711049161392
+14,WS-253,1,returned,True,configured_work_complete,0.6672695926043342
+15,WS-253,1,returned,True,configured_work_complete,0.8419597626744244
+16,WS-253,1,returned,True,configured_work_complete,0.8741687093236957
+17,WS-253,1,returned,True,configured_work_complete,0.5928011629117504
+18,WS-253,1,returned,True,configured_work_complete,0.7848831919483333
+19,WS-253,1,returned,True,configured_work_complete,0.8728153017804889
+20,WS-253,1,returned,True,configured_work_complete,0.8588484487178665
+21,WS-253,1,returned,True,configured_work_complete,0.8859560109592957
+22,WS-253,1,returned,True,configured_work_complete,0.921172617160752
+23,WS-253,1,returned,True,configured_work_complete,0.7419743621209359
+24,WS-253,1,returned,True,configured_work_complete,0.7678580326317268
+25,WS-253,1,returned,True,configured_work_complete,0.7255604691343758
+26,WS-253,1,returned,True,configured_work_complete,0.7392581090057061
+27,WS-253,1,returned,True,configured_work_complete,0.6574199875274939
+28,WS-253,1,returned,True,configured_work_complete,0.8185532452801609
+29,WS-253,1,returned,True,configured_work_complete,0.3462817366900936
+30,WS-253,1,returned,True,configured_work_complete,0.8759985867117731
+31,WS-253,1,returned,True,configured_work_complete,0.3909649250197406
+32,WS-253,1,returned,True,configured_work_complete,0.7941371169372294
+33,WS-253,1,returned,True,configured_work_complete,0.6929221424774049
+34,WS-253,1,returned,True,configured_work_complete,0.7673425949877887
+35,WS-253,1,returned,True,configured_work_complete,0.7148454338950114
+36,WS-253,1,returned,True,configured_work_complete,0.5813978034613908
+37,WS-253,1,returned,True,configured_work_complete,0.7734661666567816
+38,WS-253,1,returned,True,configured_work_complete,0.6195523313546097
+39,WS-253,1,returned,True,configured_work_complete,0.6588042707140473
+40,WS-253,1,returned,True,configured_work_complete,0.656945056417731
+41,WS-253,1,returned,True,configured_work_complete,0.7305415488437855
+42,WS-253,1,returned,True,configured_work_complete,0.9577928523053448
+43,WS-253,1,returned,True,configured_work_complete,0.817473254999132
+44,WS-253,1,returned,True,configured_work_complete,0.803825096552175
+45,WS-253,1,returned,True,configured_work_complete,0.6834646282249177
+46,WS-253,1,returned,True,configured_work_complete,0.7343643700656781
+47,WS-253,1,returned,True,configured_work_complete,0.8253762651348688
+48,WS-253,1,returned,True,configured_work_complete,0.7925371751914311
+49,WS-253,1,returned,True,configured_work_complete,0.7600389974541875
+50,WS-253,1,returned,True,configured_work_complete,0.8075809363809512
+51,WS-253,1,returned,True,configured_work_complete,0.6848415363810114
+52,WS-253,1,returned,True,configured_work_complete,0.7280465570754102
+53,WS-253,1,returned,True,configured_work_complete,0.6552513753697842
+54,WS-253,1,returned,True,configured_work_complete,0.652107868852882
+55,WS-253,1,returned,True,configured_work_complete,0.7812856797054571
+56,WS-253,1,returned,True,configured_work_complete,0.7552697642014448
+57,WS-253,1,returned,True,configured_work_complete,0.5987074728074668
+58,WS-253,1,returned,True,configured_work_complete,0.8231381876746069
+59,WS-253,1,returned,True,configured_work_complete,0.705047970548698
+60,WS-253,1,returned,True,configured_work_complete,0.5849801026366609
+61,WS-253,1,returned,True,configured_work_complete,0.6747282586855845
+62,WS-253,1,returned,True,configured_work_complete,0.6569252223290668
+63,WS-253,1,returned,True,configured_work_complete,0.5950755163151968
+64,WS-253,1,returned,True,configured_work_complete,0.8351925619229832
+65,WS-253,1,returned,True,configured_work_complete,0.6394026666601428
+66,WS-253,1,returned,True,configured_work_complete,0.8475969873509932
+67,WS-253,1,returned,True,configured_work_complete,0.7304046384714699
+68,WS-253,1,returned,True,configured_work_complete,0.6809099158662469
+69,WS-253,1,returned,True,configured_work_complete,0.6610969546719097
+70,WS-253,1,returned,True,configured_work_complete,0.8087517620982164
+71,WS-253,1,returned,True,configured_work_complete,0.6957222612796136
+72,WS-253,1,returned,True,configured_work_complete,0.5707205104738944
+73,WS-253,1,returned,True,configured_work_complete,0.7105933630734583
+74,WS-253,1,returned,True,configured_work_complete,0.8713851221506144
+75,WS-253,1,returned,True,configured_work_complete,0.8051870004009396
+76,WS-253,1,returned,True,configured_work_complete,0.7103111708242267
+77,WS-253,1,returned,True,configured_work_complete,0.6923905289128691
+78,WS-253,1,returned,True,configured_work_complete,0.7039947649511633
+79,WS-253,1,returned,True,configured_work_complete,0.6358509442558863
+80,WS-253,1,returned,True,configured_work_complete,0.7422848883009514
+81,WS-253,1,returned,True,configured_work_complete,0.5758819997839291
+82,WS-253,1,returned,True,configured_work_complete,0.6608192011010541
+83,WS-253,1,returned,True,configured_work_complete,0.8378212555938264
+84,WS-253,1,returned,True,configured_work_complete,0.829364754954537
+85,WS-253,1,returned,True,configured_work_complete,0.7182880272325914
+86,WS-253,1,returned,True,configured_work_complete,0.5773135942695067
+87,WS-253,1,returned,True,configured_work_complete,0.8079133365132265
+88,WS-253,1,returned,True,configured_work_complete,0.5822831648565471
+89,WS-253,1,returned,True,configured_work_complete,0.7927913812215388
+90,WS-253,1,returned,True,configured_work_complete,0.5287422438934635
+91,WS-253,1,returned,True,configured_work_complete,0.8378748608578234
+92,WS-253,1,returned,True,configured_work_complete,0.7220326346232971
+93,WS-253,1,returned,True,configured_work_complete,0.6686804926398251
+94,WS-253,1,returned,True,configured_work_complete,0.7869501812439551
+95,WS-253,1,returned,True,configured_work_complete,0.7782187423500595
+96,WS-253,1,returned,True,configured_work_complete,0.7533788150465464
+97,WS-253,1,returned,True,configured_work_complete,0.9335766349437254
+98,WS-253,1,returned,True,configured_work_complete,0.7346535907176466
+99,WS-253,1,returned,True,configured_work_complete,0.8728756343513796
+0,Greedy,1,returned,True,configured_work_complete,0.1292872470590093
+1,Greedy,1,returned,True,configured_work_complete,0.2020086631357916
+2,Greedy,1,returned,True,configured_work_complete,0.598561572965127
+3,Greedy,1,returned,True,configured_work_complete,0.4911809211336431
+4,Greedy,1,returned,True,configured_work_complete,0.0108902077353685
+5,Greedy,1,returned,True,configured_work_complete,0.0211820419236113
+6,Greedy,1,returned,True,configured_work_complete,0.1706992699937726
+7,Greedy,1,returned,True,configured_work_complete,0.1252448202292738
+8,Greedy,1,returned,True,configured_work_complete,0.2407867987895202
+9,Greedy,1,returned,True,configured_work_complete,0.2073277001223716
+10,Greedy,1,returned,True,configured_work_complete,0.2031315810263965
+11,Greedy,1,returned,True,configured_work_complete,0.3429520023496003
+12,Greedy,1,returned,True,configured_work_complete,0.1687804752360996
+13,Greedy,1,returned,True,configured_work_complete,0.2349219048047422
+14,Greedy,1,returned,True,configured_work_complete,0.3547630536429694
+15,Greedy,1,returned,True,configured_work_complete,0.1505485147764079
+16,Greedy,1,returned,True,configured_work_complete,0.3713808397143623
+17,Greedy,1,returned,True,configured_work_complete,0.1786555300053256
+18,Greedy,1,returned,True,configured_work_complete,0.1757415602503986
+19,Greedy,1,returned,True,configured_work_complete,0.1767679695744972
+20,Greedy,1,returned,True,configured_work_complete,0.4683334034672199
+21,Greedy,1,returned,True,configured_work_complete,0.0284271318339544
+22,Greedy,1,returned,True,configured_work_complete,0.4021241116470632
+23,Greedy,1,returned,True,configured_work_complete,0.2387557059678551
+24,Greedy,1,returned,True,configured_work_complete,0.1636300939032387
+25,Greedy,1,returned,True,configured_work_complete,0.149685223069716
+26,Greedy,1,returned,True,configured_work_complete,0.2897684286577321
+27,Greedy,1,returned,True,configured_work_complete,0.2001557866136769
+28,Greedy,1,returned,True,configured_work_complete,0.0617662053621172
+29,Greedy,1,returned,True,configured_work_complete,0.1635156527851132
+30,Greedy,1,returned,True,configured_work_complete,0.196722773845065
+31,Greedy,1,returned,True,configured_work_complete,0.5630776367180805
+32,Greedy,1,returned,True,configured_work_complete,0.538001499844414
+33,Greedy,1,returned,True,configured_work_complete,0.1462722606204579
+34,Greedy,1,returned,True,configured_work_complete,0.1156197314528869
+35,Greedy,1,returned,True,configured_work_complete,0.8011585946189844
+36,Greedy,1,returned,True,configured_work_complete,0.2736124954083701
+37,Greedy,1,returned,True,configured_work_complete,0.2079371633481109
+38,Greedy,1,returned,True,configured_work_complete,0.3843992301824611
+39,Greedy,1,returned,True,configured_work_complete,0.1936743307659467
+40,Greedy,1,returned,True,configured_work_complete,0.2276949268393872
+41,Greedy,1,returned,True,configured_work_complete,0.1705500785634389
+42,Greedy,1,returned,True,configured_work_complete,0.4403591223802238
+43,Greedy,1,returned,True,configured_work_complete,0.177389157054512
+44,Greedy,1,returned,True,configured_work_complete,0.1956309636302489
+45,Greedy,1,returned,True,configured_work_complete,0.1639734742451269
+46,Greedy,1,returned,True,configured_work_complete,0.2555780308024623
+47,Greedy,1,returned,True,configured_work_complete,0.2159248337930533
+48,Greedy,1,returned,True,configured_work_complete,0.238049719752455
+49,Greedy,1,returned,True,configured_work_complete,0.2373378495537804
+50,Greedy,1,returned,True,configured_work_complete,0.0473658760101763
+51,Greedy,1,returned,True,configured_work_complete,0.5453039172170794
+52,Greedy,1,returned,True,configured_work_complete,0.5238221787599147
+53,Greedy,1,returned,True,configured_work_complete,0.1659065583181599
+54,Greedy,1,returned,True,configured_work_complete,0.34721415539644
+55,Greedy,1,returned,True,configured_work_complete,0.4338171659230733
+56,Greedy,1,returned,True,configured_work_complete,0.2152659276412376
+57,Greedy,1,returned,True,configured_work_complete,0.2413117982275523
+58,Greedy,1,returned,True,configured_work_complete,0.2917767419084133
+59,Greedy,1,returned,True,configured_work_complete,0.1412051651687294
+60,Greedy,1,returned,True,configured_work_complete,0.2108489416722347
+61,Greedy,1,returned,True,configured_work_complete,0.0467284592338138
+62,Greedy,1,returned,True,configured_work_complete,0.2265964618397152
+63,Greedy,1,returned,True,configured_work_complete,0.0076007303553814
+64,Greedy,1,returned,True,configured_work_complete,0.1442577155937472
+65,Greedy,1,returned,True,configured_work_complete,0.1679688489830009
+66,Greedy,1,returned,True,configured_work_complete,0.4775595901081828
+67,Greedy,1,returned,True,configured_work_complete,0.053669560893249
+68,Greedy,1,returned,True,configured_work_complete,0.3756303681948212
+69,Greedy,1,returned,True,configured_work_complete,0.1378212504875474
+70,Greedy,1,returned,True,configured_work_complete,0.3406818346667272
+71,Greedy,1,returned,True,configured_work_complete,0.1277789073996718
+72,Greedy,1,returned,True,configured_work_complete,0.4008473077509624
+73,Greedy,1,returned,True,configured_work_complete,0.1919554549670992
+74,Greedy,1,returned,True,configured_work_complete,0.0970111070982372
+75,Greedy,1,returned,True,configured_work_complete,0.3696357035383276
+76,Greedy,1,returned,True,configured_work_complete,0.2821927059588766
+77,Greedy,1,returned,True,configured_work_complete,0.1601108039612229
+78,Greedy,1,returned,True,configured_work_complete,0.0522293109205257
+79,Greedy,1,returned,True,configured_work_complete,0.360450600828693
+80,Greedy,1,returned,True,configured_work_complete,0.3350833063733993
+81,Greedy,1,returned,True,configured_work_complete,0.0488688606878992
+82,Greedy,1,returned,True,configured_work_complete,0.1862952346810888
+83,Greedy,1,returned,True,configured_work_complete,0.2060555510984632
+84,Greedy,1,returned,True,configured_work_complete,0.2338829553916328
+85,Greedy,1,returned,True,configured_work_complete,0.1357467772509546
+86,Greedy,1,returned,True,configured_work_complete,0.2806209178634796
+87,Greedy,1,returned,True,configured_work_complete,0.3225152440885029
+88,Greedy,1,returned,True,configured_work_complete,0.0545726641048369
+89,Greedy,1,returned,True,configured_work_complete,0.1841398622325424
+90,Greedy,1,returned,True,configured_work_complete,0.1389307935203644
+91,Greedy,1,returned,True,configured_work_complete,0.3321805281213589
+92,Greedy,1,returned,True,configured_work_complete,0.3522696565219433
+93,Greedy,1,returned,True,configured_work_complete,0.1649650349987065
+94,Greedy,1,returned,True,configured_work_complete,0.1259902598117606
+95,Greedy,1,returned,True,configured_work_complete,0.0774991394626583
+96,Greedy,1,returned,True,configured_work_complete,0.2471364399283835
+97,Greedy,1,returned,True,configured_work_complete,0.3530599034111238
+98,Greedy,1,returned,True,configured_work_complete,0.1840932082461009
+99,Greedy,1,returned,True,configured_work_complete,0.1049962384001585
+0,NSGA2-2000,1,returned,True,configured_work_complete,0.0
+1,NSGA2-2000,1,returned,True,configured_work_complete,0.2466370988625408
+2,NSGA2-2000,1,returned,True,configured_work_complete,0.4532216268926882
+3,NSGA2-2000,1,no_assignment,True,configured_work_complete,0.0
+4,NSGA2-2000,1,returned,True,configured_work_complete,0.6149761062270712
+5,NSGA2-2000,1,returned,True,configured_work_complete,0.4777674473434901
+6,NSGA2-2000,1,returned,True,configured_work_complete,0.0440367124733213
+7,NSGA2-2000,1,returned,True,configured_work_complete,0.273873497726118
+8,NSGA2-2000,1,returned,True,configured_work_complete,0.7053295650511325
+9,NSGA2-2000,1,returned,True,configured_work_complete,0.8394402023213473
+10,NSGA2-2000,1,returned,True,configured_work_complete,0.4331997534953907
+11,NSGA2-2000,1,returned,True,configured_work_complete,0.9455666854409452
+12,NSGA2-2000,1,no_assignment,True,configured_work_complete,0.0
+13,NSGA2-2000,1,returned,True,configured_work_complete,0.9785126487990782
+14,NSGA2-2000,1,returned,True,configured_work_complete,0.3960887933181097
+15,NSGA2-2000,1,returned,True,configured_work_complete,0.3916682904954105
+16,NSGA2-2000,1,returned,True,configured_work_complete,0.7408200723378006
+17,NSGA2-2000,1,no_assignment,True,configured_work_complete,0.0
+18,NSGA2-2000,1,returned,True,configured_work_complete,0.359984485931845
+19,NSGA2-2000,1,returned,True,configured_work_complete,0.6916387984295306
+20,NSGA2-2000,1,returned,True,configured_work_complete,0.523063833243546
+21,NSGA2-2000,1,returned,True,configured_work_complete,0.5405525306299412
+22,NSGA2-2000,1,returned,True,configured_work_complete,0.9701251955982696
+23,NSGA2-2000,1,returned,True,configured_work_complete,0.3706410124908768
+24,NSGA2-2000,1,no_assignment,True,configured_work_complete,0.0
+25,NSGA2-2000,1,returned,True,configured_work_complete,0.9631824587684182
+26,NSGA2-2000,1,returned,True,configured_work_complete,0.7630127871892105
+27,NSGA2-2000,1,returned,True,configured_work_complete,0.0786354562746136
+28,NSGA2-2000,1,returned,True,configured_work_complete,0.287490325821244
+29,NSGA2-2000,1,returned,True,configured_work_complete,1.0
+30,NSGA2-2000,1,returned,True,configured_work_complete,0.6711952953793773
+31,NSGA2-2000,1,returned,True,configured_work_complete,0.6855857414339256
+32,NSGA2-2000,1,returned,True,configured_work_complete,0.5609611991815951
+33,NSGA2-2000,1,returned,True,configured_work_complete,0.4374755301720582
+34,NSGA2-2000,1,returned,True,configured_work_complete,0.0691355953291545
+35,NSGA2-2000,1,returned,True,configured_work_complete,0.6330667945557094
+36,NSGA2-2000,1,returned,True,configured_work_complete,0.0089578073187696
+37,NSGA2-2000,1,returned,True,configured_work_complete,0.4514268114140608
+38,NSGA2-2000,1,returned,True,configured_work_complete,0.0425644440984643
+39,NSGA2-2000,1,returned,True,configured_work_complete,0.2340481086485058
+40,NSGA2-2000,1,returned,True,configured_work_complete,0.534645187057636
+41,NSGA2-2000,1,returned,True,configured_work_complete,0.1571228414737726
+42,NSGA2-2000,1,returned,True,configured_work_complete,0.8171916350970221
+43,NSGA2-2000,1,returned,True,configured_work_complete,1.0
+44,NSGA2-2000,1,returned,True,configured_work_complete,0.3549199173257854
+45,NSGA2-2000,1,returned,True,configured_work_complete,0.3364588904884678
+46,NSGA2-2000,1,returned,True,configured_work_complete,0.1829349360608348
+47,NSGA2-2000,1,returned,True,configured_work_complete,0.2769229305740167
+48,NSGA2-2000,1,returned,True,configured_work_complete,0.278443551693645
+49,NSGA2-2000,1,returned,True,configured_work_complete,0.5537954252439033
+50,NSGA2-2000,1,returned,True,configured_work_complete,0.4139104542469373
+51,NSGA2-2000,1,returned,True,configured_work_complete,0.0741424256808192
+52,NSGA2-2000,1,returned,True,configured_work_complete,0.441965339950605
+53,NSGA2-2000,1,returned,True,configured_work_complete,0.3505254561575321
+54,NSGA2-2000,1,no_assignment,True,configured_work_complete,0.0
+55,NSGA2-2000,1,returned,True,configured_work_complete,0.9279073174586298
+56,NSGA2-2000,1,returned,True,configured_work_complete,0.5845655916068713
+57,NSGA2-2000,1,returned,True,configured_work_complete,0.1677698923602371
+58,NSGA2-2000,1,returned,True,configured_work_complete,0.4250494768470362
+59,NSGA2-2000,1,returned,True,configured_work_complete,0.2718983892556907
+60,NSGA2-2000,1,no_assignment,True,configured_work_complete,0.0
+61,NSGA2-2000,1,returned,True,configured_work_complete,0.5734518697984805
+62,NSGA2-2000,1,returned,True,configured_work_complete,0.3956632751722444
+63,NSGA2-2000,1,returned,True,configured_work_complete,0.920584030459076
+64,NSGA2-2000,1,returned,True,configured_work_complete,0.2023860124789344
+65,NSGA2-2000,1,returned,True,configured_work_complete,0.1284484380863568
+66,NSGA2-2000,1,returned,True,configured_work_complete,0.7521428057744091
+67,NSGA2-2000,1,returned,True,configured_work_complete,0.2039818180422092
+68,NSGA2-2000,1,returned,True,configured_work_complete,0.3628270805826371
+69,NSGA2-2000,1,returned,True,configured_work_complete,0.0952217259060748
+70,NSGA2-2000,1,returned,True,configured_work_complete,0.3523305107197388
+71,NSGA2-2000,1,returned,True,configured_work_complete,0.5069703405631688
+72,NSGA2-2000,1,no_assignment,True,configured_work_complete,0.0
+73,NSGA2-2000,1,returned,True,configured_work_complete,0.2607429590871386
+74,NSGA2-2000,1,returned,True,configured_work_complete,0.8139911206819268
+75,NSGA2-2000,1,returned,True,configured_work_complete,0.0590829756711682
+76,NSGA2-2000,1,returned,True,configured_work_complete,0.0905678357327755
+77,NSGA2-2000,1,returned,True,configured_work_complete,0.0567759469003003
+78,NSGA2-2000,1,returned,True,configured_work_complete,0.1853193303386144
+79,NSGA2-2000,1,returned,True,configured_work_complete,0.7477809459959388
+80,NSGA2-2000,1,returned,True,configured_work_complete,0.4966566037966374
+81,NSGA2-2000,1,returned,True,configured_work_complete,0.1513700370439642
+82,NSGA2-2000,1,returned,True,configured_work_complete,0.6149290258435985
+83,NSGA2-2000,1,returned,True,configured_work_complete,0.8832498254474959
+84,NSGA2-2000,1,returned,True,configured_work_complete,0.4396740132711384
+85,NSGA2-2000,1,returned,True,configured_work_complete,0.5136042311023108
+86,NSGA2-2000,1,no_assignment,True,configured_work_complete,0.0
+87,NSGA2-2000,1,returned,True,configured_work_complete,0.1446831321992181
+88,NSGA2-2000,1,returned,True,configured_work_complete,0.417519380522698
+89,NSGA2-2000,1,returned,True,configured_work_complete,0.8350675970558101
+90,NSGA2-2000,1,returned,True,configured_work_complete,0.1535751802565805
+91,NSGA2-2000,1,no_assignment,True,configured_work_complete,0.0
+92,NSGA2-2000,1,returned,True,configured_work_complete,0.3198460898012465
+93,NSGA2-2000,1,returned,True,configured_work_complete,0.1102607349513808
+94,NSGA2-2000,1,returned,True,configured_work_complete,0.6831508858934722
+95,NSGA2-2000,1,returned,True,configured_work_complete,0.8435791719760903
+96,NSGA2-2000,1,returned,True,configured_work_complete,0.6793608515048807
+97,NSGA2-2000,1,returned,True,configured_work_complete,0.91758835214342
+98,NSGA2-2000,1,returned,True,configured_work_complete,0.6396337966734148
+99,NSGA2-2000,1,returned,True,configured_work_complete,0.946221005428508
+0,NSGA2-10000,1,returned,True,configured_work_complete,0.5796534356746684
+1,NSGA2-10000,1,returned,True,configured_work_complete,0.5372634487774149
+2,NSGA2-10000,1,returned,True,configured_work_complete,0.8101153996103282
+3,NSGA2-10000,1,returned,True,configured_work_complete,0.4260886403547927
+4,NSGA2-10000,1,returned,True,configured_work_complete,1.0
+5,NSGA2-10000,1,returned,True,configured_work_complete,0.9406990556316548
+6,NSGA2-10000,1,returned,True,configured_work_complete,0.3663441258591421
+7,NSGA2-10000,1,returned,True,configured_work_complete,0.7439424773827642
+8,NSGA2-10000,1,returned,True,configured_work_complete,0.6901947004947484
+9,NSGA2-10000,1,returned,True,configured_work_complete,0.9142720601788984
+10,NSGA2-10000,1,returned,True,configured_work_complete,0.8898108203167024
+11,NSGA2-10000,1,returned,True,configured_work_complete,0.9998942138957292
+12,NSGA2-10000,1,returned,True,configured_work_complete,0.2345317458364464
+13,NSGA2-10000,1,returned,True,configured_work_complete,0.9867332435609684
+14,NSGA2-10000,1,returned,True,configured_work_complete,0.8713435094013898
+15,NSGA2-10000,1,returned,True,configured_work_complete,0.4836286515979807
+16,NSGA2-10000,1,returned,True,configured_work_complete,0.8059218788159122
+17,NSGA2-10000,1,no_assignment,True,configured_work_complete,0.0
+18,NSGA2-10000,1,returned,True,configured_work_complete,0.7308291166490846
+19,NSGA2-10000,1,returned,True,configured_work_complete,0.9986074973615262
+20,NSGA2-10000,1,returned,True,configured_work_complete,0.999653181478698
+21,NSGA2-10000,1,returned,True,configured_work_complete,0.7494926840566292
+22,NSGA2-10000,1,returned,True,configured_work_complete,1.0
+23,NSGA2-10000,1,returned,True,configured_work_complete,0.8682921947175561
+24,NSGA2-10000,1,no_assignment,True,configured_work_complete,0.0
+25,NSGA2-10000,1,returned,True,configured_work_complete,0.9962876508587212
+26,NSGA2-10000,1,returned,True,configured_work_complete,0.9942421431731449
+27,NSGA2-10000,1,returned,True,configured_work_complete,0.6251339663363493
+28,NSGA2-10000,1,returned,True,configured_work_complete,0.7073172944008627
+29,NSGA2-10000,1,returned,True,configured_work_complete,1.0
+30,NSGA2-10000,1,returned,True,configured_work_complete,0.8401786163764869
+31,NSGA2-10000,1,returned,True,configured_work_complete,0.913500772785692
+32,NSGA2-10000,1,returned,True,configured_work_complete,0.6269096409231352
+33,NSGA2-10000,1,returned,True,configured_work_complete,0.5440635270105374
+34,NSGA2-10000,1,returned,True,configured_work_complete,0.7029463583634618
+35,NSGA2-10000,1,returned,True,configured_work_complete,1.0
+36,NSGA2-10000,1,returned,True,configured_work_complete,0.4599295850876107
+37,NSGA2-10000,1,returned,True,configured_work_complete,0.7263650140861334
+38,NSGA2-10000,1,returned,True,configured_work_complete,0.7581849896452828
+39,NSGA2-10000,1,returned,True,configured_work_complete,0.7070104195621916
+40,NSGA2-10000,1,returned,True,configured_work_complete,0.6744924122023012
+41,NSGA2-10000,1,returned,True,configured_work_complete,0.5975378874836036
+42,NSGA2-10000,1,returned,True,configured_work_complete,0.9982453752033732
+43,NSGA2-10000,1,returned,True,configured_work_complete,1.0
+44,NSGA2-10000,1,returned,True,configured_work_complete,0.6211247972555489
+45,NSGA2-10000,1,returned,True,configured_work_complete,0.6250009459030496
+46,NSGA2-10000,1,returned,True,configured_work_complete,0.1705584063255552
+47,NSGA2-10000,1,returned,True,configured_work_complete,0.4288407906701266
+48,NSGA2-10000,1,returned,True,configured_work_complete,0.8199533693495574
+49,NSGA2-10000,1,returned,True,configured_work_complete,0.7777561642543752
+50,NSGA2-10000,1,returned,True,configured_work_complete,0.8695402612429801
+51,NSGA2-10000,1,returned,True,configured_work_complete,0.9842293293816524
+52,NSGA2-10000,1,returned,True,configured_work_complete,0.9596494654863964
+53,NSGA2-10000,1,returned,True,configured_work_complete,0.4793230229001057
+54,NSGA2-10000,1,returned,True,configured_work_complete,0.7410764107632217
+55,NSGA2-10000,1,returned,True,configured_work_complete,0.95009977183269
+56,NSGA2-10000,1,returned,True,configured_work_complete,0.8402494325683946
+57,NSGA2-10000,1,returned,True,configured_work_complete,0.7983650668489826
+58,NSGA2-10000,1,returned,True,configured_work_complete,0.7720385301249834
+59,NSGA2-10000,1,returned,True,configured_work_complete,0.5539348699690526
+60,NSGA2-10000,1,no_assignment,True,configured_work_complete,0.0
+61,NSGA2-10000,1,returned,True,configured_work_complete,0.726175000082121
+62,NSGA2-10000,1,returned,True,configured_work_complete,0.7353050178718415
+63,NSGA2-10000,1,returned,True,configured_work_complete,1.0
+64,NSGA2-10000,1,returned,True,configured_work_complete,0.1487785968479985
+65,NSGA2-10000,1,returned,True,configured_work_complete,0.5716092643683509
+66,NSGA2-10000,1,returned,True,configured_work_complete,0.9222536980159896
+67,NSGA2-10000,1,returned,True,configured_work_complete,0.7470490419185416
+68,NSGA2-10000,1,returned,True,configured_work_complete,0.8314483923395044
+69,NSGA2-10000,1,returned,True,configured_work_complete,0.4447961462598728
+70,NSGA2-10000,1,returned,True,configured_work_complete,0.9501248001094164
+71,NSGA2-10000,1,returned,True,configured_work_complete,0.6518902098422077
+72,NSGA2-10000,1,returned,True,configured_work_complete,0.1369511009569053
+73,NSGA2-10000,1,returned,True,configured_work_complete,0.9062405563672912
+74,NSGA2-10000,1,returned,True,configured_work_complete,1.0
+75,NSGA2-10000,1,returned,True,configured_work_complete,0.2152961708357147
+76,NSGA2-10000,1,returned,True,configured_work_complete,0.3700567884841221
+77,NSGA2-10000,1,returned,True,configured_work_complete,0.3178446268695186
+78,NSGA2-10000,1,returned,True,configured_work_complete,0.788545956716076
+79,NSGA2-10000,1,returned,True,configured_work_complete,0.9057005755531734
+80,NSGA2-10000,1,returned,True,configured_work_complete,0.7289082287052351
+81,NSGA2-10000,1,returned,True,configured_work_complete,0.7167118523433205
+82,NSGA2-10000,1,returned,True,configured_work_complete,0.7931305677107238
+83,NSGA2-10000,1,returned,True,configured_work_complete,0.996971806537326
+84,NSGA2-10000,1,returned,True,configured_work_complete,0.8619397193343915
+85,NSGA2-10000,1,returned,True,configured_work_complete,0.8828975213973589
+86,NSGA2-10000,1,no_assignment,True,configured_work_complete,0.0
+87,NSGA2-10000,1,returned,True,configured_work_complete,0.6699624521279285
+88,NSGA2-10000,1,returned,True,configured_work_complete,0.5905918293313791
+89,NSGA2-10000,1,returned,True,configured_work_complete,0.829254839607046
+90,NSGA2-10000,1,returned,True,configured_work_complete,0.1665888348163707
+91,NSGA2-10000,1,returned,True,configured_work_complete,0.2464184963541875
+92,NSGA2-10000,1,returned,True,configured_work_complete,0.7362168003943137
+93,NSGA2-10000,1,returned,True,configured_work_complete,0.5157728908537833
+94,NSGA2-10000,1,returned,True,configured_work_complete,0.855554894276082
+95,NSGA2-10000,1,returned,True,configured_work_complete,0.956914252196546
+96,NSGA2-10000,1,returned,True,configured_work_complete,0.8567518187869871
+97,NSGA2-10000,1,returned,True,configured_work_complete,0.8562778720396225
+98,NSGA2-10000,1,returned,True,configured_work_complete,0.8130619816082171
+99,NSGA2-10000,1,returned,True,configured_work_complete,0.9999769554860706

@@ -1,0 +1,14 @@
+\setlength{\tabcolsep}{3.5pt}%
+\begin{tabular}{lrrrr}
+\toprule
+method & recall & HV & median & p90 \\
+\midrule
+PBS unbounded & 1.000 & 1.000 & $27.1$\,ms & $360.6$\,ms \\
+DP & 0.990 & 0.990 & $167.6$\,ms & $2.48$\,s \\
+WS(28) & 0.078 & 0.573 & $37.7$\,ms & $209.7$\,ms \\
+WS(253) & 0.110 & 0.729 & $312.0$\,ms & $1.69$\,s \\
+Greedy & 0.021 & 0.237 & $5.3$\,ms & $14.5$\,ms \\
+NSGA-II(2k) & 0.089 & 0.425 & $139.9$\,ms & $182.9$\,ms \\
+NSGA-II(10k) & 0.213 & 0.703 & $582.2$\,ms & $732.3$\,ms \\
+\bottomrule
+\end{tabular}

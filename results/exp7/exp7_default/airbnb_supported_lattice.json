@@ -1,0 +1,7 @@
+{
+  "lattice_resolution": 50,
+  "mean": 0.11743251845211516,
+  "median": 0.06690223792697285,
+  "n": 100,
+  "interpretation": "approximate supported fraction sampled on the finite weight lattice with 1e-9 objective tie tolerance, not a supported-point ceiling"
+}

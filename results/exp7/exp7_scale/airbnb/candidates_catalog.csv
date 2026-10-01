@@ -1,0 +1,9 @@
+setting,label,x,quantity,median,q25,q75,n,group
+airbnb_lad29k,29K,28872,candidates_before,310.5,171.25,481.5,100,airbnb_catalog
+airbnb_lad29k,29K,28872,candidates_after,50.5,37.0,69.0,100,airbnb_catalog
+airbnb_lad58k_recal,58K,57737,candidates_before,583.0,320.5,909.5,100,airbnb_catalog
+airbnb_lad58k_recal,58K,57737,candidates_after,67.0,47.75,90.25,100,airbnb_catalog
+airbnb_lad115k_recal,115K,115466,candidates_before,961.0,568.0,1722.25,100,airbnb_catalog
+airbnb_lad115k_recal,115K,115466,candidates_after,83.5,57.0,103.5,100,airbnb_catalog
+airbnb_lad231k_recal,231K,230926,candidates_before,1641.0,984.0,3192.75,100,airbnb_catalog
+airbnb_lad231k_recal,231K,230926,candidates_after,97.5,63.0,129.25,100,airbnb_catalog

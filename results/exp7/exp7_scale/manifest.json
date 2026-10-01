@@ -1,0 +1,175 @@
+{
+  "builder_sha256": "665de670b0b1f891a44aa437d93df6c60dad8ee23de23093759f250e6236dd85",
+  "presentation": "PTS is the depth-first policy: every PTS series (including uncapped and capped arms) comes from the *_dfs jobs and the UCT rows of the base jobs are excluded from every panel; both remain in the raw records",
+  "generation_command": "PYTHONPATH=<code> MPLCONFIGDIR=/tmp/cgq-mpl OMP_NUM_THREADS=1 OPENBLAS_NUM_THREADS=1 python <paper>/review_artifacts/campaign_scalability/build_publication.py",
+  "helpers": {
+    "<code>/gquery/figures/plot_exp4.py": "7908766eb2ba2d22a2560d07f8eb00ce6c29f871a6d910b71d87f30c23febab2"
+  },
+  "source_commit": "b0562b8e066397b512c95a221ab94d97e5b400c8",
+  "dirty_diff_sha256": "736b70ba74217cca974ddf05402afdaaed8fcf8286f628879793abe7939f6536",
+  "sources": {
+    "amazon.scale": {
+      "path": "<paper>/revision_campaign_20260914/scalability/amazon_scale/scale.csv",
+      "sha256": "34d5dde33c01c2e77316d7456a74aac01dd0a0713e9cb4dc9f8e0f2d5410c876",
+      "reconstruction_sha256": "91b157433b8ca4b91d5c1fc18843a88fbbc449abed5bb8f57a9f5e493e6b988a"
+    },
+    "amazon.length_budget": {
+      "path": "<paper>/revision_campaign_20260914/scalability/amazon_length_budget/length_budget.csv",
+      "sha256": "0551c83905298eb9db1236145cac38d475f5aa85b66b8a10149a4e1b7581218e",
+      "reconstruction_sha256": "c43fb7a0d63ce1884112aa1c9edd173f066fde9ce84c1edb170a2a2700350b25"
+    },
+    "amazon.xl": {
+      "path": "<paper>/revision_campaign_20260914/scalability/amazon_xl/scale_xl.csv",
+      "sha256": "d6ceedfb484d90eb9c8c76717476872fe4f0be9ab8432eedcd5177975ac7d2ba",
+      "reconstruction_sha256": "309994fca475fcefbf085754943b205b46b605210bc2e6c9d7012608206de5ac"
+    },
+    "airbnb.scale": {
+      "path": "<paper>/revision_campaign_20260914/scalability/airbnb_scale/scale.csv",
+      "sha256": "2ccd3fe31cf0ba61b99a9ee4f211070df3d4e1a9f07225f01164471f6ee3773e",
+      "reconstruction_sha256": "6ce4214e45e6d444426da75039b405dde725d7a2d82ab7090e9037102182a83c"
+    },
+    "airbnb.length_budget": {
+      "path": "<paper>/revision_campaign_20260914/scalability/airbnb_length_budget/length_budget.csv",
+      "sha256": "8966d8f6be27cde78a76eef2d84104e3f2fc4901151d6a3f4725edf12fd514cd",
+      "reconstruction_sha256": "b726e836d536779121ee32ce75c463097026a610a0a5434e8ecb05e72ba50cf5"
+    },
+    "airbnb.xl": {
+      "path": "<paper>/revision_campaign_20260914/scalability/airbnb_xl/scale_xl.csv",
+      "sha256": "81386ae79344dc9769d64fd889d466c5b3575be2a3b0a54a7bc5e89ed69fde70",
+      "reconstruction_sha256": "b9d4958d3442ca8acc716e1b01c659c17a3e3be7f36757a289bf10e477d3d685"
+    },
+    "amazon.xl_extra_amazon_xl_recal": {
+      "path": "<paper>/revision_campaign_20260914/scalability/amazon_xl_recal/scale_xl.csv",
+      "sha256": "a77e6715bad9e9114c655ac70641fa2c89fbb8926239dd0e259d1295007503ea",
+      "reconstruction_sha256": "e02dd3c35f543a978764b6e5d936772fdd13220b4cfd7216d924962f7d761960"
+    },
+    "amazon.xl_extra_amazon_xl_kappa": {
+      "path": "<paper>/revision_campaign_20260914/scalability/amazon_xl_kappa/scale_xl.csv",
+      "sha256": "581bba0008adce465e05ec21f85805476860a048aefdf485955ab7bf1de8534d",
+      "reconstruction_sha256": "98fb6a743eabef1d8d0de23384533661c9db428879914246403f03edb3778e1a"
+    },
+    "amazon.xl_extra_amazon_xl_dfs": {
+      "path": "<paper>/revision_campaign_20260914/scalability/amazon_xl_dfs/scale_xl.csv",
+      "sha256": "b6519e1b14e7fae0a349221f92b2e312739516071c342ee2a58832482690c42a",
+      "reconstruction_sha256": "45d78376051028ef415d82d812eb78d7bc4754c4c87b1f13167a060d4bd55936"
+    },
+    "amazon.xl_extra_amazon_xl_recal_dfs": {
+      "path": "<paper>/revision_campaign_20260914/scalability/amazon_xl_recal_dfs/scale_xl.csv",
+      "sha256": "a4f131c955ccd4fd39c74f204432c620202e5b98f834aa7210522d7d8e28ce27",
+      "reconstruction_sha256": "5e78a55e9df73d0c49f9034e2d45ac8ececc411de69ffa389febeefca23f88e2"
+    },
+    "amazon.xl_extra_amazon_xl_kappa_dfs": {
+      "path": "<paper>/revision_campaign_20260914/scalability/amazon_xl_kappa_dfs/scale_xl.csv",
+      "sha256": "f97b8767033bf5ac0d3b1977db3f8b4e655fc03952f7a87d6b480169ab62fbf8",
+      "reconstruction_sha256": "7fab2dd582750b245d15d15b723c0399a9ccd2d4c4db61efdad11eaa5e95dcc6"
+    },
+    "amazon.xl_extra_amazon_xl_dpconv": {
+      "path": "<paper>/revision_campaign_20260914/scalability/amazon_xl_dpconv/scale_xl.csv",
+      "sha256": "0be44e234d7720f795eebd236367d0f4e042b89ccf4980b0696a2cb13a51bbf0",
+      "reconstruction_sha256": "33c09394c77729767e86412a35fbaa4dd76ba7b2c98f253cb5866d170080f0c8"
+    },
+    "airbnb.xl_extra_airbnb_xl_dfs": {
+      "path": "<paper>/revision_campaign_20260914/scalability/airbnb_xl_dfs/scale_xl.csv",
+      "sha256": "db68da410fbe1dbe3dae9d244fcfdb38db975068313ced42c556d989426440c7",
+      "reconstruction_sha256": "0300986c9266ffffa6843cfdcdee8226490b33585443c0f6fd825d95995ad20f"
+    },
+    "airbnb.xl_extra_airbnb_xl_dpconv": {
+      "path": "<paper>/revision_campaign_20260914/scalability/airbnb_xl_dpconv/scale_xl.csv",
+      "sha256": "b33019edf439cc956d9460e134b4167cf2653d84c70e6c76f959256b8f3b77c5",
+      "reconstruction_sha256": "95a0e70d42ae76d80a694bbc538779d081a5b1c4212a81175f6e121ed6e25501"
+    },
+    "amazon.scale_extra_amazon_scale_dfs": {
+      "path": "<paper>/revision_campaign_20260914/scalability/amazon_scale_dfs/scale.csv",
+      "sha256": "f5b51c506a098ab4c0911eec2ac2b4fcea1b481b44a6b8dbdef6d70d165d2b28",
+      "reconstruction_sha256": "37defc07dc077c391ffb4fc84a5e35ac365cc9e01362a12bdb9028b8f10dfb76"
+    },
+    "airbnb.scale_extra_airbnb_scale_dfs": {
+      "path": "<paper>/revision_campaign_20260914/scalability/airbnb_scale_dfs/scale.csv",
+      "sha256": "e7207e3be8707f555d5bd77db5039dc444332f092f52d93bcdf4c9ce8aefc0a8",
+      "reconstruction_sha256": "77e92d505f2e7dfcde57369293be24d930779e90a5c4b6c4c8de6af5b87c6b66"
+    },
+    "amazon.length_budget_extra_amazon_length_budget_dfs": {
+      "path": "<paper>/revision_campaign_20260914/scalability/amazon_length_budget_dfs/length_budget.csv",
+      "sha256": "1d1a21d728e16f68af343e7773ce76f4571e23afc2f8441ca167d978809acf21",
+      "reconstruction_sha256": "0d3e68bee31df3944568a7e5ffaffa7c5eac3db36d48dfb1736d2d0f8a7f6a14"
+    },
+    "airbnb.length_budget_extra_airbnb_length_budget_dfs": {
+      "path": "<paper>/revision_campaign_20260914/scalability/airbnb_length_budget_dfs/length_budget.csv",
+      "sha256": "e444448c17f8b599683b670c34662b055508d7cd74fe9667f98480c8225d74f3",
+      "reconstruction_sha256": "be289519b6c6193fe26d92508b445c7ddb8481b07404130ce15252e3bd01a13b"
+    }
+  },
+  "quality_denominator": "metric-eligible queries (feasible, validated complete nonempty reference); failed feasible methods score zero; medians and IQR over eligible queries",
+  "time_denominator": "every attempted measured invocation; end-to-end is measured retrieval plus measured method wall time; the large-catalog unbounded PBS row is a separate measured invocation under the ordinary limit, not the 600 s reference",
+  "generated": {
+    "table_scale_dp.tex": "9234ef7b12fa49c5d35903c18dcc874ae5388e69dd0903efc88db762ae627431",
+    "amazon_scale_denominators.csv": "4feb305271f34513dd3e34ea87c54a3d1509f9829811b152e088d7a13d6d686a",
+    "amazon_xl_denominators.csv": "2f7f56ffee84b574108396f89244e82238288f9bc94a037d6bd5bf504031120f",
+    "airbnb_scale_denominators.csv": "650f0dc0f6b7c25073e65f519d619d4e2987ec4ef62cc49b74d0a26103727b54",
+    "generation_source.diff": "736b70ba74217cca974ddf05402afdaaed8fcf8286f628879793abe7939f6536",
+    "scale_dp_summary.csv": "6de0a0cd7260564f21d135c5c588a03aa310d5de41683a7c5986d3d20ba4165f",
+    "airbnb_xl_denominators.csv": "0fc6d3ded7403e9324f11ccf797baea7a46f270eb9e07a4c8014a5309e119953",
+    "airbnb_length_budget_denominators.csv": "ebf9a89a8a859438ab482dce1a1886e351784b6ae8b0b9df98f7844dff20aca3",
+    "amazon_length_budget_denominators.csv": "c5c0c6a5a6fe94a34cbbb7abecd31306ccfb8740b5535cd51533eed2bbfe7ebc",
+    "amazon/scale_dist_catalog_time.csv": "5dab16053e37ae342cb48e97d7382afc34a92c273c098ba2db05b1404e180a1e",
+    "amazon/length_budget_pbs.png": "0f41aed754d19b39710a830adc35b8d207e245723d38e112c365e36e027475db",
+    "amazon/scale_xl_candidates.png": "64d0363518b5acab63d2272bedb62526e59fea1e1af048c4720de62c5dff2d99",
+    "amazon/scale_dist_length_time.png": "b59500c0c25f501212fc85825b71ea14ac5fe2d39981640abdfeecd6895057da",
+    "amazon/scale_xl_latency.csv": "ddfd5e15bdc1c40116370004554fa39ccb0645aafba7112c4ca2fb7e48fc6d68",
+    "amazon/scale_dist_catalog_recall.csv": "ac010fb0e40c2fd98322143288f9cd2bddcd4e859210ac01e10bc34f050bc0a2",
+    "amazon/length_budget_pts.png": "dfc2741e0be1d492b98c713a16595b137125a0d376be21a81f6f5f3a7c777a9b",
+    "amazon/scale_xl_candidates.pdf": "d70aa32b48ba6e338c1283f5075d51436bcdf9a0a5527005c54035903f36f39a",
+    "amazon/scale_dist_length_recall.csv": "f8eeeb5aed23873583304e83783fd3e4ccca5ecd5afae3aa6e4202c4774ac34b",
+    "amazon/scale_xl_latency.png": "b41f4e3f59def485b454c4337fb5084c647a144b75ba3abddc09b069560e9e5e",
+    "amazon/scale_dist_length_recall.pdf": "d847139e4f40068b744475da659018c4a94b1246d357aaf7bf46fc39f626982f",
+    "amazon/scale_xl_kappa.png": "536a333d143716224a30fb3e23be94d4ceb0a10e9e7499489f56cec5b1dc6b8e",
+    "amazon/scale_xl_latency.pdf": "86afc0ae01538c5bf9b234bd14945b67a657570ab66fcc60f1d8664d7523b8c3",
+    "amazon/scale_xl_tightness.pdf": "47f6a397463f90fb324a0cacf7354accc49d360ab908e92a6d5155198e4528b9",
+    "amazon/scale_dist_catalog_recall.png": "828e3271ee08806bc870218b3ab343d3be720ed478145bd76b709b3528efd3e2",
+    "amazon/scale_xl_tightness.csv": "e37bcccedd2845b9948d9b5503ca019ad7bedb52d734a83d3251f693ed0eee8d",
+    "amazon/scale_xl_recall.png": "6cacf0e0e9e308cc9f54243c632d5311abfa2fe4a27fa6ba6d0cb1fe63f266cb",
+    "amazon/length_budget_pbs.pdf": "c4b4e7aba3af9eec44fb1a8c6d53e86382e23c8b79145ea3bc35471ceaa66e7c",
+    "amazon/length_budget_pts.pdf": "3aae54597f451389a1f598efc2ea5101e110210899519b4014629d5402141112",
+    "amazon/scale_xl_kappa.csv": "26378d0bb3d3fe6bc93b261bd4ccb981b175922ce1a50a91a95b37d908b5e560",
+    "amazon/length_budget_pts.csv": "c787b996f874333ec9230091e1588f16c723ef666d6c10be485db38a11dbd6ac",
+    "amazon/scale_xl_kappa.pdf": "191e5485a1524ec504b2ffb89d6dd1a394842692dd5f3eb598649b1b009e5aa0",
+    "amazon/scale_xl_tightness.png": "8586da07fe59a0afd1290f78d2a639975549cc9acb4f2b6fe0388d60f5fcde0e",
+    "amazon/scale_dist_catalog_recall.pdf": "70cb0dfa1976ebf6ceb6ca95e2188b1d6e22ce40b127b71078ecc967f6d303ce",
+    "amazon/scale_dist_length_time.csv": "c6df7de9561a5c02d5d4853a103de151024a757cb208e2e15c53b40724395edd",
+    "amazon/scale_xl_recall.pdf": "46853413f1b1d5b6d782c9549c1be8e03bc7b212ba716141ab05e4e3062aa32c",
+    "amazon/scale_dist_length_recall.png": "cfdac106963aa8e63402eff8643a120409603502de7c8ebef9f8108861f088cb",
+    "amazon/scale_dist_catalog_time.pdf": "d16ee07670b063d4f409085e38780ed1b12272bc4c67dba1103e973bed4ef5ba",
+    "amazon/scale_xl_recall.csv": "ceacfd1063dbb78903d289187351f578bdbdc547cce138bbd27341b169677e70",
+    "amazon/scale_xl_candidates.csv": "5efb8c099b15ed608b49d2b98844bc1736237de5fc21b28c29a9fade565c4dc2",
+    "amazon/scale_dist_catalog_time.png": "c2261d4dc9a9f61ea29d59ac552648c72b44c7ad2a8cfffa5ce174649211c92e",
+    "amazon/length_budget_pbs.csv": "1ff87bdae09a84458a61d98bf3427e2a0ca0616e109d06f31b5a6aeb2bf0b0c3",
+    "amazon/scale_dist_length_time.pdf": "eaee1c56b5ab4f295771db1653116554014651e07f6ac3ff4edf1b3e02c60550",
+    "airbnb/length_budget_pbs.png": "d3702da67ee5d550c2816d5b377845541595d61508f42821a0d6dcf43f5f5b86",
+    "airbnb/scale_xl_candidates.png": "d0e7da52c537f37a336f36d69f78db293a7581f2ec4be1745b4de3ebafafe592",
+    "airbnb/scale_dist_length_time.png": "18c91a6f82d5c3922e13590614e5232d1990e0d2ed27be047638f8a9bd92939c",
+    "airbnb/scale_xl_latency.csv": "62597902fabf48af3b5ca8620f2b1f0b798aa9158318726928e9523452e1f69d",
+    "airbnb/length_budget_pts.png": "dbae734eb4133821311b50970a2a252ba53b708e43b2bebc75c79232bca8f96a",
+    "airbnb/scale_xl_candidates.pdf": "01d623a808097b2046cc82140c721ff87e011836879cabae28e0e3e575c99964",
+    "airbnb/scale_dist_length_recall.csv": "79aaa0bd732e6078b6587f5616532c101d8b95c41208b2edd35805545c178668",
+    "airbnb/scale_xl_latency.png": "4b5ab4abafe9a99fb6eeb1179b0e6ce5a927c26d831d48263c25898ced222fa8",
+    "airbnb/scale_dist_length_recall.pdf": "35a8bc0d744484e871148b6b37aeb7dfe02e97541cf4a55ac64b02d6a77d777b",
+    "airbnb/scale_xl_kappa.png": "fbf41aeebf87b1ca3bb24a1f83fb3802f0cec064b63f2051f5f7c01b28019fb3",
+    "airbnb/scale_xl_latency.pdf": "f40189432419e3eaf025e7074b43b8e4b3986d351d55c24fd8011a6e642700a5",
+    "airbnb/scale_xl_tightness.pdf": "37a42e6d33803fb2cf037491111b38cb0e0953cf68a7e30ce5a97d254be2e51c",
+    "airbnb/scale_xl_tightness.csv": "1c224561a238938d4be9dc1c760d056d6b1601a1160e17ce6434f800a7b96bad",
+    "airbnb/scale_xl_recall.png": "dcecb5bca28f29237f1e96823a392e9ee31f2b43ffc233fcf3800abc514a8087",
+    "airbnb/length_budget_pbs.pdf": "2f5426d1598a0de55d039eaa62ea6d0e0be82060fb55a206841fd8915377c8f1",
+    "airbnb/length_budget_pts.pdf": "d7f258a0b7617634318f408257899e060bb90d100e7107e7aa9865ee53f2d434",
+    "airbnb/scale_xl_kappa.csv": "ff6d7ac3a4998ac424505cd60fb05ac4fda0a5b1170d9503d1b4d89b9ad21bd2",
+    "airbnb/length_budget_pts.csv": "ecb69df55b4eccc9284b69508235ac4d5f332379b7b712192082a092ae14f398",
+    "airbnb/scale_xl_kappa.pdf": "c9a5fd7397ef37817e311820266df5c40ae570e8244f68aec50284a46fed8c79",
+    "airbnb/scale_xl_tightness.png": "8eead8021c767c1b5be11a343ddd15430abc74bc0f2e1422760336c56110ae53",
+    "airbnb/scale_dist_length_time.csv": "8b5d4422ac8e2a8fcaf75f8c5dd79780408f0ea2ef853537b8d44922bdcf57ee",
+    "airbnb/scale_xl_recall.pdf": "b6c80bf6f2a250162fbe94e0fb702676aa362eaa0aafcb628c82a3224318155b",
+    "airbnb/scale_dist_length_recall.png": "e5f1643e84533155b408b804188b72842c26aa1a400402abc0a824732ddfc357",
+    "airbnb/scale_xl_recall.csv": "3993dd583503688c8efbbe3a97fd94f74efb0087854080c5f4b8089011a50ae0",
+    "airbnb/scale_xl_candidates.csv": "7ddb064793cc551e74a66e24f011ab1b50cde118719d764be1a19f34e2eef3ef",
+    "airbnb/length_budget_pbs.csv": "02839e54a290ee6e34ab5ca42cbc46920567afb8cfd96a2a3f25f09de9cd9f3f",
+    "airbnb/scale_dist_length_time.pdf": "aabb5d3914c264ab9cbb659c56ff4231fdbae9c4a211016e877280dd4bc92729"
+  }
+}

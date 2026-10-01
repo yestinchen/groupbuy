@@ -1,0 +1,37 @@
+method,deadline_ms,median,q25,q75,metric,n_evaluated,clock,mode
+PACS,3.3,0.0,0.0,0.0,recall,100,method,hard
+PACS,10.0,0.0,0.0,0.8835227272727273,recall,100,method,hard
+PACS,30.0,0.14130494505494506,0.0,0.9318181818181819,recall,100,method,hard
+PACS,100.0,0.2207001522070015,0.05992085807379963,0.9318181818181819,recall,100,method,hard
+PACS,300.0,0.22959452343338596,0.06186721790556912,0.9318181818181819,recall,100,method,hard
+PACS,1000.0,0.22959452343338596,0.06186721790556912,0.9318181818181819,recall,100,method,hard
+PTS,3.3,0.0,0.0,0.0,recall,100,method,hard
+PTS,10.0,0.0,0.0,0.04172335600907025,recall,100,method,hard
+PTS,30.0,0.0,0.0,0.21996047430830037,recall,100,method,hard
+PTS,100.0,0.014021118227453649,0.0,0.4956442357850808,recall,100,method,hard
+PTS,300.0,0.0493411166339151,0.0,1.0,recall,100,method,hard
+PTS,1000.0,0.0926185344827586,0.0,1.0,recall,100,method,hard
+eps-ILP g=4,3.3,0.0,0.0,0.0,recall,100,method,hard
+eps-ILP g=4,10.0,0.0,0.0,0.0,recall,100,method,hard
+eps-ILP g=4,30.0,0.0,0.0,0.007046568627450925,recall,100,method,hard
+eps-ILP g=4,100.0,0.005210027100271001,0.000860420247362875,0.029871323529411725,recall,100,method,hard
+eps-ILP g=4,300.0,0.010914559695047451,0.004563609698255675,0.04562937062937057,recall,100,method,hard
+eps-ILP g=4,1000.0,0.01396368953332515,0.0061232326922085745,0.04562937062937057,recall,100,method,hard
+eps-ILP g=16,3.3,0.0,0.0,0.0,recall,100,method,hard
+eps-ILP g=16,10.0,0.0,0.0,0.0,recall,100,method,hard
+eps-ILP g=16,30.0,0.0,0.0,0.006838151927437575,recall,100,method,hard
+eps-ILP g=16,100.0,0.0041929271708682995,0.00042203345478812495,0.034615384615384576,recall,100,method,hard
+eps-ILP g=16,300.0,0.018656197887715352,0.006240099302517975,0.07031249999999996,recall,100,method,hard
+eps-ILP g=16,1000.0,0.03655975563192055,0.018001922315825123,0.07376408010012508,recall,100,method,hard
+PBS-unbounded,3.3,0.0,0.0,0.0,recall,100,method,hard
+PBS-unbounded,10.0,0.0,0.0,1.0,recall,100,method,hard
+PBS-unbounded,30.0,0.0,0.0,1.0,recall,100,method,hard
+PBS-unbounded,100.0,1.0,0.0,1.0,recall,100,method,hard
+PBS-unbounded,300.0,1.0,1.0,1.0,recall,100,method,hard
+PBS-unbounded,1000.0,1.0,1.0,1.0,recall,100,method,hard
+Pareto-DP,3.3,0.0,0.0,0.0,recall,100,method,hard
+Pareto-DP,10.0,0.0,0.0,0.0,recall,100,method,hard
+Pareto-DP,30.0,0.0,0.0,1.0,recall,100,method,hard
+Pareto-DP,100.0,0.0,0.0,1.0,recall,100,method,hard
+Pareto-DP,300.0,1.0,0.0,1.0,recall,100,method,hard
+Pareto-DP,1000.0,1.0,1.0,1.0,recall,100,method,hard

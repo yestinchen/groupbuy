@@ -1,0 +1,2124 @@
+{
+  "requested": 100,
+  "available": 100,
+  "status_counts": {
+    "feasible": 100
+  },
+  "selection_rule": "feasible, validated complete reference, 6 <= |P| <= 60, <= 4 requirements, largest count of reference points recovered by PTS but not PBS, net of the reverse, then widest range",
+  "selection": "method_gap",
+  "timeout_seconds": 60.0,
+  "alpha": 0.5,
+  "beta": 0.8,
+  "beam": 100,
+  "expansion_budget": 500,
+  "candidate_limit": 50,
+  "pts_traversal": "depth_first",
+  "considered": [
+    {
+      "query_id": "0",
+      "n_slots": 8,
+      "reference_status": "complete",
+      "reference_complete": true,
+      "reference_size": 476,
+      "reference_s": 0.053065964952111244
+    },
+    {
+      "query_id": "1",
+      "n_slots": 7,
+      "reference_status": "complete",
+      "reference_complete": true,
+      "reference_size": 769,
+      "reference_s": 0.11482183402404189
+    },
+    {
+      "query_id": "2",
+      "n_slots": 5,
+      "reference_status": "complete",
+      "reference_complete": true,
+      "reference_size": 38,
+      "reference_s": 0.0034687193110585213
+    },
+    {
+      "query_id": "3",
+      "n_slots": 8,
+      "reference_status": "complete",
+      "reference_complete": true,
+      "reference_size": 224,
+      "reference_s": 0.022114365827292204
+    },
+    {
+      "query_id": "4",
+      "n_slots": 3,
+      "reference_status": "complete",
+      "reference_complete": true,
+      "reference_size": 15,
+      "reference_s": 0.0007955217733979225,
+      "pts_only": 0,
+      "pbs_only": 0
+    },
+    {
+      "query_id": "5",
+      "n_slots": 5,
+      "reference_status": "complete",
+      "reference_complete": true,
+      "reference_size": 50,
+      "reference_s": 0.005519394297152758
+    },
+    {
+      "query_id": "6",
+      "n_slots": 8,
+      "reference_status": "complete",
+      "reference_complete": true,
+      "reference_size": 3042,
+      "reference_s": 0.8011165992356837
+    },
+    {
+      "query_id": "7",
+      "n_slots": 6,
+      "reference_status": "complete",
+      "reference_complete": true,
+      "reference_size": 730,
+      "reference_s": 0.0776150319725275
+    },
+    {
+      "query_id": "8",
+      "n_slots": 5,
+      "reference_status": "complete",
+      "reference_complete": true,
+      "reference_size": 24,
+      "reference_s": 0.0027966899797320366
+    },
+    {
+      "query_id": "9",
+      "n_slots": 6,
+      "reference_status": "complete",
+      "reference_complete": true,
+      "reference_size": 136,
+      "reference_s": 0.0190747301094234
+    },
+    {
+      "query_id": "10",
+      "n_slots": 5,
+      "reference_status": "complete",
+      "reference_complete": true,
+      "reference_size": 713,
+      "reference_s": 0.06167696928605437
+    },
+    {
+      "query_id": "11",
+      "n_slots": 4,
+      "reference_status": "complete",
+      "reference_complete": true,
+      "reference_size": 47,
+      "reference_s": 0.004043213091790676,
+      "pts_only": 14,
+      "pbs_only": 0
+    },
+    {
+      "query_id": "12",
+      "n_slots": 7,
+      "reference_status": "complete",
+      "reference_complete": true,
+      "reference_size": 288,
+      "reference_s": 0.060104033909738064
+    },
+    {
+      "query_id": "13",
+      "n_slots": 3,
+      "reference_status": "complete",
+      "reference_complete": true,
+      "reference_size": 47,
+      "reference_s": 0.002009436022490263,
+      "pts_only": 0,
+      "pbs_only": 0
+    },
+    {
+      "query_id": "14",
+      "n_slots": 7,
+      "reference_status": "complete",
+      "reference_complete": true,
+      "reference_size": 369,
+      "reference_s": 0.049261465203016996
+    },
+    {
+      "query_id": "15",
+      "n_slots": 6,
+      "reference_status": "complete",
+      "reference_complete": true,
+      "reference_size": 422,
+      "reference_s": 0.07181560900062323
+    },
+    {
+      "query_id": "16",
+      "n_slots": 4,
+      "reference_status": "complete",
+      "reference_complete": true,
+      "reference_size": 409,
+      "reference_s": 0.2931005875580013
+    },
+    {
+      "query_id": "17",
+      "n_slots": 8,
+      "reference_status": "complete",
+      "reference_complete": true,
+      "reference_size": 138,
+      "reference_s": 0.020728988107293844
+    },
+    {
+      "query_id": "18",
+      "n_slots": 8,
+      "reference_status": "complete",
+      "reference_complete": true,
+      "reference_size": 1333,
+      "reference_s": 0.2796424953266978
+    },
+    {
+      "query_id": "19",
+      "n_slots": 3,
+      "reference_status": "complete",
+      "reference_complete": true,
+      "reference_size": 51,
+      "reference_s": 0.0026587126776576042,
+      "pts_only": 0,
+      "pbs_only": 0
+    },
+    {
+      "query_id": "20",
+      "n_slots": 4,
+      "reference_status": "complete",
+      "reference_complete": true,
+      "reference_size": 26,
+      "reference_s": 0.0011851657181978226,
+      "pts_only": 0,
+      "pbs_only": 0
+    },
+    {
+      "query_id": "21",
+      "n_slots": 6,
+      "reference_status": "complete",
+      "reference_complete": true,
+      "reference_size": 400,
+      "reference_s": 0.03657390084117651
+    },
+    {
+      "query_id": "22",
+      "n_slots": 3,
+      "reference_status": "complete",
+      "reference_complete": true,
+      "reference_size": 15,
+      "reference_s": 0.00038075773045420647,
+      "pts_only": 0,
+      "pbs_only": 0
+    },
+    {
+      "query_id": "23",
+      "n_slots": 7,
+      "reference_status": "complete",
+      "reference_complete": true,
+      "reference_size": 878,
+      "reference_s": 0.12693425407633185
+    },
+    {
+      "query_id": "24",
+      "n_slots": 7,
+      "reference_status": "complete",
+      "reference_complete": true,
+      "reference_size": 1217,
+      "reference_s": 0.08267907705157995
+    },
+    {
+      "query_id": "25",
+      "n_slots": 3,
+      "reference_status": "complete",
+      "reference_complete": true,
+      "reference_size": 82,
+      "reference_s": 0.0018485868349671364
+    },
+    {
+      "query_id": "26",
+      "n_slots": 5,
+      "reference_status": "complete",
+      "reference_complete": true,
+      "reference_size": 71,
+      "reference_s": 0.0021921349689364433
+    },
+    {
+      "query_id": "27",
+      "n_slots": 8,
+      "reference_status": "complete",
+      "reference_complete": true,
+      "reference_size": 1209,
+      "reference_s": 0.33470395812764764
+    },
+    {
+      "query_id": "28",
+      "n_slots": 8,
+      "reference_status": "complete",
+      "reference_complete": true,
+      "reference_size": 2103,
+      "reference_s": 0.4275545980781317
+    },
+    {
+      "query_id": "29",
+      "n_slots": 4,
+      "reference_status": "complete",
+      "reference_complete": true,
+      "reference_size": 10,
+      "reference_s": 0.00033009517937898636,
+      "pts_only": 0,
+      "pbs_only": 0
+    },
+    {
+      "query_id": "30",
+      "n_slots": 4,
+      "reference_status": "complete",
+      "reference_complete": true,
+      "reference_size": 192,
+      "reference_s": 0.01764389080926776
+    },
+    {
+      "query_id": "31",
+      "n_slots": 3,
+      "reference_status": "complete",
+      "reference_complete": true,
+      "reference_size": 52,
+      "reference_s": 0.0020564012229442596,
+      "pts_only": 0,
+      "pbs_only": 0
+    },
+    {
+      "query_id": "32",
+      "n_slots": 6,
+      "reference_status": "complete",
+      "reference_complete": true,
+      "reference_size": 110,
+      "reference_s": 0.005420597270131111
+    },
+    {
+      "query_id": "33",
+      "n_slots": 8,
+      "reference_status": "complete",
+      "reference_complete": true,
+      "reference_size": 654,
+      "reference_s": 0.05036945315077901
+    },
+    {
+      "query_id": "34",
+      "n_slots": 8,
+      "reference_status": "complete",
+      "reference_complete": true,
+      "reference_size": 1256,
+      "reference_s": 0.22238102881237864
+    },
+    {
+      "query_id": "35",
+      "n_slots": 4,
+      "reference_status": "complete",
+      "reference_complete": true,
+      "reference_size": 13,
+      "reference_s": 0.0011227820068597794,
+      "pts_only": 0,
+      "pbs_only": 0
+    },
+    {
+      "query_id": "36",
+      "n_slots": 7,
+      "reference_status": "complete",
+      "reference_complete": true,
+      "reference_size": 461,
+      "reference_s": 0.026688443962484598
+    },
+    {
+      "query_id": "37",
+      "n_slots": 8,
+      "reference_status": "complete",
+      "reference_complete": true,
+      "reference_size": 2101,
+      "reference_s": 0.752398835029453
+    },
+    {
+      "query_id": "38",
+      "n_slots": 4,
+      "reference_status": "complete",
+      "reference_complete": true,
+      "reference_size": 165,
+      "reference_s": 0.004736544098705053
+    },
+    {
+      "query_id": "39",
+      "n_slots": 5,
+      "reference_status": "complete",
+      "reference_complete": true,
+      "reference_size": 96,
+      "reference_s": 0.0036714626476168633
+    },
+    {
+      "query_id": "40",
+      "n_slots": 8,
+      "reference_status": "complete",
+      "reference_complete": true,
+      "reference_size": 405,
+      "reference_s": 0.053010483272373676
+    },
+    {
+      "query_id": "41",
+      "n_slots": 6,
+      "reference_status": "complete",
+      "reference_complete": true,
+      "reference_size": 412,
+      "reference_s": 0.03471666295081377
+    },
+    {
+      "query_id": "42",
+      "n_slots": 3,
+      "reference_status": "complete",
+      "reference_complete": true,
+      "reference_size": 64,
+      "reference_s": 0.0016489089466631413
+    },
+    {
+      "query_id": "43",
+      "n_slots": 3,
+      "reference_status": "complete",
+      "reference_complete": true,
+      "reference_size": 11,
+      "reference_s": 0.00020776595920324326,
+      "pts_only": 0,
+      "pbs_only": 0
+    },
+    {
+      "query_id": "44",
+      "n_slots": 6,
+      "reference_status": "complete",
+      "reference_complete": true,
+      "reference_size": 438,
+      "reference_s": 0.05184464482590556
+    },
+    {
+      "query_id": "45",
+      "n_slots": 7,
+      "reference_status": "complete",
+      "reference_complete": true,
+      "reference_size": 1174,
+      "reference_s": 0.3088106559589505
+    },
+    {
+      "query_id": "46",
+      "n_slots": 6,
+      "reference_status": "complete",
+      "reference_complete": true,
+      "reference_size": 147,
+      "reference_s": 0.00570047739893198
+    },
+    {
+      "query_id": "47",
+      "n_slots": 7,
+      "reference_status": "complete",
+      "reference_complete": true,
+      "reference_size": 336,
+      "reference_s": 0.021698154974728823
+    },
+    {
+      "query_id": "48",
+      "n_slots": 7,
+      "reference_status": "complete",
+      "reference_complete": true,
+      "reference_size": 879,
+      "reference_s": 0.09230880625545979
+    },
+    {
+      "query_id": "49",
+      "n_slots": 4,
+      "reference_status": "complete",
+      "reference_complete": true,
+      "reference_size": 242,
+      "reference_s": 0.011345741804689169
+    },
+    {
+      "query_id": "50",
+      "n_slots": 6,
+      "reference_status": "complete",
+      "reference_complete": true,
+      "reference_size": 194,
+      "reference_s": 0.0236502131447196
+    },
+    {
+      "query_id": "51",
+      "n_slots": 6,
+      "reference_status": "complete",
+      "reference_complete": true,
+      "reference_size": 65,
+      "reference_s": 0.0038896906189620495
+    },
+    {
+      "query_id": "52",
+      "n_slots": 4,
+      "reference_status": "complete",
+      "reference_complete": true,
+      "reference_size": 150,
+      "reference_s": 0.00447238190099597
+    },
+    {
+      "query_id": "53",
+      "n_slots": 8,
+      "reference_status": "complete",
+      "reference_complete": true,
+      "reference_size": 2212,
+      "reference_s": 0.6098335231654346
+    },
+    {
+      "query_id": "54",
+      "n_slots": 8,
+      "reference_status": "complete",
+      "reference_complete": true,
+      "reference_size": 135,
+      "reference_s": 0.05044049210846424
+    },
+    {
+      "query_id": "55",
+      "n_slots": 5,
+      "reference_status": "complete",
+      "reference_complete": true,
+      "reference_size": 66,
+      "reference_s": 0.006704377941787243
+    },
+    {
+      "query_id": "56",
+      "n_slots": 6,
+      "reference_status": "complete",
+      "reference_complete": true,
+      "reference_size": 290,
+      "reference_s": 0.016939348075538874
+    },
+    {
+      "query_id": "57",
+      "n_slots": 7,
+      "reference_status": "complete",
+      "reference_complete": true,
+      "reference_size": 230,
+      "reference_s": 0.01981540210545063
+    },
+    {
+      "query_id": "58",
+      "n_slots": 5,
+      "reference_status": "complete",
+      "reference_complete": true,
+      "reference_size": 255,
+      "reference_s": 0.01953195221722126
+    },
+    {
+      "query_id": "59",
+      "n_slots": 8,
+      "reference_status": "complete",
+      "reference_complete": true,
+      "reference_size": 852,
+      "reference_s": 0.15753459697589278
+    },
+    {
+      "query_id": "60",
+      "n_slots": 8,
+      "reference_status": "complete",
+      "reference_complete": true,
+      "reference_size": 160,
+      "reference_s": 0.02867270028218627
+    },
+    {
+      "query_id": "61",
+      "n_slots": 8,
+      "reference_status": "complete",
+      "reference_complete": true,
+      "reference_size": 3013,
+      "reference_s": 0.5619206889532506
+    },
+    {
+      "query_id": "62",
+      "n_slots": 7,
+      "reference_status": "complete",
+      "reference_complete": true,
+      "reference_size": 550,
+      "reference_s": 0.03516402607783675
+    },
+    {
+      "query_id": "63",
+      "n_slots": 3,
+      "reference_status": "complete",
+      "reference_complete": true,
+      "reference_size": 10,
+      "reference_s": 0.000489531084895134,
+      "pts_only": 0,
+      "pbs_only": 0
+    },
+    {
+      "query_id": "64",
+      "n_slots": 7,
+      "reference_status": "complete",
+      "reference_complete": true,
+      "reference_size": 84,
+      "reference_s": 0.024009817745536566
+    },
+    {
+      "query_id": "65",
+      "n_slots": 7,
+      "reference_status": "complete",
+      "reference_complete": true,
+      "reference_size": 364,
+      "reference_s": 0.02389658009633422
+    },
+    {
+      "query_id": "66",
+      "n_slots": 3,
+      "reference_status": "complete",
+      "reference_complete": true,
+      "reference_size": 75,
+      "reference_s": 0.002908842172473669
+    },
+    {
+      "query_id": "67",
+      "n_slots": 8,
+      "reference_status": "complete",
+      "reference_complete": true,
+      "reference_size": 846,
+      "reference_s": 0.11524876300245523
+    },
+    {
+      "query_id": "68",
+      "n_slots": 8,
+      "reference_status": "complete",
+      "reference_complete": true,
+      "reference_size": 227,
+      "reference_s": 0.022602162789553404
+    },
+    {
+      "query_id": "69",
+      "n_slots": 7,
+      "reference_status": "complete",
+      "reference_complete": true,
+      "reference_size": 1134,
+      "reference_s": 0.10319158202037215
+    },
+    {
+      "query_id": "70",
+      "n_slots": 5,
+      "reference_status": "complete",
+      "reference_complete": true,
+      "reference_size": 144,
+      "reference_s": 0.008720040787011385
+    },
+    {
+      "query_id": "71",
+      "n_slots": 5,
+      "reference_status": "complete",
+      "reference_complete": true,
+      "reference_size": 65,
+      "reference_s": 0.0038795778527855873
+    },
+    {
+      "query_id": "72",
+      "n_slots": 7,
+      "reference_status": "complete",
+      "reference_complete": true,
+      "reference_size": 129,
+      "reference_s": 0.030075873248279095
+    },
+    {
+      "query_id": "73",
+      "n_slots": 7,
+      "reference_status": "complete",
+      "reference_complete": true,
+      "reference_size": 514,
+      "reference_s": 0.054399083368480206
+    },
+    {
+      "query_id": "74",
+      "n_slots": 4,
+      "reference_status": "complete",
+      "reference_complete": true,
+      "reference_size": 41,
+      "reference_s": 0.0008580698631703854,
+      "pts_only": 0,
+      "pbs_only": 0
+    },
+    {
+      "query_id": "75",
+      "n_slots": 6,
+      "reference_status": "complete",
+      "reference_complete": true,
+      "reference_size": 152,
+      "reference_s": 0.01068767299875617
+    },
+    {
+      "query_id": "76",
+      "n_slots": 6,
+      "reference_status": "complete",
+      "reference_complete": true,
+      "reference_size": 410,
+      "reference_s": 0.02799598779529333
+    },
+    {
+      "query_id": "77",
+      "n_slots": 6,
+      "reference_status": "complete",
+      "reference_complete": true,
+      "reference_size": 944,
+      "reference_s": 0.30676011415198445
+    },
+    {
+      "query_id": "78",
+      "n_slots": 6,
+      "reference_status": "complete",
+      "reference_complete": true,
+      "reference_size": 512,
+      "reference_s": 0.060620266012847424
+    },
+    {
+      "query_id": "79",
+      "n_slots": 5,
+      "reference_status": "complete",
+      "reference_complete": true,
+      "reference_size": 48,
+      "reference_s": 0.0016877749003469944
+    },
+    {
+      "query_id": "80",
+      "n_slots": 6,
+      "reference_status": "complete",
+      "reference_complete": true,
+      "reference_size": 375,
+      "reference_s": 0.01907836413010955
+    },
+    {
+      "query_id": "81",
+      "n_slots": 6,
+      "reference_status": "complete",
+      "reference_complete": true,
+      "reference_size": 306,
+      "reference_s": 0.03381702210754156
+    },
+    {
+      "query_id": "82",
+      "n_slots": 8,
+      "reference_status": "complete",
+      "reference_complete": true,
+      "reference_size": 805,
+      "reference_s": 0.11789330886676908
+    },
+    {
+      "query_id": "83",
+      "n_slots": 4,
+      "reference_status": "complete",
+      "reference_complete": true,
+      "reference_size": 94,
+      "reference_s": 0.0023622270673513412
+    },
+    {
+      "query_id": "84",
+      "n_slots": 6,
+      "reference_status": "complete",
+      "reference_complete": true,
+      "reference_size": 532,
+      "reference_s": 0.05735896993428469
+    },
+    {
+      "query_id": "85",
+      "n_slots": 7,
+      "reference_status": "complete",
+      "reference_complete": true,
+      "reference_size": 568,
+      "reference_s": 0.06114230025559664
+    },
+    {
+      "query_id": "86",
+      "n_slots": 8,
+      "reference_status": "complete",
+      "reference_complete": true,
+      "reference_size": 440,
+      "reference_s": 0.06966757727786899
+    },
+    {
+      "query_id": "87",
+      "n_slots": 5,
+      "reference_status": "complete",
+      "reference_complete": true,
+      "reference_size": 301,
+      "reference_s": 0.019287490751594305
+    },
+    {
+      "query_id": "88",
+      "n_slots": 7,
+      "reference_status": "complete",
+      "reference_complete": true,
+      "reference_size": 283,
+      "reference_s": 0.019528893753886223
+    },
+    {
+      "query_id": "89",
+      "n_slots": 4,
+      "reference_status": "complete",
+      "reference_complete": true,
+      "reference_size": 106,
+      "reference_s": 0.004283883608877659
+    },
+    {
+      "query_id": "90",
+      "n_slots": 8,
+      "reference_status": "complete",
+      "reference_complete": true,
+      "reference_size": 576,
+      "reference_s": 0.04588567139580846
+    },
+    {
+      "query_id": "91",
+      "n_slots": 8,
+      "reference_status": "complete",
+      "reference_complete": true,
+      "reference_size": 150,
+      "reference_s": 0.23164446325972676
+    },
+    {
+      "query_id": "92",
+      "n_slots": 6,
+      "reference_status": "complete",
+      "reference_complete": true,
+      "reference_size": 829,
+      "reference_s": 0.07216441538184881
+    },
+    {
+      "query_id": "93",
+      "n_slots": 8,
+      "reference_status": "complete",
+      "reference_complete": true,
+      "reference_size": 653,
+      "reference_s": 0.07535067200660706
+    },
+    {
+      "query_id": "94",
+      "n_slots": 5,
+      "reference_status": "complete",
+      "reference_complete": true,
+      "reference_size": 206,
+      "reference_s": 0.015895863063633442
+    },
+    {
+      "query_id": "95",
+      "n_slots": 3,
+      "reference_status": "complete",
+      "reference_complete": true,
+      "reference_size": 68,
+      "reference_s": 0.0021580192260444164
+    },
+    {
+      "query_id": "96",
+      "n_slots": 7,
+      "reference_status": "complete",
+      "reference_complete": true,
+      "reference_size": 587,
+      "reference_s": 0.06181046087294817
+    },
+    {
+      "query_id": "97",
+      "n_slots": 4,
+      "reference_status": "complete",
+      "reference_complete": true,
+      "reference_size": 49,
+      "reference_s": 0.0053881206549704075,
+      "pts_only": 0,
+      "pbs_only": 0
+    },
+    {
+      "query_id": "98",
+      "n_slots": 4,
+      "reference_status": "complete",
+      "reference_complete": true,
+      "reference_size": 115,
+      "reference_s": 0.003107419703155756
+    },
+    {
+      "query_id": "99",
+      "n_slots": 3,
+      "reference_status": "complete",
+      "reference_complete": true,
+      "reference_size": 10,
+      "reference_s": 0.00037378305569291115,
+      "pts_only": 0,
+      "pbs_only": 0
+    }
+  ],
+  "selected": {
+    "query_id": "11",
+    "spread": 0.059921754525380476,
+    "budget": 353.0,
+    "relaxed_cap": 529.5,
+    "reference_size": 47,
+    "n_slots": 4,
+    "reference_s": 0.004043213091790676,
+    "selection": "method_gap",
+    "pts_only_points": 14,
+    "pbs_only_points": 0,
+    "picked": [
+      {
+        "choice": [
+          68,
+          36,
+          25,
+          0
+        ],
+        "key": [
+          3.22967416,
+          38.2399,
+          19.193333333
+        ]
+      },
+      {
+        "choice": [
+          73,
+          36,
+          25,
+          0
+        ],
+        "key": [
+          3.219739795,
+          62.5399,
+          19.588333333
+        ]
+      },
+      {
+        "choice": [
+          12,
+          36,
+          25,
+          0
+        ],
+        "key": [
+          3.23277241,
+          87.9199,
+          19.406666667
+        ]
+      },
+      {
+        "choice": [
+          43,
+          36,
+          25,
+          0
+        ],
+        "key": [
+          3.261428535,
+          133.4095,
+          19.4
+        ]
+      },
+      {
+        "choice": [
+          68,
+          37,
+          26,
+          0
+        ],
+        "key": [
+          3.270409286,
+          171.3091,
+          19.13
+        ]
+      },
+      {
+        "choice": [
+          73,
+          36,
+          26,
+          0
+        ],
+        "key": [
+          3.26047492,
+          173.2099,
+          19.473333333
+        ]
+      }
+    ],
+    "traces": {
+      "PACS": [
+        {
+          "t_s": 0.002499605994671583,
+          "key": [
+            3.219739795,
+            62.5399,
+            19.588333333
+          ],
+          "choice": [
+            73,
+            36,
+            25,
+            0
+          ]
+        },
+        {
+          "t_s": 0.002499605994671583,
+          "key": [
+            3.217025399,
+            77.9407,
+            19.63
+          ],
+          "choice": [
+            38,
+            36,
+            25,
+            0
+          ]
+        },
+        {
+          "t_s": 0.002499605994671583,
+          "key": [
+            3.219739795,
+            84.9391,
+            19.64
+          ],
+          "choice": [
+            73,
+            37,
+            25,
+            0
+          ]
+        },
+        {
+          "t_s": 0.002499605994671583,
+          "key": [
+            3.229225636,
+            91.1599,
+            19.488333333
+          ],
+          "choice": [
+            42,
+            36,
+            25,
+            0
+          ]
+        },
+        {
+          "t_s": 0.002499605994671583,
+          "key": [
+            3.227072656,
+            93.8599,
+            19.635
+          ],
+          "choice": [
+            18,
+            36,
+            25,
+            0
+          ]
+        },
+        {
+          "t_s": 0.002499605994671583,
+          "key": [
+            3.242079675,
+            96.4303,
+            19.633333333
+          ],
+          "choice": [
+            83,
+            36,
+            25,
+            0
+          ]
+        },
+        {
+          "t_s": 0.002499605994671583,
+          "key": [
+            3.217025399,
+            100.3399,
+            19.681666667
+          ],
+          "choice": [
+            38,
+            37,
+            25,
+            0
+          ]
+        },
+        {
+          "t_s": 0.002499605994671583,
+          "key": [
+            3.237094998,
+            100.8799,
+            19.655
+          ],
+          "choice": [
+            92,
+            36,
+            25,
+            0
+          ]
+        },
+        {
+          "t_s": 0.002499605994671583,
+          "key": [
+            3.249269545,
+            103.9363,
+            19.498333333
+          ],
+          "choice": [
+            46,
+            36,
+            25,
+            0
+          ]
+        },
+        {
+          "t_s": 0.002499605994671583,
+          "key": [
+            3.227072656,
+            116.2591,
+            19.686666667
+          ],
+          "choice": [
+            18,
+            37,
+            25,
+            0
+          ]
+        },
+        {
+          "t_s": 0.002499605994671583,
+          "key": [
+            3.242079675,
+            118.8295,
+            19.685
+          ],
+          "choice": [
+            83,
+            37,
+            25,
+            0
+          ]
+        },
+        {
+          "t_s": 0.002499605994671583,
+          "key": [
+            3.247277796,
+            119.0239,
+            19.52
+          ],
+          "choice": [
+            101,
+            36,
+            25,
+            0
+          ]
+        },
+        {
+          "t_s": 0.002499605994671583,
+          "key": [
+            3.243898511,
+            122.4799,
+            19.565
+          ],
+          "choice": [
+            22,
+            36,
+            25,
+            0
+          ]
+        },
+        {
+          "t_s": 0.002499605994671583,
+          "key": [
+            3.237094998,
+            123.2791,
+            19.706666667
+          ],
+          "choice": [
+            92,
+            37,
+            25,
+            0
+          ]
+        },
+        {
+          "t_s": 0.002499605994671583,
+          "key": [
+            3.249269545,
+            126.3355,
+            19.55
+          ],
+          "choice": [
+            46,
+            37,
+            25,
+            0
+          ]
+        },
+        {
+          "t_s": 0.002499605994671583,
+          "key": [
+            3.244293451,
+            132.7399,
+            19.701666667
+          ],
+          "choice": [
+            108,
+            36,
+            25,
+            0
+          ]
+        },
+        {
+          "t_s": 0.002499605994671583,
+          "key": [
+            3.261428535,
+            133.4095,
+            19.4
+          ],
+          "choice": [
+            43,
+            36,
+            25,
+            0
+          ]
+        },
+        {
+          "t_s": 0.002499605994671583,
+          "key": [
+            3.247277796,
+            141.4231,
+            19.571666667
+          ],
+          "choice": [
+            101,
+            37,
+            25,
+            0
+          ]
+        },
+        {
+          "t_s": 0.002499605994671583,
+          "key": [
+            3.252337039,
+            141.9503,
+            19.633333333
+          ],
+          "choice": [
+            83,
+            36,
+            52,
+            0
+          ]
+        },
+        {
+          "t_s": 0.002499605994671583,
+          "key": [
+            3.247352362,
+            146.3999,
+            19.655
+          ],
+          "choice": [
+            92,
+            36,
+            52,
+            0
+          ]
+        },
+        {
+          "t_s": 0.002499605994671583,
+          "key": [
+            3.259526908,
+            149.4563,
+            19.498333333
+          ],
+          "choice": [
+            46,
+            36,
+            52,
+            0
+          ]
+        },
+        {
+          "t_s": 0.002499605994671583,
+          "key": [
+            3.214924037,
+            152.4391,
+            19.753333333
+          ],
+          "choice": [
+            98,
+            37,
+            25,
+            0
+          ]
+        },
+        {
+          "t_s": 0.002499605994671583,
+          "key": [
+            3.244293451,
+            155.1391,
+            19.753333333
+          ],
+          "choice": [
+            108,
+            37,
+            25,
+            0
+          ]
+        },
+        {
+          "t_s": 0.002499605994671583,
+          "key": [
+            3.261428535,
+            155.8087,
+            19.451666667
+          ],
+          "choice": [
+            43,
+            37,
+            25,
+            0
+          ]
+        },
+        {
+          "t_s": 0.002499605994671583,
+          "key": [
+            3.264929473,
+            164.2403,
+            19.446666667
+          ],
+          "choice": [
+            83,
+            36,
+            16,
+            0
+          ]
+        },
+        {
+          "t_s": 0.002499605994671583,
+          "key": [
+            3.252337039,
+            164.3495,
+            19.685
+          ],
+          "choice": [
+            83,
+            37,
+            52,
+            0
+          ]
+        },
+        {
+          "t_s": 0.002499605994671583,
+          "key": [
+            3.25753516,
+            164.5439,
+            19.52
+          ],
+          "choice": [
+            101,
+            36,
+            52,
+            0
+          ]
+        },
+        {
+          "t_s": 0.002499605994671583,
+          "key": [
+            3.254155874,
+            167.9999,
+            19.565
+          ],
+          "choice": [
+            22,
+            36,
+            52,
+            0
+          ]
+        },
+        {
+          "t_s": 0.002499605994671583,
+          "key": [
+            3.259944797,
+            168.6899,
+            19.468333333
+          ],
+          "choice": [
+            92,
+            36,
+            16,
+            0
+          ]
+        },
+        {
+          "t_s": 0.002499605994671583,
+          "key": [
+            3.247352362,
+            168.7991,
+            19.706666667
+          ],
+          "choice": [
+            92,
+            37,
+            52,
+            0
+          ]
+        },
+        {
+          "t_s": 0.002499605994671583,
+          "key": [
+            3.272119343,
+            171.7463,
+            19.311666667
+          ],
+          "choice": [
+            46,
+            36,
+            16,
+            0
+          ]
+        },
+        {
+          "t_s": 0.002499605994671583,
+          "key": [
+            3.259526908,
+            171.8555,
+            19.55
+          ],
+          "choice": [
+            46,
+            37,
+            52,
+            0
+          ]
+        },
+        {
+          "t_s": 0.002499605994671583,
+          "key": [
+            3.26047492,
+            173.2099,
+            19.473333333
+          ],
+          "choice": [
+            73,
+            36,
+            26,
+            0
+          ]
+        }
+      ],
+      "PTS": [
+        {
+          "t_s": 0.00019577192142605782,
+          "key": [
+            3.244293451,
+            132.7399,
+            19.701666667
+          ],
+          "choice": [
+            108,
+            36,
+            25,
+            0
+          ]
+        },
+        {
+          "t_s": 0.0002221423201262951,
+          "key": [
+            3.244293451,
+            155.1391,
+            19.753333333
+          ],
+          "choice": [
+            108,
+            37,
+            25,
+            0
+          ]
+        },
+        {
+          "t_s": 0.00026798294857144356,
+          "key": [
+            3.245904863,
+            157.8823,
+            19.516666667
+          ],
+          "choice": [
+            108,
+            39,
+            25,
+            0
+          ]
+        },
+        {
+          "t_s": 0.000294507946819067,
+          "key": [
+            3.242079675,
+            96.4303,
+            19.633333333
+          ],
+          "choice": [
+            83,
+            36,
+            25,
+            0
+          ]
+        },
+        {
+          "t_s": 0.0003167339600622654,
+          "key": [
+            3.242079675,
+            118.8295,
+            19.685
+          ],
+          "choice": [
+            83,
+            37,
+            25,
+            0
+          ]
+        },
+        {
+          "t_s": 0.0003316202200949192,
+          "key": [
+            3.252337039,
+            164.3495,
+            19.685
+          ],
+          "choice": [
+            83,
+            37,
+            52,
+            0
+          ]
+        },
+        {
+          "t_s": 0.0003813388757407665,
+          "key": [
+            3.252337039,
+            141.9503,
+            19.633333333
+          ],
+          "choice": [
+            83,
+            36,
+            52,
+            0
+          ]
+        },
+        {
+          "t_s": 0.00040464429184794426,
+          "key": [
+            3.264929473,
+            164.2403,
+            19.446666667
+          ],
+          "choice": [
+            83,
+            36,
+            16,
+            0
+          ]
+        },
+        {
+          "t_s": 0.0004320121370255947,
+          "key": [
+            3.243691087,
+            121.5727,
+            19.448333333
+          ],
+          "choice": [
+            83,
+            39,
+            25,
+            0
+          ]
+        },
+        {
+          "t_s": 0.00044870004057884216,
+          "key": [
+            3.25394845,
+            167.0927,
+            19.448333333
+          ],
+          "choice": [
+            83,
+            39,
+            52,
+            0
+          ]
+        },
+        {
+          "t_s": 0.0004824199713766575,
+          "key": [
+            3.237094998,
+            100.8799,
+            19.655
+          ],
+          "choice": [
+            92,
+            36,
+            25,
+            0
+          ]
+        },
+        {
+          "t_s": 0.0005050119943916798,
+          "key": [
+            3.237094998,
+            123.2791,
+            19.706666667
+          ],
+          "choice": [
+            92,
+            37,
+            25,
+            0
+          ]
+        },
+        {
+          "t_s": 0.0005202470347285271,
+          "key": [
+            3.247352362,
+            168.7991,
+            19.706666667
+          ],
+          "choice": [
+            92,
+            37,
+            52,
+            0
+          ]
+        },
+        {
+          "t_s": 0.0005642790347337723,
+          "key": [
+            3.247352362,
+            146.3999,
+            19.655
+          ],
+          "choice": [
+            92,
+            36,
+            52,
+            0
+          ]
+        },
+        {
+          "t_s": 0.0005874340422451496,
+          "key": [
+            3.259944797,
+            168.6899,
+            19.468333333
+          ],
+          "choice": [
+            92,
+            36,
+            16,
+            0
+          ]
+        },
+        {
+          "t_s": 0.000621073879301548,
+          "key": [
+            3.243898511,
+            122.4799,
+            19.565
+          ],
+          "choice": [
+            22,
+            36,
+            25,
+            0
+          ]
+        },
+        {
+          "t_s": 0.0006576701998710632,
+          "key": [
+            3.254155874,
+            167.9999,
+            19.565
+          ],
+          "choice": [
+            22,
+            36,
+            52,
+            0
+          ]
+        },
+        {
+          "t_s": 0.0007320749573409557,
+          "key": [
+            3.214924037,
+            152.4391,
+            19.753333333
+          ],
+          "choice": [
+            98,
+            37,
+            25,
+            0
+          ]
+        },
+        {
+          "t_s": 0.000764746218919754,
+          "key": [
+            3.227072656,
+            93.8599,
+            19.635
+          ],
+          "choice": [
+            18,
+            36,
+            25,
+            0
+          ]
+        },
+        {
+          "t_s": 0.0007871589623391628,
+          "key": [
+            3.227072656,
+            116.2591,
+            19.686666667
+          ],
+          "choice": [
+            18,
+            37,
+            25,
+            0
+          ]
+        },
+        {
+          "t_s": 0.0008569899946451187,
+          "key": [
+            3.247277796,
+            119.0239,
+            19.52
+          ],
+          "choice": [
+            101,
+            36,
+            25,
+            0
+          ]
+        },
+        {
+          "t_s": 0.0008803443051874638,
+          "key": [
+            3.247277796,
+            141.4231,
+            19.571666667
+          ],
+          "choice": [
+            101,
+            37,
+            25,
+            0
+          ]
+        },
+        {
+          "t_s": 0.000924048013985157,
+          "key": [
+            3.25753516,
+            164.5439,
+            19.52
+          ],
+          "choice": [
+            101,
+            36,
+            52,
+            0
+          ]
+        },
+        {
+          "t_s": 0.000983675941824913,
+          "key": [
+            3.249269545,
+            103.9363,
+            19.498333333
+          ],
+          "choice": [
+            46,
+            36,
+            25,
+            0
+          ]
+        },
+        {
+          "t_s": 0.001006145030260086,
+          "key": [
+            3.249269545,
+            126.3355,
+            19.55
+          ],
+          "choice": [
+            46,
+            37,
+            25,
+            0
+          ]
+        },
+        {
+          "t_s": 0.0010233432985842228,
+          "key": [
+            3.259526908,
+            171.8555,
+            19.55
+          ],
+          "choice": [
+            46,
+            37,
+            52,
+            0
+          ]
+        },
+        {
+          "t_s": 0.001070123165845871,
+          "key": [
+            3.259526908,
+            149.4563,
+            19.498333333
+          ],
+          "choice": [
+            46,
+            36,
+            52,
+            0
+          ]
+        },
+        {
+          "t_s": 0.00109447306022048,
+          "key": [
+            3.272119343,
+            171.7463,
+            19.311666667
+          ],
+          "choice": [
+            46,
+            36,
+            16,
+            0
+          ]
+        },
+        {
+          "t_s": 0.0011229938827455044,
+          "key": [
+            3.250880957,
+            129.0787,
+            19.313333333
+          ],
+          "choice": [
+            46,
+            39,
+            25,
+            0
+          ]
+        },
+        {
+          "t_s": 0.001154635101556778,
+          "key": [
+            3.217025399,
+            77.9407,
+            19.63
+          ],
+          "choice": [
+            38,
+            36,
+            25,
+            0
+          ]
+        },
+        {
+          "t_s": 0.0011805281974375248,
+          "key": [
+            3.217025399,
+            100.3399,
+            19.681666667
+          ],
+          "choice": [
+            38,
+            37,
+            25,
+            0
+          ]
+        },
+        {
+          "t_s": 0.0012420592829585075,
+          "key": [
+            3.261428535,
+            133.4095,
+            19.4
+          ],
+          "choice": [
+            43,
+            36,
+            25,
+            0
+          ]
+        },
+        {
+          "t_s": 0.001264398917555809,
+          "key": [
+            3.261428535,
+            155.8087,
+            19.451666667
+          ],
+          "choice": [
+            43,
+            37,
+            25,
+            0
+          ]
+        },
+        {
+          "t_s": 0.0013097072951495647,
+          "key": [
+            3.263039947,
+            158.5519,
+            19.215
+          ],
+          "choice": [
+            43,
+            39,
+            25,
+            0
+          ]
+        },
+        {
+          "t_s": 0.0013378411531448364,
+          "key": [
+            3.219739795,
+            62.5399,
+            19.588333333
+          ],
+          "choice": [
+            73,
+            36,
+            25,
+            0
+          ]
+        },
+        {
+          "t_s": 0.0013647712767124176,
+          "key": [
+            3.219739795,
+            84.9391,
+            19.64
+          ],
+          "choice": [
+            73,
+            37,
+            25,
+            0
+          ]
+        },
+        {
+          "t_s": 0.0014176121912896633,
+          "key": [
+            3.26047492,
+            173.2099,
+            19.473333333
+          ],
+          "choice": [
+            73,
+            36,
+            26,
+            0
+          ]
+        },
+        {
+          "t_s": 0.0014554350636899471,
+          "key": [
+            3.221351206,
+            87.6823,
+            19.403333333
+          ],
+          "choice": [
+            73,
+            39,
+            25,
+            0
+          ]
+        },
+        {
+          "t_s": 0.0014896420761942863,
+          "key": [
+            3.229225636,
+            91.1599,
+            19.488333333
+          ],
+          "choice": [
+            42,
+            36,
+            25,
+            0
+          ]
+        },
+        {
+          "t_s": 0.0015489179641008377,
+          "key": [
+            3.23277241,
+            87.9199,
+            19.406666667
+          ],
+          "choice": [
+            12,
+            36,
+            25,
+            0
+          ]
+        },
+        {
+          "t_s": 0.0016101081855595112,
+          "key": [
+            3.22967416,
+            38.2399,
+            19.193333333
+          ],
+          "choice": [
+            68,
+            36,
+            25,
+            0
+          ]
+        },
+        {
+          "t_s": 0.0016560372896492481,
+          "key": [
+            3.270409286,
+            171.3091,
+            19.13
+          ],
+          "choice": [
+            68,
+            37,
+            26,
+            0
+          ]
+        },
+        {
+          "t_s": 0.0016823778860270977,
+          "key": [
+            3.22967416,
+            60.6391,
+            19.245
+          ],
+          "choice": [
+            68,
+            37,
+            25,
+            0
+          ]
+        },
+        {
+          "t_s": 0.0017074132338166237,
+          "key": [
+            3.252523959,
+            128.4491,
+            19.058333333
+          ],
+          "choice": [
+            68,
+            37,
+            16,
+            0
+          ]
+        },
+        {
+          "t_s": 0.0018200362101197243,
+          "key": [
+            3.270409286,
+            148.9099,
+            19.078333333
+          ],
+          "choice": [
+            68,
+            36,
+            26,
+            0
+          ]
+        },
+        {
+          "t_s": 0.0018495521508157253,
+          "key": [
+            3.239931524,
+            83.7599,
+            19.193333333
+          ],
+          "choice": [
+            68,
+            36,
+            52,
+            0
+          ]
+        },
+        {
+          "t_s": 0.001879069022834301,
+          "key": [
+            3.252523959,
+            106.0499,
+            19.006666667
+          ],
+          "choice": [
+            68,
+            36,
+            16,
+            0
+          ]
+        },
+        {
+          "t_s": 0.0019295960664749146,
+          "key": [
+            3.231285572,
+            63.3823,
+            19.008333333
+          ],
+          "choice": [
+            68,
+            39,
+            25,
+            0
+          ]
+        },
+        {
+          "t_s": 0.001956006046384573,
+          "key": [
+            3.25413537,
+            131.1923,
+            18.821666667
+          ],
+          "choice": [
+            68,
+            39,
+            16,
+            0
+          ]
+        },
+        {
+          "t_s": 0.0019907401874661446,
+          "key": [
+            3.213924527,
+            55.3255,
+            19.201666667
+          ],
+          "choice": [
+            29,
+            36,
+            25,
+            0
+          ]
+        }
+      ]
+    },
+    "first_discovery": {
+      "PACS": {
+        "key": [
+          3.219739795,
+          62.5399,
+          19.588333333
+        ],
+        "t_s": 0.002499605994671583
+      },
+      "PTS": {
+        "key": [
+          3.244293451,
+          132.7399,
+          19.701666667
+        ],
+        "t_s": 0.00019577192142605782
+      }
+    }
+  }
+}

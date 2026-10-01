@@ -1,0 +1,121 @@
+{
+  "builder_sha256": "a872c65defe6f4ef23f3638a51360ae875466759d436e178f8e0f296d8cf48dd",
+  "presentation": "PTS is the depth-first policy: PTS ablation arms from the *_ablation_dfs jobs, deceptive and budget-split from the *_dfs jobs and the case study from the *_case_gap jobs (depth-first PTS, query chosen where PTS recovers reference points PBS misses), whose runners record pts_traversal; UCT measurements remain only in the raw records",
+  "generation_command": "PYTHONPATH=<code> MPLCONFIGDIR=/tmp/cgq-mpl OMP_NUM_THREADS=1 OPENBLAS_NUM_THREADS=1 python <paper>/review_artifacts/campaign_ablation/build_publication.py",
+  "helpers": {
+    "<code>/gquery/figures/plot_exp4.py": "7908766eb2ba2d22a2560d07f8eb00ce6c29f871a6d910b71d87f30c23febab2"
+  },
+  "source_commit": "675c41a71a2eee1515495637d8c6ebe997f21fde",
+  "dirty_diff_sha256": "ade5926b2f6b6a3508239478708475cb4ddf582c4c81737444478ff025c3318a",
+  "sources": {
+    "amazon.ablation": {
+      "path": "<paper>/revision_campaign_20260914/sensitivity/amazon_ablation/ablation.csv",
+      "sha256": "7e0825a8c7cf4cb26718e60561816336fc01dae9a897a7ef32faa54786d02657",
+      "reconstruction_sha256": "dd86724186cbedc21547a0b9369be2afd663025bf36042883caf95a0557c7e67"
+    },
+    "airbnb.ablation": {
+      "path": "<paper>/revision_campaign_20260914/sensitivity/airbnb_ablation/ablation.csv",
+      "sha256": "48f801b4d838c826045bd1a8cf64f2a015ceef1d63ae35004ac916333b1563dc",
+      "reconstruction_sha256": "94a7f83f6daa426d79d6696fb4e2fcfcebf1399a0d39c9a79bc3b3b4c810d326"
+    },
+    "amazon.deceptive": {
+      "path": "<paper>/revision_campaign_20260914/sensitivity/amazon_deceptive_dfs/deceptive.csv",
+      "sha256": "90f55f9bef677ed0dd5ecefc4246337213b49471b1dcedd32078b0f71eb9ee6f",
+      "reconstruction_sha256": "02682245e39825a42e4663e396870651dbd925f7f95ca260f177d10cc81c1302"
+    },
+    "airbnb.deceptive": {
+      "path": "<paper>/revision_campaign_20260914/sensitivity/airbnb_deceptive_dfs/deceptive.csv",
+      "sha256": "d4f06f1ba1b0e0c86638b32da094f0e8ec513594ab388d916c809441b389c2e9",
+      "reconstruction_sha256": "d0226758472adadb2bd1a4b378f16b7b606e3d5b395c2a7dfa5f71208d21e3b3"
+    },
+    "amazon.budget_split": {
+      "path": "<paper>/revision_campaign_20260914/sensitivity/amazon_budget_split_dfs/budget_split.csv",
+      "sha256": "4b8e2732ca1c89a94a969f5bd590c0b5e9b7028aed7a2d010d4e6b73b42a75f8",
+      "reconstruction_sha256": "a3cbf4d5af36799f6c52e6d61eab1ab216cc445efe113c1ed4c21a38380aff9c"
+    },
+    "airbnb.budget_split": {
+      "path": "<paper>/revision_campaign_20260914/sensitivity/airbnb_budget_split_dfs/budget_split.csv",
+      "sha256": "ed6bd93cc91bcfd26fcb1bcc005ec7c991359fffd3e15495b24a48b92cc364ac",
+      "reconstruction_sha256": "82fe2cb0c1d86e71d0caf3f5e9d60c468b5b525d266d82f376ac00416d25e194"
+    },
+    "amazon.case": {
+      "path": "<paper>/revision_campaign_20260914/sensitivity/amazon_case_gap/case_study.tex",
+      "sha256": "5ed3ffeeda055df0293d8ba9b1dbefa4f626a463f2dd23f023e7597a71e34e26",
+      "reconstruction_sha256": "4e0196eb4443cba93315df9e1c66b994bb2a501700140f49ad6ba9e979928ebb"
+    },
+    "airbnb.case": {
+      "path": "<paper>/revision_campaign_20260914/sensitivity/airbnb_case_gap/case_study.tex",
+      "sha256": "ebbc983160dc9a9c5338500adde172a29c5d7875898e2d7f27344f99f0e2d3da",
+      "reconstruction_sha256": "212e78467c33be941d1fa162043cd124a52a1ea65c6d682d6c1ac9ffd6ecaea4"
+    },
+    "amazon.ablation_dfs": {
+      "path": "<paper>/revision_campaign_20260914/sensitivity/amazon_ablation_dfs/ablation.csv",
+      "sha256": "ad34197a28128496e77042fce88dc4e99de6ec44f802ebc09cffd7d0783171e5",
+      "reconstruction_sha256": "4d7b01a2d01afdbf8ed63f847eda973c40cc71b8232d05882dcae7bf2b10a0d7"
+    },
+    "airbnb.ablation_dfs": {
+      "path": "<paper>/revision_campaign_20260914/sensitivity/airbnb_ablation_dfs/ablation.csv",
+      "sha256": "b9cf6d71cb94e683729d57edbff5748dc58c74649935233c6637959c4dd9dbcc",
+      "reconstruction_sha256": "9db23c431ed3dd97d9b17eda30d574c005964d916d34cc7b1bd461e53fb37f10"
+    }
+  },
+  "quality_denominator": "metric-eligible queries (feasible, validated complete nonempty reference); failed feasible arms score zero; ablation panels pair each arm with the full method on the same eligible query (PTS is the depth-first policy, whose arms and full method come from the depth-first ablation job); work ratios use timed arms with nonzero full-method evaluations",
+  "ablation_threshold": 0.8,
+  "generated": {
+    "table_case_study_airbnb.tex": "ebbc983160dc9a9c5338500adde172a29c5d7875898e2d7f27344f99f0e2d3da",
+    "amazon_deceptive_summary.csv": "4780ad34bb7aae5d4bae03793f44c371ba5310340c5a2e10fe0dfa7c1db3350c",
+    "airbnb_budget_split_summary.csv": "a855797ac5297b7d09fc740c8403fe66313590e5108e9e6dafecb31d7e3d395d",
+    "amazon_budget_split_summary.csv": "a4b8129eb623c5b814b879dc3bdb75b584e74b34db8c7037c745d05c76ff605f",
+    "table_case_study_airbnb.provenance.json": "8a32db4dec7c2f6015d07b34e8666735da3717fcaf666f660785bb0aa5e2e155",
+    "generation_source.diff": "ade5926b2f6b6a3508239478708475cb4ddf582c4c81737444478ff025c3318a",
+    "airbnb_ablation_summary.csv": "f32695afd736d3e4bf996495c5cddad00e4e1af2f4fe541c833bcc894bd6b007",
+    "airbnb_ablation_denominators.csv": "d7a5d1e9464d18dd3f6ec312beb4f8b42c35d1df3444de86217e4f24d66f70a9",
+    "table_case_study_amazon.provenance.json": "8ec74da81f685d9c7a183c1842404ea3a8c56d19dbb5433431768a873cdfe56b",
+    "amazon_ablation_denominators.csv": "1b182ca0c5167ca536cac87e1df0b0615ea752a4ffea562e271e50cf017ce94c",
+    "airbnb_deceptive_summary.csv": "91a160ffcd2bb0d013a875193b0af372f96970a836bc9c6e1c67f591265c0b69",
+    "table_case_study_amazon.tex": "5ed3ffeeda055df0293d8ba9b1dbefa4f626a463f2dd23f023e7597a71e34e26",
+    "amazon_ablation_summary.csv": "1e954c3e8e02cdefd1bc7ea90fa3c43ac67219f31a419d533d7ca5e0c46b5bb7",
+    "amazon/ablation_dist_work.pdf": "fa1d335bf3c7b2ff65f083058b519d0847166e7a4468e20cc35902806ff1d44f",
+    "amazon/ablation_dist_hv.csv": "e2ca56ea4390465f5651895cd67061509a03c88c407cb19e0d1f14bd7095410f",
+    "amazon/deceptive_rule.pdf": "c27fb4ea75417db5d1b6de17d48c8e1cfd8bd92a86b65f069f422e83098ed4c2",
+    "amazon/budget_success.pdf": "40bd11374ef62626a325a4ed725ab00cfa8b65cb733f964d964fd7193a1ee940",
+    "amazon/deceptive_width.pdf": "fe2a9c6da01f038817ce345a9e7306910f89d87380f35ae0345514d9daa09d9c",
+    "amazon/budget_recall.png": "3796aa6aa24b9e331c51538a4c1aaa878ec2ef4487c7f70f78a3281b401071f7",
+    "amazon/deceptive_rule.csv": "73d2ffadb1d444ea8da0c59fca481c41eab4c082a1fc445396a62f185a874311",
+    "amazon/ablation_dist_work.csv": "9248f075763d39c8e3ec4bc6e03ea09dea551e728e1332d8e76087e0f8d4a9f5",
+    "amazon/budget_success.png": "1f1b903b05c958d98930c9ba8d73d2a212fc6ecc33cfa8121458aaeedbd872d8",
+    "amazon/budget_recall.pdf": "0ec69fffeab1af0a85904365e6bc17ccb897baa9c834374a656b57b900224945",
+    "amazon/ablation_dist_recall.csv": "dccf051d766f1518373c6e2946af29e70496f0da077fd15efb0a6d4963e1bc4b",
+    "amazon/ablation_dist_hv.png": "5420b2ffca2df76928604e247c761654fb8032e54a70874be4bcd9c7bb0b632e",
+    "amazon/deceptive_width.png": "66d3cee825ce9bac204fe967efdc3e48ae484a6c6bab8c9553db1bed6c0a5fad",
+    "amazon/ablation_dist_recall.png": "f1ec33d2b4790a393aac6439e5b18f22cfdaaf2c8e342f592881625e713182d8",
+    "amazon/ablation_dist_hv.pdf": "140b9c52806312ea078e7a8318ae14a8b92bf5980367448b63e777f48acace7b",
+    "amazon/budget_recall.csv": "a7dc7245000a6178040b688cde646cf3d41edead45babb8fcf280da6c687a4c3",
+    "amazon/ablation_dist_recall.pdf": "1784c5570975c1ee337413d23c3dc81522fe54624f581662087df61d2b8eeb01",
+    "amazon/deceptive_rule.png": "027f4fd5514225f28c8b92edcf2995f34be28efefd35301767dc707358c7dc2b",
+    "amazon/budget_success.csv": "c539d3fb792d17775cea99725579deb13bcd83f1d877cd5ff01a06806bc486c8",
+    "amazon/ablation_dist_work.png": "6bdf4f093107541b008aa57293396478ecba57ad53d3c18523a5506e61bd0068",
+    "amazon/deceptive_width.csv": "d5264f035b4fc84a269541b06b30fe129aee049f4371983d7a1aa69e925ca7d0",
+    "airbnb/ablation_dist_work.pdf": "8653c2bda0b2d60d5f0161d67240a23af5a0eba152b2c526ebe17da5bfe7088a",
+    "airbnb/ablation_dist_hv.csv": "98927f564cf7fb56ed692cd8784b2e72dd5ad7193b492c35e3ff2732236de028",
+    "airbnb/deceptive_rule.pdf": "1acd83d4ad7af505292b961db3a87a9ae983ad5afa8bbfce49475c1cb7e738a8",
+    "airbnb/budget_success.pdf": "9e9e0c71eb600edfc1d10d05b7cdd15d8b068ee816de4786b964bb66382099b7",
+    "airbnb/deceptive_width.pdf": "cf3abe0a6d63043f7755f79426115d1fff8850778ddfb41a57757168a03e4a38",
+    "airbnb/budget_recall.png": "9a13981e7135f1a770c0084a56fd4f248f195850bd824526c782c47205e61c38",
+    "airbnb/deceptive_rule.csv": "c9bd016cc9c199b4240ef4aa2ab02f2c97400f922c9541032c58343291c21ba7",
+    "airbnb/ablation_dist_work.csv": "357fb53429e30d69bb9407a960181a51732082e0668f8790439cd439cbc49852",
+    "airbnb/budget_success.png": "08f471ea60f04a973a189583f398512ae028b9a0d28b80e70f1be15094ca7b98",
+    "airbnb/budget_recall.pdf": "93aad816763faf7c5837dd57538bf0ca300666fd863a45d2deb0a8661235c63a",
+    "airbnb/ablation_dist_recall.csv": "929568332352d044dba1a3728eea1410a55f5080bb86f866c970af861f89ee34",
+    "airbnb/ablation_dist_hv.png": "0969dc6ca9976cb9e610dd892215fa13855ed38d708169d3c851a600d0772f4e",
+    "airbnb/deceptive_width.png": "66d3cee825ce9bac204fe967efdc3e48ae484a6c6bab8c9553db1bed6c0a5fad",
+    "airbnb/ablation_dist_recall.png": "83bd38c06b09a0bd7a331487a35a8f4fb5735a00bf9804867e505047421fd5a9",
+    "airbnb/ablation_dist_hv.pdf": "3d36702be69a735d665e10f6c7b4dca0308ffb26948acf23056de9abead59f5c",
+    "airbnb/budget_recall.csv": "9aa999418fd44e1c4b289937c5de35759f2afcc0a2f6c0a8abb7e0fac8fc4ca3",
+    "airbnb/ablation_dist_recall.pdf": "093e54a174818942f425ac7fc54427b5d03a4cc298c23d10166b3c9cf258169a",
+    "airbnb/deceptive_rule.png": "d2b5da44a361d4743af84d8965a5bc1e6de7485041afe0b5771e64cdcaae8ac1",
+    "airbnb/budget_success.csv": "86509e4edb7d3843a8bcb6e61e60538d01129dc0cb9aa005351a81bdddc51731",
+    "airbnb/ablation_dist_work.png": "6fa90afbdd8aeed7aca9f65869a76049ba1025ebcd6b9d2b8f20fe18f11bb78f",
+    "airbnb/deceptive_width.csv": "d5264f035b4fc84a269541b06b30fe129aee049f4371983d7a1aa69e925ca7d0"
+  }
+}

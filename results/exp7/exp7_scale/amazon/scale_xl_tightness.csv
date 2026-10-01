@@ -1,0 +1,9 @@
+budgets,setting,tight80_share
+per-catalog budgets,e11_cat10k,0.41
+per-catalog budgets,e11_cat30k_recal,0.41
+per-catalog budgets,e12_cat1m_recal,0.41
+per-catalog budgets,e12_cat2m_recal,0.41
+fixed 110K budgets,e11_cat10k,0.41
+fixed 110K budgets,e11_cat30k,0.06
+fixed 110K budgets,e12_cat1m,0.01
+fixed 110K budgets,e12_cat2m,0.0

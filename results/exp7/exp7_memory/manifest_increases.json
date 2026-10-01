@@ -1,0 +1,21 @@
+{
+  "builder_sha256": "e6e96d35a5c4c194aad1c070cc9e45e72ba3dae7ebe3414553e638734c99b9fa",
+  "sources": {
+    "figures/papers/exp7_memory/table_memory_methods.tex": "bcda682d65bfd433bb9c4903caaeba27359b6d279970b0abf57a0933c5b99a9e",
+    "revision_memory_grids_20260916/e11_cat10k/mem_e11_cat10k.json": "26d2f7eb62c2a9a5696befef3e80755d440745409683053890a75c32381c7a4d",
+    "revision_memory_grids_20260916/e11_cat10k/validation.json": "599bd3d604d764a6089d32421a196f3be571a824fca4bf0c9ff1b0a5bc76ee31",
+    "revision_memory_grids_20260916/e11_cat30k/mem_e11_cat30k.json": "c8a21004fe4e1ad6f9f1b5eca3114d27ec056625f2bb9f495c96532436580877",
+    "revision_memory_grids_20260916/e11_cat30k/validation.json": "679040ded2471785436602808942781899c5b2ea3d260bea0e6aefb420f62cdd",
+    "revision_memory_grids_20260916/e12_cat1m/mem_e12_cat1m.json": "92c5bad1debd267dbbbb9854981dc55c71710288fd4237139fb9bb712c675cca",
+    "revision_memory_grids_20260916/e12_cat1m/validation.json": "337c3b978ab7bd49f1d7ed3d632a23fb9c09974c7dcc7170c72bcde1ec8fad4a",
+    "revision_memory_grids_20260916/e12_cat2m/mem_e12_cat2m.json": "9364d36d72625166aa577fa7594641a867440ffaaa138adb762744dea4598aa5",
+    "revision_memory_grids_20260916/e12_cat2m/validation.json": "cde6401de4dc58493d706fcdfd6399aeb6409fad08f079c81e3b354a519fd745",
+    "revision_memory_grids_20260916/airbnb_12c/mem_airbnb_12c.json": "1b5ee15dd34fd7d7c9886c9b77c4be236704fa56a9f60b7a25de63218bc3a390",
+    "revision_memory_grids_20260916/airbnb_12c/validation.json": "68d0585a7c960f814d1acefd381d3f9ef6f142f093e445ee5fea95e7723436e2"
+  },
+  "semantics": "Table presents Amazon catalogs only; CSV retains both datasets. Sampled peak RSS increase over each fresh process baseline after loading the same 100 candidate inputs. Sample interval 1 ms. Non-ILP columns retain original values; ILP columns rerun sequentially with g=4 and g=16 and 60 s per-query limits.",
+  "outputs": {
+    "table_memory_increases.tex": "644a14b54952b1b7fc5c1bc8d8d3af3d05c283d0b91895c35dd329dfe4506189",
+    "memory_ilp_grids.csv": "9bd6a8b87b9cc5e8e0a6f65c3ed5b5b4a835a429dfd89856b7c78202e544e132"
+  }
+}

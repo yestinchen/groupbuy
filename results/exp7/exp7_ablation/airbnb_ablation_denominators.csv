@@ -1,0 +1,13 @@
+panel,family,arm,beta,n_requested,n_paired,n_metric,n_failure,n_timeout,median
+ablation_dist_recall,PACS,-rawcost,0.8,100,100,100,0,0,-0.19622764227642273
+ablation_dist_recall,PTS,-bound,0.8,100,100,100,0,0,0.0
+ablation_dist_recall,PTS,-prefixdom,0.8,100,100,100,0,0,0.0
+ablation_dist_recall,PTS,-bound-prefixdom,0.8,100,100,100,0,0,0.0
+ablation_dist_hv,PACS,-rawcost,0.8,100,100,100,0,0,-0.4359287371955043
+ablation_dist_hv,PTS,-bound,0.8,100,100,100,0,0,0.0
+ablation_dist_hv,PTS,-prefixdom,0.8,100,100,100,0,0,-0.03826376122979441
+ablation_dist_hv,PTS,-bound-prefixdom,0.8,100,100,100,0,0,-0.050669105992013797
+ablation_dist_work,PACS,-rawcost,0.8,100,100,100,0,0,0.4152033653959776
+ablation_dist_work,PTS,-bound,0.8,100,100,100,0,0,1.0
+ablation_dist_work,PTS,-prefixdom,0.8,100,100,100,0,0,0.9178531339451284
+ablation_dist_work,PTS,-bound-prefixdom,0.8,100,100,100,0,0,0.8897130216173583

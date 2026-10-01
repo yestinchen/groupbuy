@@ -1,0 +1,21 @@
+setting,method,e2e_median_ms
+airbnb_lad29k,PACS,5.303619895130351
+airbnb_lad58k_recal,PACS,7.4651392642408005
+airbnb_lad115k_recal,PACS,11.619094992056452
+airbnb_lad231k_recal,PACS,16.993456054478848
+airbnb_lad29k,PTS,9.440524037927299
+airbnb_lad58k_recal,PTS,10.50963345915075
+airbnb_lad115k_recal,PTS,11.66156399995085
+airbnb_lad231k_recal,PTS,13.9470032881945
+airbnb_lad29k,PACS unbounded,5.8592795394360495
+airbnb_lad58k_recal,PACS unbounded,8.8033422362059
+airbnb_lad115k_recal,PACS unbounded,13.20229214616115
+airbnb_lad231k_recal,PACS unbounded,20.964224589988547
+airbnb_lad29k,Pareto-DP,10.87524695321915
+airbnb_lad58k_recal,Pareto-DP,23.769185412675053
+airbnb_lad115k_recal,Pareto-DP,47.751116100698695
+airbnb_lad231k_recal,Pareto-DP,84.23793013207609
+airbnb_lad29k,retrieval,0.6250394508242
+airbnb_lad58k_recal,retrieval,1.1001755483448
+airbnb_lad115k_recal,retrieval,1.7585952300578
+airbnb_lad231k_recal,retrieval,3.06944386102255

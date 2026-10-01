@@ -1,0 +1,37 @@
+method,deadline_ms,median,q25,q75,metric,n_evaluated,clock,mode
+PACS,3.3,0.0,0.0,0.0,hv,100,method,observation
+PACS,10.0,0.0,0.0,0.9993622609127384,hv,100,method,observation
+PACS,30.0,0.7087846369523334,0.0,0.9993622609127384,hv,100,method,observation
+PACS,100.0,0.8337182727816521,0.6160320407549973,0.9993622609127384,hv,100,method,observation
+PACS,300.0,0.8337182727816521,0.635295657592968,0.9993622609127384,hv,100,method,observation
+PACS,1000.0,0.8337182727816521,0.635295657592968,0.9993622609127384,hv,100,method,observation
+PTS,3.3,0.0,0.0,0.15935681294523055,hv,100,method,observation
+PTS,10.0,0.18906888843548175,0.06744796874772667,0.5157924601159152,hv,100,method,observation
+PTS,30.0,0.30379049761659843,0.12796313313388047,0.6744956540368413,hv,100,method,observation
+PTS,100.0,0.5348118917808353,0.20690440428810464,0.9151195034034951,hv,100,method,observation
+PTS,300.0,0.6730521304704487,0.3106120050417366,1.0,hv,100,method,observation
+PTS,1000.0,0.6889946406104601,0.33741865944380356,1.0,hv,100,method,observation
+eps-ILP g=4,3.3,0.0,0.0,0.0,hv,100,method,observation
+eps-ILP g=4,10.0,0.0,0.0,0.0,hv,100,method,observation
+eps-ILP g=4,30.0,0.0,0.0,0.0347535893680274,hv,100,method,observation
+eps-ILP g=4,100.0,0.14824302532683936,0.003540831007373625,0.42936960558794146,hv,100,method,observation
+eps-ILP g=4,300.0,0.4009343847211722,0.21268954947517063,0.5289523521026867,hv,100,method,observation
+eps-ILP g=4,1000.0,0.41471756119493486,0.307968722060027,0.5467707054821767,hv,100,method,observation
+eps-ILP g=16,3.3,0.0,0.0,0.0,hv,100,method,observation
+eps-ILP g=16,10.0,0.0,0.0,0.0,hv,100,method,observation
+eps-ILP g=16,30.0,0.0,0.0,0.026380789536967326,hv,100,method,observation
+eps-ILP g=16,100.0,0.10508944917597729,0.002532452907748,0.3967740006493351,hv,100,method,observation
+eps-ILP g=16,300.0,0.4593000738412172,0.22421416901232738,0.5894307742192094,hv,100,method,observation
+eps-ILP g=16,1000.0,0.5193513939985615,0.4170618121083331,0.6558803293335783,hv,100,method,observation
+PBS-unbounded,3.3,0.0,0.0,0.0,hv,100,method,observation
+PBS-unbounded,10.0,0.0,0.0,1.0,hv,100,method,observation
+PBS-unbounded,30.0,0.0,0.0,1.0,hv,100,method,observation
+PBS-unbounded,100.0,1.0,0.0,1.0,hv,100,method,observation
+PBS-unbounded,300.0,1.0,1.0,1.0,hv,100,method,observation
+PBS-unbounded,1000.0,1.0,1.0,1.0,hv,100,method,observation
+Pareto-DP,3.3,0.0,0.0,0.0,hv,100,method,observation
+Pareto-DP,10.0,0.0,0.0,0.0,hv,100,method,observation
+Pareto-DP,30.0,0.0,0.0,1.0,hv,100,method,observation
+Pareto-DP,100.0,0.0,0.0,1.0,hv,100,method,observation
+Pareto-DP,300.0,1.0,0.0,1.0,hv,100,method,observation
+Pareto-DP,1000.0,1.0,1.0,1.0,hv,100,method,observation

@@ -1,0 +1,43 @@
+method,deadline_ms,median,q25,q75,metric,n_evaluated,clock,mode
+PACS,1.1,0.0,0.0,0.0,hv,100,method,hard
+PACS,3.0,0.0,0.0,1.0,hv,100,method,hard
+PACS,10.0,1.0,0.8815010631623571,1.0,hv,100,method,hard
+PACS,30.0,1.0,0.8905489510092436,1.0,hv,100,method,hard
+PACS,100.0,1.0,0.8930709443574991,1.0,hv,100,method,hard
+PACS,300.0,1.0,0.8930709443574991,1.0,hv,100,method,hard
+PACS,1000.0,1.0,0.8930709443574991,1.0,hv,100,method,hard
+PTS,1.1,0.0,0.0,0.0,hv,100,method,hard
+PTS,3.0,0.2735458152030754,0.11207499800069814,0.4206577763767443,hv,100,method,hard
+PTS,10.0,0.5411842767533952,0.32339194186297854,0.7447913334799389,hv,100,method,hard
+PTS,30.0,0.7469027465852759,0.41868179896489854,0.9892855676187411,hv,100,method,hard
+PTS,100.0,0.9774248517900954,0.6783729426695343,1.0,hv,100,method,hard
+PTS,300.0,1.0,0.9371586940434926,1.0,hv,100,method,hard
+PTS,1000.0,1.0,0.9639613011979761,1.0,hv,100,method,hard
+eps-ILP g=4,1.1,0.0,0.0,0.0,hv,100,method,hard
+eps-ILP g=4,3.0,0.0,0.0,0.0,hv,100,method,hard
+eps-ILP g=4,10.0,0.0,0.0,0.00018903102597135,hv,100,method,hard
+eps-ILP g=4,30.0,0.23069696934424525,0.0422932123934947,0.4280125600765342,hv,100,method,hard
+eps-ILP g=4,100.0,0.49420630793096887,0.33482160195432853,0.6945053694721942,hv,100,method,hard
+eps-ILP g=4,300.0,0.5903326264241633,0.42035897234049374,0.7308471860808557,hv,100,method,hard
+eps-ILP g=4,1000.0,0.5934917396947149,0.4372129452435031,0.7308471860808557,hv,100,method,hard
+eps-ILP g=16,1.1,0.0,0.0,0.0,hv,100,method,hard
+eps-ILP g=16,3.0,0.0,0.0,0.0,hv,100,method,hard
+eps-ILP g=16,10.0,0.0,0.0,0.00018903102597135,hv,100,method,hard
+eps-ILP g=16,30.0,0.2298997992468309,0.0637822379408597,0.442195533972936,hv,100,method,hard
+eps-ILP g=16,100.0,0.4001789589358258,0.2897790985272828,0.6110148124616592,hv,100,method,hard
+eps-ILP g=16,300.0,0.4949938601156679,0.31799038316363226,0.6556072437378385,hv,100,method,hard
+eps-ILP g=16,1000.0,0.5153777042159973,0.34874586478623515,0.727926946972716,hv,100,method,hard
+PBS-unbounded,1.1,0.0,0.0,0.0,hv,100,method,hard
+PBS-unbounded,3.0,0.0,0.0,1.0,hv,100,method,hard
+PBS-unbounded,10.0,1.0,1.0,1.0,hv,100,method,hard
+PBS-unbounded,30.0,1.0,1.0,1.0,hv,100,method,hard
+PBS-unbounded,100.0,1.0,1.0,1.0,hv,100,method,hard
+PBS-unbounded,300.0,1.0,1.0,1.0,hv,100,method,hard
+PBS-unbounded,1000.0,1.0,1.0,1.0,hv,100,method,hard
+Pareto-DP,1.1,0.0,0.0,0.0,hv,100,method,hard
+Pareto-DP,3.0,0.0,0.0,1.0,hv,100,method,hard
+Pareto-DP,10.0,1.0,0.0,1.0,hv,100,method,hard
+Pareto-DP,30.0,1.0,1.0,1.0,hv,100,method,hard
+Pareto-DP,100.0,1.0,1.0,1.0,hv,100,method,hard
+Pareto-DP,300.0,1.0,1.0,1.0,hv,100,method,hard
+Pareto-DP,1000.0,1.0,1.0,1.0,hv,100,method,hard

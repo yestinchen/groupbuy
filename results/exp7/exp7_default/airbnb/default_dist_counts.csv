@@ -1,0 +1,6 @@
+method,n_requested,n_feasible,n_metric,n_timed,n_returned,n_completed,n_timeout,n_guard
+PACS,100,100,100,100,99,100,0,0
+PTS,100,100,100,100,100,30,0,0
+eps-ILP g=16,100,100,100,100,100,100,0,0
+Pareto-DP,100,100,100,100,99,99,1,0
+PBF,100,100,100,100,22,20,2,78

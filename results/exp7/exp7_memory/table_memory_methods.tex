@@ -1,0 +1,12 @@
+% isolated per-method sampled peak RSS in MB of a fresh process holding only the stripped candidate inputs, with the sampled increase over its resident baseline in parentheses; ru_maxrss is not used because a child forked from the large parent inherits the parent high-water mark; epsilon arm is grid 4; 1 ms sampling cannot establish exact allocation peaks
+\begin{tabular}{lrrrrr}
+\toprule
+catalog & \texttt{PBS} & \texttt{PTS} & $\epsilon$-ILP ($g{=}4$) & \texttt{PBS} unb. & DP \\
+\midrule
+110K & $661$ (+$0.27$) & $662$ (+$1.08$) & $666$ (+$5.54$) & $661$ (+$0.28$) & $661$ (+$0.29$) \\
+330K & $701$ (+$0.65$) & $702$ (+$1.96$) & $709$ (+$8.44$) & $703$ (+$2.38$) & $700$ (+$0.63$) \\
+1.1M & $836$ (+$0.83$) & $837$ (+$1.93$) & $853$ (+$17.24$) & $843$ (+$7.43$) & $836$ (+$0.96$) \\
+2.14M & $1054$ (+$0.84$) & $1055$ (+$1.99$) & $1083$ (+$29.52$) & $1061$ (+$7.97$) & $1054$ (+$1.00$) \\
+Airbnb 231K & $837$ (+$1.30$) & $839$ (+$3.04$) & $853$ (+$17.83$) & $844$ (+$8.09$) & $836$ (+$1.04$) \\
+\bottomrule
+\end{tabular}

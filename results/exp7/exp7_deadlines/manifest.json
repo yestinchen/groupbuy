@@ -1,0 +1,201 @@
+{
+  "builder_sha256": "511f7f3c8ea5ebada6e3ec131d550fa7c4f1d6fa798686cee60e7eb6e750cdd0",
+  "presentation": "PTS is the depth-first policy (runner label DFS, same budgets and references); UCT rows are excluded from every panel and summary and remain only in the raw records. Epsilon grids: the panels show g=4 (from the *_g4 jobs, merged on query and cutoff) and g=16; the campaign g=8 rows remain in the summary CSVs only. Pareto DP is the conventional DP without candidate reduction (*_dpconv jobs); the reduced DP arm remains only in the raw records",
+  "generation_command": "PYTHONPATH=<code> MPLCONFIGDIR=/tmp/cgq-mpl OMP_NUM_THREADS=1 OPENBLAS_NUM_THREADS=1 python <paper>/review_artifacts/campaign_deadlines/build_publication.py",
+  "helpers": {
+    "<code>/gquery/figures/plot_exp4.py": "7908766eb2ba2d22a2560d07f8eb00ce6c29f871a6d910b71d87f30c23febab2"
+  },
+  "source_commit": "b0562b8e066397b512c95a221ab94d97e5b400c8",
+  "dirty_diff_sha256": "736b70ba74217cca974ddf05402afdaaed8fcf8286f628879793abe7939f6536",
+  "sources": {
+    "amazon.observation": {
+      "path": "<paper>/revision_campaign_20260914/deadlines/amazon_observation/anytime.csv",
+      "sha256": "7c20c5c36a80bf1482e219ecdfe73d79190a661597820e76bdbe07e148a8760e",
+      "reconstruction_sha256": "5660e7851368e8ce00681355af0b027b11e62cdb41c9658570e301cb03a89c0d"
+    },
+    "amazon.observation_g4": {
+      "path": "<paper>/revision_campaign_20260914/deadlines/amazon_observation_g4/anytime.csv",
+      "sha256": "31f90eaf7d58d56a02be6c214e25405942fe23c79b693f1a9527a19b82b30313",
+      "reconstruction_sha256": "b143a9c2a3f5bab5b763e885a8d78e998e9fa38854985d95d74cdbf0f44c33ba"
+    },
+    "amazon.observation_dpconv": {
+      "path": "<paper>/revision_campaign_20260914/deadlines/amazon_observation_dpconv/anytime.csv",
+      "sha256": "c7b3e1335610ac33646fbc0104d825ad68c12ca65f9b1a2217f021f92eef17e1",
+      "reconstruction_sha256": "ac4908b25931d488281dc31329cce70f204a8c6ab8724357dbc0de6c36e6b6cd"
+    },
+    "amazon.fresh_stages": {
+      "path": "<paper>/revision_campaign_20260914/deadlines/amazon_fresh_stages/anytime.csv",
+      "sha256": "b62d7ec927b931c456dc5734dfa5f6bd1e2ce2a387c2705f907c04c5f310e6f4",
+      "reconstruction_sha256": "c652f68e340f934279e1052eb4eae9549d73df36f0b0c06bdacd7e3ce801149a"
+    },
+    "amazon.fresh_stages_g4": {
+      "path": "<paper>/revision_campaign_20260914/deadlines/amazon_fresh_stages_g4/anytime.csv",
+      "sha256": "fdec2369bb5e869d4fff928d7bb2b7c1a0061b0b4a70f0e83c8635bc4acc8a11",
+      "reconstruction_sha256": "24e1eb99151bbbc436ebcc57851bdfb5b8d882a911b6342ed60b2931b5efc229"
+    },
+    "amazon.fresh_stages_dpconv": {
+      "path": "<paper>/revision_campaign_20260914/deadlines/amazon_fresh_stages_dpconv/anytime.csv",
+      "sha256": "69daaae040b68970628c81056834aed7536c403102c8f46eb169afb803915860",
+      "reconstruction_sha256": "54ec730bcfde24a50bc3cbb7ce6322f4f8bc9b75edf8ee6f2c273b8c8e47c480"
+    },
+    "amazon.hard": {
+      "path": "<paper>/revision_campaign_20260914/deadlines/amazon_hard/anytime.csv",
+      "sha256": "18396a41941e18ab0ae4062ebf8a98fedb1dbc50c7ebe37d223dca730f1490b3",
+      "reconstruction_sha256": "807e0fa664c156b5c29db463c12efbaa6fae49dcd82ce847dc9a78373292b206"
+    },
+    "amazon.hard_g4": {
+      "path": "<paper>/revision_campaign_20260914/deadlines/amazon_hard_g4/anytime.csv",
+      "sha256": "b18ee428ac8ff96cb029a1084a21f4acda906681c49f3a2d5a78fe7864c6698d",
+      "reconstruction_sha256": "88d95347b06908f828d3975f8e9b097c844cda45c4ac3843e876155897e0e4ce"
+    },
+    "amazon.hard_dpconv": {
+      "path": "<paper>/revision_campaign_20260914/deadlines/amazon_hard_dpconv/anytime.csv",
+      "sha256": "65ed0912ccc6ed3eaef032f62c877dfa0a6cec542a2d7ca99790c63f1c372d33",
+      "reconstruction_sha256": "3e3bee67fe8e265fbcbe7adafa76dcb03cf93fd7985393c4fdf5b141b439fd7a"
+    },
+    "airbnb.observation": {
+      "path": "<paper>/revision_campaign_20260914/deadlines/airbnb_observation/anytime.csv",
+      "sha256": "fb2ca034704bfdfae77cd79f6969eb690057226448505db4e73979d66b5a3d36",
+      "reconstruction_sha256": "6c41cc1038c22223d7336bd1e1e8b5be585cca41081002d0c28ef61e8f514609"
+    },
+    "airbnb.observation_g4": {
+      "path": "<paper>/revision_campaign_20260914/deadlines/airbnb_observation_g4/anytime.csv",
+      "sha256": "affab4906a37728cbc784515bc5763fea7d070da43ae5d849a91e20cb59547a1",
+      "reconstruction_sha256": "4dfca2b693972da8029aba88a821cf1b1386102e92a463ba79fc4b8320f8a27b"
+    },
+    "airbnb.observation_dpconv": {
+      "path": "<paper>/revision_campaign_20260914/deadlines/airbnb_observation_dpconv/anytime.csv",
+      "sha256": "f82abd48810b4e780a3d3a2b009701d5e4e2b80f582b984adde13698c2066110",
+      "reconstruction_sha256": "75dd895979c126027f5adb584988857605e72e9948c148aa2ffcb974ddc70d11"
+    },
+    "airbnb.fresh_stages": {
+      "path": "<paper>/revision_campaign_20260914/deadlines/airbnb_fresh_stages/anytime.csv",
+      "sha256": "187adecc925bb047ae696c98a241bbe76d6ebbb2afe19b8cecee77666a90ad4d",
+      "reconstruction_sha256": "38f9b64cfded707a5235d68853f3fb26fa3f54c6fff6213a3301b702fb3c80e3"
+    },
+    "airbnb.fresh_stages_g4": {
+      "path": "<paper>/revision_campaign_20260914/deadlines/airbnb_fresh_stages_g4/anytime.csv",
+      "sha256": "00fa428ca1fd582d602a76a2a009935ef453003513aebd94d0c071c67f0415a7",
+      "reconstruction_sha256": "92a3850562bddf40d0ffe7b6989fbb09f0fc4c04e9a04ae214962e5c622cae9f"
+    },
+    "airbnb.fresh_stages_dpconv": {
+      "path": "<paper>/revision_campaign_20260914/deadlines/airbnb_fresh_stages_dpconv/anytime.csv",
+      "sha256": "b55c9506d3faea8e3dda04d870810c1925b0932aea14bfcb7be02f929459a320",
+      "reconstruction_sha256": "61e00cbedfa82a64e74ef63e6de7cf4bc6278d07b22823f90eddcff374fadd67"
+    },
+    "airbnb.hard": {
+      "path": "<paper>/revision_campaign_20260914/deadlines/airbnb_hard_rerun/anytime.csv",
+      "sha256": "7db235c83fcca7282f9cd9a84622c6192991583d5d14d07df413c9e58d2df6d1",
+      "reconstruction_sha256": "79525ed913619400d25f72f6425d069e6e41c3689fe239c7e8994d1f4479247a"
+    },
+    "airbnb.hard_g4": {
+      "path": "<paper>/revision_campaign_20260914/deadlines/airbnb_hard_g4/anytime.csv",
+      "sha256": "27fafc79cc3c23ff181edffbf52a52bcf4f97efb3f694ecc7db5c9a596a324a1",
+      "reconstruction_sha256": "6384b62202f403003fe62775ce58ae1f40bb8e3680070232cb54f1f2da32d70a"
+    },
+    "airbnb.hard_dpconv": {
+      "path": "<paper>/revision_campaign_20260914/deadlines/airbnb_hard_dpconv/anytime.csv",
+      "sha256": "d5b7e98629974ae9ad244a69443263f8e142f3ec6abefe077a2488bbe20fde77",
+      "reconstruction_sha256": "a0a5a666bd1ac0faa0f2e83add8d5238d165ccca864a78d5766d148499b8996d"
+    }
+  },
+  "quality_denominator": "metric-eligible queries (feasible, complete validated reference); a method with no snapshot by the cutoff scores zero; observation, fresh-stage, and hard modes are separate panels",
+  "timing": "observation and hard modes use the method clock; fresh-stage panels add the measured fresh retrieval offset; snapshot publication costs are inside the method clock; time-to-K is right censored at the observation horizon",
+  "generated": {
+    "airbnb_hard_summary.csv": "d79ac27399e6264c9890ad50c485dd4611747ee8f40b4b222dd33cec05ac5630",
+    "amazon_hard_summary.csv": "8fa8f7937559712dff38d41a6d9c029e5f01c3dbcc633a2a81e1cb04c0c0b54c",
+    "generation_source.diff": "736b70ba74217cca974ddf05402afdaaed8fcf8286f628879793abe7939f6536",
+    "airbnb_observation_summary.csv": "f9c8ee33e77353654cf54cad7cbe058f4c958728de78b45f910ded4b377b8580",
+    "amazon_fresh_stages_summary.csv": "b72007af74003c45ccdd525c7d2dd082c6a9dcc9130aeb97a6ef7bc15d572a9d",
+    "airbnb_fresh_stages_summary.csv": "4a4310f77566a487784504c8da2fce9d3d459ffeaf358cfdb1ac0e36bb8a6adb",
+    "amazon_observation_summary.csv": "47b67fb5bfe80a000fe626cd6a2f69c93a6e90d51e0442cdf1ad16459b587ac6",
+    "amazon/anytime_tfirst.pdf": "b7c9d8f657f4bdbdda4747bbc35583d159c8680a7391005431e97facfb373a16",
+    "amazon/anytime_deadline.pdf": "70c70643d07a67ba16ac14177dbacdd17bd65601ad79bcc30618ef61013a42e9",
+    "amazon/anytime_fresh_hv_deadline.csv": "a8d5c67cdddd80031381ecb8147b1e29f5fe1857428ec0cb0bfa38ffb8135aef",
+    "amazon/anytime_hv_deadline.png": "bc86d1716dc240dd2f3b79a7c9b377b23951b1dc2371fbf5937ed79f9b61d64a",
+    "amazon/anytime_ttok.png": "f47699f2805442f72808ef2ff05d974ec3ece8777f75ee11bf4679ece88c2b98",
+    "amazon/anytime_hv_deadline.pdf": "e49107801952a9a0247be1a0d137807c226dc65326ba54bcdf18ad317a11ccb2",
+    "amazon/anytime_fresh_tfirst.pdf": "3c759509f1bda77f8de7da4983f580e62a0e3629f63d22c5df283658c3c71b83",
+    "amazon/anytime_deadline.png": "5654454e1d5d295bbc911eeb1ebed5508000105c47624a8181256650ef451e63",
+    "amazon/anytime_fresh_tfirst.png": "1be25fb8ab08eed429abf5d47964546207c03e15fff7572a4e3e368a1cd1ac75",
+    "amazon/anytime_fresh_deadline.pdf": "aee0f6ce9b9dc8a9500c2dadf9056e684d0f661249f13f84d07e519d39c75094",
+    "amazon/anytime_tfirst.csv": "2c1e7fd1c660bbf2ccf47e408a109dee320f61c40db3fc8aba189c434ebc817b",
+    "amazon/anytime_fresh_ttok.pdf": "973aeb39fca2d2c1b06dbc72b23d9bfa7ea961516e00a81bb482ec1bac1ddf1e",
+    "amazon/anytime_hard_deadline.png": "9c12d445cb782f22657c542b5674a3c3e0d67269a77db7c294beb6926e3df1e2",
+    "amazon/anytime_tfirst.png": "261e04ebfa64a7d2451c78e8ee9ea0aa38510216d116c46872cf2f2c63db6493",
+    "amazon/anytime_deadline.csv": "535248b0250d2f3b92f0c0d2e3c4e5acc4b182b37e60802ce5351d1deab6326f",
+    "amazon/anytime_fresh_ttok.csv": "6537a288b512ff349db94281398fe77781e048c4dc61e5ea0864578d956a3ff6",
+    "amazon/anytime_fresh_hv_deadline.pdf": "986f2462e6b64e4564fc1e22fcec572cb79210af5c124f6d8b170eb20c4268e4",
+    "amazon/anytime_fresh_hv_deadline.png": "7012f0997daf7bf306cefd58124a990fbef0d22740c9262da01b6bb9cbca6e2d",
+    "amazon/anytime_ttok.pdf": "f103d7a90963c49cd28c1b8576b49472aab8bfcc282147694955c6d46832eb65",
+    "amazon/anytime_hard_hv_deadline.csv": "a1efa3ab50b85f877f368f705a79134d1530f8379f04574b4f9d11049ab38b9d",
+    "amazon/anytime_fresh_deadline.png": "9f481c8ed399bf960e360deef0dfad7d720f57547e499001f9a0e0b749f1f2a6",
+    "amazon/anytime_ttok.csv": "1df8018d9bc76b5e67e9b13a6505f9d474964d5420b86a1f174b9267050bbe3d",
+    "amazon/anytime_fresh_deadline.csv": "ded150c83f1f7a9fa91b4330e94066eb594b61d47b1da9984923c7050ddca0eb",
+    "amazon/anytime_hv_deadline.csv": "770862fb5d3291126556194f56cee99456ec9fbe086a72d2d68fdcadcb452aef",
+    "amazon/anytime_fresh_tfirst.csv": "d5f7a2d110909728738dff7b8690ce267eb1359c9756eea410edecdd066140de",
+    "amazon/anytime_hard_deadline.csv": "50c8cda6e23fea97b6acbfcecd2b95d21f62c19f440a29cc924e0b53e9303756",
+    "amazon/anytime_hard_hv_deadline.pdf": "27cf6d88f89b6b5fb437bc284ce250d02fae4c184cdb444e8ee6bbbbc9c8369a",
+    "amazon/anytime_fresh_ttok.png": "d4a46f20bd396d91f560fbd313dfdb91f2c522831f9bd1eacaf58b7db388019f",
+    "amazon/anytime_hard_deadline.pdf": "8b177d4dcf175169f1386265f51ad0053e296929f47c76802451eec214fe2f54",
+    "amazon/anytime_hard_hv_deadline.png": "7a080ab2701d3a9853693f6e982dc7563f36c8235d790a3e8c46ee10bc1018b1",
+    "airbnb/anytime_tfirst.pdf": "5ee03bb438c3fdc8bcae5293afd514acf6ef10bb8af146747b30a298160bebc1",
+    "airbnb/anytime_deadline.pdf": "14f649b2c0f31718b87f640391ae1244a0b3d523eae08a2779be8b9553fbf0a0",
+    "airbnb/anytime_fresh_hv_deadline.csv": "75187ba4b82e4a6f72077322fc563cd4aba553a544ab35e51e5dc631d79efede",
+    "airbnb/anytime_hv_deadline.png": "963012a69ca966601c86f684cc4c0d6414113ddc8f83d5b6b309946623a939dd",
+    "airbnb/anytime_ttok.png": "978d19525c28d57e821b660a4f8a43765f6143d9502fb23b5b944e50c4a4c980",
+    "airbnb/anytime_hv_deadline.pdf": "21b8dbd533e16f816f08428f1071ea1d2b46fcc559ba5311b036c89c8e3f247f",
+    "airbnb/anytime_fresh_tfirst.pdf": "f5bfb50cffad27a832f446b02a66a5f35ba68045da2e7dc05ab6a8244329e15d",
+    "airbnb/anytime_deadline.png": "305f9bad953a56240295920bd38e2671be8b8ee0a5f9837d4f6e11444901782e",
+    "airbnb/anytime_fresh_tfirst.png": "4234aeb8db5cee5b698158336927220afdb234fc6fdd207ace21258005c1a99d",
+    "airbnb/anytime_fresh_deadline.pdf": "441aa76cf468259021b5f36f1631e728ef20528ea8ac069b22cdf3bfbd8e5c17",
+    "airbnb/anytime_tfirst.csv": "0dc175a091dc217548555b69f270e3da15ddfb78ef404695bb4714dd62bc5529",
+    "airbnb/anytime_fresh_ttok.pdf": "606c72b2a2a97cb155033d2f165ca8a29a10bfd2b4a1eaa03e5660173fe6d1ff",
+    "airbnb/anytime_hard_deadline.png": "529f493c05d283799d9237a4b38901c2f7ceb427615ca3d70fce4aa24a2381fe",
+    "airbnb/anytime_tfirst.png": "89a2c84a8e877ee3c8e235e724cda4f6d9a63dbe8437accde653b49c0c02f6c9",
+    "airbnb/anytime_deadline.csv": "ea9396d3478e5bd1f2bfc860d2927bb381c00e0db9ac6143f57a7000ec183840",
+    "airbnb/anytime_fresh_ttok.csv": "203788b24f090f28c6ae067422fbc7b2c0a28cfd392ff74b16b6e0b26107dcf9",
+    "airbnb/anytime_fresh_hv_deadline.pdf": "974086281b1c1536644764d247a3165b2b4a9c90921cafe845a49fdc52cef236",
+    "airbnb/anytime_fresh_hv_deadline.png": "7cb937562f328e30ca263ef2f65ebfec2bf74b9a8101823d80c02c143d39dacd",
+    "airbnb/anytime_ttok.pdf": "febfe786e964e976d4f49d0a9b4c2690660cf051b0f859820237d1527c910f23",
+    "airbnb/anytime_hard_hv_deadline.csv": "0267a73da5266fb31167a1fdbb2e41e2d4eec17cdf3c76b303218778c5eb9e9e",
+    "airbnb/anytime_fresh_deadline.png": "ae74ae316124106446fa88649ee8f76be6c69201f4cfceb9e06488e0455f0659",
+    "airbnb/anytime_ttok.csv": "76d4e97d40bf87f4f1a9bd3d72fa7790e209b3dbdddd25a09746da3bc6a97e22",
+    "airbnb/anytime_fresh_deadline.csv": "56dcc6b3e19f04fbba8b155b03e3170031e2c894657ec64f81cc95f4a3ed0d38",
+    "airbnb/anytime_hv_deadline.csv": "3bd3e669c9a1dd5bedfbe285f38692ad4583659a62b788d95582760aa4504592",
+    "airbnb/anytime_fresh_tfirst.csv": "7f4fca8cc9adefe96f408238e7d96a005265aacc9ebb16b903d5f59c9b514076",
+    "airbnb/anytime_hard_deadline.csv": "89b583c8c59e36b1d837bd7915bc71b6a6f2c412bf7855283f0db7c42f623bc8",
+    "airbnb/anytime_hard_hv_deadline.pdf": "896fef1a1127e84cb15df86dad8ac170b985c2cc1c9b30c5ee225b3615954418",
+    "airbnb/anytime_fresh_ttok.png": "5d56d1399f3d4e1f432e2f6122928918c6ae1371f7f79afe2b8ecc164ccf7934",
+    "airbnb/anytime_hard_deadline.pdf": "60e9682e4365b8268cbc7b35618857f2eba519856afc5851d487434fa8dae4ae",
+    "airbnb/anytime_hard_hv_deadline.png": "d7fb8b684874ebdb5460e3227aca081155ffd03308c61c9332db170f2c00d0c0",
+    "amazon/elapsed_recall.pdf": "811fb9d16d874e4c9cd51b9d18c2f5f6e68a305caf3d187ecc235160e4826f03",
+    "amazon/elapsed_recall.png": "0890cce4d545b68287f536c51f01598bdfd620907859ea757620107c5d221328",
+    "amazon/elapsed_hv.pdf": "0dfb646def1ff53cfa037c9e770bf245500ad0509de0f06e5f0adbbbb968a21d",
+    "amazon/elapsed_hv.png": "53d10369fc51a6695806a12a28124f4d349d5a535eb7be80b2d456be2cc14e45",
+    "amazon/elapsed_legend.pdf": "458900c39c4cb95523e58d8e2e8cfece76ca2794a49bd35dfb485c6738b1d22e",
+    "amazon/elapsed_legend.png": "e2f7491c55f8be6352b001968d5fce48585d765e461fd4918a31126573c2b84b",
+    "airbnb/elapsed_recall.pdf": "32bb64c997ede986c0898857ca2cffb1f2bac0a197460a8167fd76f4e7c046e2",
+    "airbnb/elapsed_recall.png": "1389e522cd229f5598b4744f82e1e2657ddcaa0e826ae3b9ab36d8d6e084def1",
+    "airbnb/elapsed_hv.pdf": "8dabf50c5c0de3de751cee2bed375042d2b8274441cfaff63a6e9c3ba4ff0067",
+    "airbnb/elapsed_hv.png": "016e41b1efcfe152f241e587b4a810fd7701efe3e1c6d9e9a00fbd789063597a",
+    "airbnb/elapsed_legend.pdf": "ec7f00a311acd766473290c755228d3427c1ff52901bd6ba976f8b099bc3888b",
+    "airbnb/elapsed_legend.png": "4bc78409719f5e193768ea368c0f3a6392fe6804969e5280c6492a6088a2048b"
+  },
+  "observation_axis_revisions": {
+    "amazon": {
+      "script": "scripts/relabel_elapsed_time.py",
+      "sha256": "c5143e09ce1d477a0564f2774be596f89586bc56ab8d722804080ef8262a49ac",
+      "xlabel": "elapsed time (ms)",
+      "legend": "PBS, PTS, and epsilon-ILP g=16 shared across each recall/HV pair",
+      "data": "Unchanged summary CSVs"
+    },
+    "airbnb": {
+      "script": "scripts/relabel_elapsed_time.py",
+      "sha256": "c5143e09ce1d477a0564f2774be596f89586bc56ab8d722804080ef8262a49ac",
+      "xlabel": "elapsed time (ms)",
+      "legend": "PBS, PTS, and epsilon-ILP g=4 shared across each recall/HV pair",
+      "data": "Unchanged summary CSVs"
+    }
+  }
+}

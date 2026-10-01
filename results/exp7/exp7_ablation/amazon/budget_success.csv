@@ -1,0 +1,7 @@
+method,success,n_feasible
+Exact (shared),1.0,100
+PACS,1.0,100
+PTS,1.0,100
+Split-equal,0.59,100
+Split-median,0.81,100
+Split-proportional,1.0,100

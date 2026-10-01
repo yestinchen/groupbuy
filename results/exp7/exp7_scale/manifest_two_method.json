@@ -1,0 +1,38 @@
+{
+  "builder_sha256": "00b90f2e7356c1b8f8d00cf05d76e5b09bfa901e0a4ffe7312f115a21c60d012",
+  "plot_helper_sha256": "7908766eb2ba2d22a2560d07f8eb00ce6c29f871a6d910b71d87f30c23febab2",
+  "sources": {
+    "review_artifacts/campaign_scalability/build_publication.py": "c8ad6200850eceba46d373575cdc2a1369209fa2a0e74fbd2252af164a06e236",
+    "revision_campaign_20260914/scalability/amazon_xl/scale_xl.csv": "d6ceedfb484d90eb9c8c76717476872fe4f0be9ab8432eedcd5177975ac7d2ba",
+    "revision_campaign_20260914/scalability/amazon_xl/reconstruction.json": "309994fca475fcefbf085754943b205b46b605210bc2e6c9d7012608206de5ac",
+    "revision_campaign_20260914/scalability/amazon_xl_recal/scale_xl.csv": "a77e6715bad9e9114c655ac70641fa2c89fbb8926239dd0e259d1295007503ea",
+    "revision_campaign_20260914/scalability/amazon_xl_recal/reconstruction.json": "e02dd3c35f543a978764b6e5d936772fdd13220b4cfd7216d924962f7d761960",
+    "revision_campaign_20260914/scalability/amazon_xl_dfs/scale_xl.csv": "b6519e1b14e7fae0a349221f92b2e312739516071c342ee2a58832482690c42a",
+    "revision_campaign_20260914/scalability/amazon_xl_dfs/reconstruction.json": "45d78376051028ef415d82d812eb78d7bc4754c4c87b1f13167a060d4bd55936",
+    "revision_campaign_20260914/scalability/amazon_xl_recal_dfs/scale_xl.csv": "a4f131c955ccd4fd39c74f204432c620202e5b98f834aa7210522d7d8e28ce27",
+    "revision_campaign_20260914/scalability/amazon_xl_recal_dfs/reconstruction.json": "5e78a55e9df73d0c49f9034e2d45ac8ececc411de69ffa389febeefca23f88e2",
+    "revision_campaign_20260914/scalability/amazon_xl_kappa_dfs/scale_xl.csv": "f97b8767033bf5ac0d3b1977db3f8b4e655fc03952f7a87d6b480169ab62fbf8",
+    "revision_campaign_20260914/scalability/amazon_xl_kappa_dfs/reconstruction.json": "7fab2dd582750b245d15d15b723c0399a9ccd2d4c4db61efdad11eaa5e95dcc6",
+    "revision_campaign_20260914/scalability/amazon_xl_dpconv/scale_xl.csv": "0be44e234d7720f795eebd236367d0f4e042b89ccf4980b0696a2cb13a51bbf0",
+    "revision_campaign_20260914/scalability/amazon_xl_dpconv/reconstruction.json": "33c09394c77729767e86412a35fbaa4dd76ba7b2c98f253cb5866d170080f0c8",
+    "figures/papers/exp7_scale/amazon/scale_xl_latency.csv": "ddfd5e15bdc1c40116370004554fa39ccb0645aafba7112c4ca2fb7e48fc6d68",
+    "figures/papers/exp7_scale/amazon/scale_xl_recall.csv": "ceacfd1063dbb78903d289187351f578bdbdc547cce138bbd27341b169677e70",
+    "revision_campaign_20260914/scalability/airbnb_xl/scale_xl.csv": "81386ae79344dc9769d64fd889d466c5b3575be2a3b0a54a7bc5e89ed69fde70",
+    "revision_campaign_20260914/scalability/airbnb_xl/reconstruction.json": "b9d4958d3442ca8acc716e1b01c659c17a3e3be7f36757a289bf10e477d3d685",
+    "revision_campaign_20260914/scalability/airbnb_xl_dfs/scale_xl.csv": "db68da410fbe1dbe3dae9d244fcfdb38db975068313ced42c556d989426440c7",
+    "revision_campaign_20260914/scalability/airbnb_xl_dfs/reconstruction.json": "0300986c9266ffffa6843cfdcdee8226490b33585443c0f6fd825d95995ad20f",
+    "revision_campaign_20260914/scalability/airbnb_xl_dpconv/scale_xl.csv": "b33019edf439cc956d9460e134b4167cf2653d84c70e6c76f959256b8f3b77c5",
+    "revision_campaign_20260914/scalability/airbnb_xl_dpconv/reconstruction.json": "95a0e70d42ae76d80a694bbc538779d081a5b1c4212a81175f6e121ed6e25501",
+    "figures/papers/exp7_scale/airbnb/scale_xl_latency.csv": "62597902fabf48af3b5ca8620f2b1f0b798aa9158318726928e9523452e1f69d",
+    "figures/papers/exp7_scale/airbnb/scale_xl_recall.csv": "3993dd583503688c8efbbe3a97fd94f74efb0087854080c5f4b8089011a50ae0"
+  },
+  "change": "Main latency panels show only PBS and PTS. Original full panels remain in revision_scalability_20260914. Median values unchanged; bands show the 25th and 75th percentiles of total_s over all 100 measured queries per setting.",
+  "generated": {
+    "amazon/scale_xl_latency_pbs_pts.pdf": "a275c3485b5741409f5651a81ecd44fb371e6c5833e9b6d80842946b4b056ebd",
+    "amazon/scale_xl_latency_pbs_pts.png": "aba51989a9366c5a64a578169873f5d0cd642ddf1330033de995fbc72dc7811f",
+    "amazon/scale_xl_latency_pbs_pts.csv": "b883adff8a7591a3c51261075ff34272258ffcd66d5769ee74176fff2704e2e3",
+    "airbnb/scale_xl_latency_pbs_pts.pdf": "aedd2fe834a18e66d6ae4592b4a40f0c9b54cd61b882945b315e4c0eba592361",
+    "airbnb/scale_xl_latency_pbs_pts.png": "355bcf8b7a129777310b86c1752910b83dfd7546148d9844a5ec5466c7340feb",
+    "airbnb/scale_xl_latency_pbs_pts.csv": "8ecb5e19bb62aa60165b856c2f0c8a46e3f54adf45f506b1ead217be39d314c2"
+  }
+}

@@ -1,0 +1,16 @@
+# solvers, runners and figures
+numpy
+pandas
+pyarrow
+scipy>=1.11          # scipy.optimize.milp (HiGHS) for the epsilon-constraint ILP
+click
+torch                # retrieval: cosine similarity over the title embeddings (GPU optional)
+psutil
+threadpoolctl        # recorded in the campaign environment manifests
+matplotlib
+seaborn
+tqdm
+
+# data preparation only (LLM title cleaning, keyword extraction, embeddings via an OpenAI-compatible server)
+openai
+backoff

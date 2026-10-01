@@ -1,0 +1,11 @@
+setting,label,x,quantity,median,q25,q75,n,group
+e11_cat10k,10,10,candidates_before,160.0,77.0,303.75,100,amazon_category
+e11_cat10k,10,10,candidates_after,31.0,22.75,43.25,100,amazon_category
+e11_cat15k,15,15,candidates_before,239.0,111.75,450.75,100,amazon_category
+e11_cat15k,15,15,candidates_after,35.5,26.0,47.25,100,amazon_category
+e11_cat20k,20,20,candidates_before,305.5,142.5,588.25,100,amazon_category
+e11_cat20k,20,20,candidates_after,40.5,29.0,52.5,100,amazon_category
+e11_cat25k,25,25,candidates_before,364.5,174.5,738.25,100,amazon_category
+e11_cat25k,25,25,candidates_after,41.0,31.0,55.0,100,amazon_category
+e11_cat30k,30,30,candidates_before,435.0,202.75,900.25,100,amazon_category
+e11_cat30k,30,30,candidates_after,42.0,34.0,55.5,100,amazon_category

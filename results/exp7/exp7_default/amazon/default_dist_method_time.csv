@@ -1,0 +1,501 @@
+query_id,method,metric_eligible,solver_status,completed,termination_reason,value
+0,PACS,1,returned,True,completed,0.0010814829729497
+1,PACS,1,returned,True,completed,0.0098540750332176
+2,PACS,1,returned,True,completed,0.0029819919727742
+3,PACS,1,returned,True,completed,0.0007177558727562
+4,PACS,1,returned,True,completed,0.0004173400811851
+5,PACS,1,returned,True,completed,0.0019321958534419
+6,PACS,1,returned,True,completed,0.0003652810119092
+7,PACS,1,returned,True,completed,0.0015279599465429
+8,PACS,1,returned,True,completed,0.0003615282475948
+9,PACS,1,returned,True,completed,0.002770553342998
+10,PACS,1,returned,True,completed,0.0056953481398522
+11,PACS,1,returned,True,completed,0.0129693569615483
+12,PACS,1,returned,True,completed,0.0008413009345531
+13,PACS,1,returned,True,completed,0.0022457828745245
+14,PACS,1,returned,True,completed,0.0032119611278176
+15,PACS,1,returned,True,completed,0.0008783866651356
+16,PACS,1,returned,True,completed,0.0048298658803105
+17,PACS,1,returned,True,completed,0.0092636779882013
+18,PACS,1,returned,True,completed,0.0087527660652995
+19,PACS,1,returned,True,completed,0.004642997868359
+20,PACS,1,returned,True,completed,0.0003911848179996
+21,PACS,1,returned,True,completed,0.0057235131971538
+22,PACS,1,returned,True,completed,0.0031420271843671
+23,PACS,1,returned,True,completed,0.0009513166733086
+24,PACS,1,returned,True,completed,0.0005732038989663
+25,PACS,1,returned,True,completed,0.0054701128974556
+26,PACS,1,returned,True,completed,0.0046068951487541
+27,PACS,1,returned,True,completed,0.0035799038596451
+28,PACS,1,returned,True,completed,0.0005987896583974
+29,PACS,1,returned,True,completed,0.0015742667019367
+30,PACS,1,returned,True,completed,0.0002953200601041
+31,PACS,1,returned,True,completed,0.0051227179355919
+32,PACS,1,returned,True,completed,0.010213506873697
+33,PACS,1,returned,True,completed,0.0005914107896387
+34,PACS,1,returned,True,completed,0.0020730909891426
+35,PACS,1,returned,True,completed,0.0051992950029671
+36,PACS,1,returned,True,completed,0.0071205450221896
+37,PACS,1,returned,True,completed,0.0029537258669734
+38,PACS,1,returned,True,completed,0.0037274756468832
+39,PACS,1,returned,True,completed,0.0142171210609376
+40,PACS,1,returned,True,completed,0.0020077689550817
+41,PACS,1,returned,True,completed,0.001587179955095
+42,PACS,1,returned,True,completed,0.0005341819487512
+43,PACS,1,returned,True,completed,0.0015948349609971
+44,PACS,1,returned,True,completed,0.0007310416549444
+45,PACS,1,returned,True,completed,0.002184912096709
+46,PACS,1,returned,True,completed,0.0006024641916155
+47,PACS,1,returned,True,completed,0.0004060678184032
+48,PACS,1,returned,True,completed,0.0028859139420092
+49,PACS,1,returned,True,completed,0.000939454883337
+50,PACS,1,returned,True,completed,0.0043875207193195
+51,PACS,1,returned,True,completed,0.0036275335587561
+52,PACS,1,returned,True,completed,0.0025003752671182
+53,PACS,1,returned,True,completed,0.0028207097202539
+54,PACS,1,returned,True,completed,0.002308732829988
+55,PACS,1,returned,True,completed,0.0047714859247207
+56,PACS,1,returned,True,completed,0.0003972817212343
+57,PACS,1,returned,True,completed,0.0006770058535039
+58,PACS,1,returned,True,completed,0.0007517761550843
+59,PACS,1,returned,True,completed,0.0007835300639271
+60,PACS,1,returned,True,completed,0.0009101130999624
+61,PACS,1,returned,True,completed,0.001595864072442
+62,PACS,1,returned,True,completed,0.0081221419386565
+63,PACS,1,returned,True,completed,0.0044336020946502
+64,PACS,1,returned,True,completed,0.0012043239548802
+65,PACS,1,returned,True,completed,0.0102668353356421
+66,PACS,1,returned,True,completed,0.0011199368163943
+67,PACS,1,returned,True,completed,0.0003672861494123
+68,PACS,1,returned,True,completed,0.0067044249735772
+69,PACS,1,returned,True,completed,0.0053959810175001
+70,PACS,1,returned,True,completed,0.0005383901298046
+71,PACS,1,returned,True,completed,0.0075870351865887
+72,PACS,1,returned,True,completed,0.0021201618947088
+73,PACS,1,returned,True,completed,0.0075705046765506
+74,PACS,1,returned,True,completed,0.0004828246310353
+75,PACS,1,returned,True,completed,0.0003862981684505
+76,PACS,1,returned,True,completed,0.0002254708670079
+77,PACS,1,returned,True,completed,0.0019490788690745
+78,PACS,1,returned,True,completed,0.1209386889822781
+79,PACS,1,returned,True,completed,0.0073700137436389
+80,PACS,1,returned,True,completed,0.0006166361272335
+81,PACS,1,returned,True,completed,0.0005052969790995
+82,PACS,1,returned,True,completed,0.0017586601898074
+83,PACS,1,returned,True,completed,0.0039135450497269
+84,PACS,1,returned,True,completed,8.245697245001793e-05
+85,PACS,1,returned,True,completed,0.0019749188795685
+86,PACS,1,returned,True,completed,0.0039670011028647
+87,PACS,1,returned,True,completed,0.0071369740180671
+88,PACS,1,returned,True,completed,0.0038744383491575
+89,PACS,1,returned,True,completed,0.0038597253151237
+90,PACS,1,returned,True,completed,0.0003040842711925
+91,PACS,1,returned,True,completed,0.0025924779474735
+92,PACS,1,returned,True,completed,0.0004515969194471
+93,PACS,1,returned,True,completed,0.0031237313523888
+94,PACS,1,returned,True,completed,0.0011803619563579
+95,PACS,1,returned,True,completed,0.0004693460650742
+96,PACS,1,returned,True,completed,0.0002831858582794
+97,PACS,1,returned,True,completed,0.000215298961848
+98,PACS,1,returned,True,completed,0.0031017218716442
+99,PACS,1,returned,True,completed,0.0009660343639552
+0,PTS,1,returned,True,completed,0.0040028290823102
+1,PTS,1,returned,False,iteration_limit,0.0118294139392673
+2,PTS,1,returned,True,completed,0.0085875922814011
+3,PTS,1,returned,True,completed,0.0015356987714767
+4,PTS,1,returned,True,completed,0.0008173170499503
+5,PTS,1,returned,True,completed,0.0041217203252017
+6,PTS,1,returned,True,completed,0.0006156833842396
+7,PTS,1,returned,True,completed,0.0030838660895824
+8,PTS,1,returned,True,completed,0.0008095111697912
+9,PTS,1,returned,True,completed,0.0065641649998724
+10,PTS,1,returned,False,iteration_limit,0.009900227189064
+11,PTS,1,returned,False,iteration_limit,0.0090572731569409
+12,PTS,1,returned,True,completed,0.0022794627584517
+13,PTS,1,returned,True,completed,0.0052932137623429
+14,PTS,1,returned,True,completed,0.003352812025696
+15,PTS,1,returned,True,completed,0.0022381730377674
+16,PTS,1,returned,False,iteration_limit,0.0075435698963701
+17,PTS,1,returned,False,iteration_limit,0.0100743817165493
+18,PTS,1,returned,False,iteration_limit,0.0099149337038397
+19,PTS,1,returned,False,iteration_limit,0.0089374710805714
+20,PTS,1,returned,True,completed,0.0006719450466334
+21,PTS,1,returned,False,iteration_limit,0.0095384279265999
+22,PTS,1,returned,False,iteration_limit,0.0086964149959385
+23,PTS,1,returned,True,completed,0.0026740948669612
+24,PTS,1,returned,True,completed,0.0014566420577466
+25,PTS,1,returned,False,iteration_limit,0.0111620165407657
+26,PTS,1,returned,False,iteration_limit,0.0083786128088831
+27,PTS,1,returned,False,iteration_limit,0.0074948570691049
+28,PTS,1,returned,True,completed,0.0899645211175084
+29,PTS,1,returned,True,completed,0.0064125568605959
+30,PTS,1,returned,True,completed,0.0005842158570885
+31,PTS,1,returned,False,iteration_limit,0.007853589951992
+32,PTS,1,returned,False,iteration_limit,0.0112565299496054
+33,PTS,1,returned,True,completed,0.0010431301780045
+34,PTS,1,returned,True,completed,0.0061632408760488
+35,PTS,1,returned,False,iteration_limit,0.0106795108877122
+36,PTS,1,returned,False,iteration_limit,0.0093229170888662
+37,PTS,1,returned,True,completed,0.0061227423138916
+38,PTS,1,returned,True,completed,0.0091555402614176
+39,PTS,1,returned,False,iteration_limit,0.0129385688342154
+40,PTS,1,returned,False,iteration_limit,0.0077748256735503
+41,PTS,1,returned,True,completed,0.0061968402005732
+42,PTS,1,returned,True,completed,0.0014296481385827
+43,PTS,1,returned,True,completed,0.0031698066741228
+44,PTS,1,returned,True,completed,0.0020389910787343
+45,PTS,1,returned,True,completed,0.0055416286922991
+46,PTS,1,returned,True,completed,0.0008620186708867
+47,PTS,1,returned,True,completed,0.0011191917583346
+48,PTS,1,returned,True,completed,0.0050289593636989
+49,PTS,1,returned,True,completed,0.0013432600535452
+50,PTS,1,returned,True,completed,0.0101656490005552
+51,PTS,1,returned,False,iteration_limit,0.0090101151727139
+52,PTS,1,returned,True,completed,0.0039104209281504
+53,PTS,1,returned,True,completed,0.0030675060115754
+54,PTS,1,returned,True,completed,0.0074371541850268
+55,PTS,1,returned,True,completed,0.0083293141797184
+56,PTS,1,returned,True,completed,0.0009253220632672
+57,PTS,1,returned,True,completed,0.0014271601103246
+58,PTS,1,returned,True,completed,0.0017813411541283
+59,PTS,1,returned,True,completed,0.0024148453958332
+60,PTS,1,returned,True,completed,0.0020582173019647
+61,PTS,1,returned,True,completed,0.0083295069634914
+62,PTS,1,returned,False,iteration_limit,0.0111063080839812
+63,PTS,1,returned,False,iteration_limit,0.0090074921026825
+64,PTS,1,returned,True,completed,0.0028998898342251
+65,PTS,1,returned,False,iteration_limit,0.009332749992609
+66,PTS,1,returned,True,completed,0.0018039010465145
+67,PTS,1,returned,True,completed,0.0006579058244824
+68,PTS,1,returned,False,iteration_limit,0.0077128438279032
+69,PTS,1,returned,False,iteration_limit,0.0102124526165425
+70,PTS,1,returned,True,completed,0.0011151484213769
+71,PTS,1,returned,False,iteration_limit,0.00973905576393
+72,PTS,1,returned,True,completed,0.0039370567537844
+73,PTS,1,returned,False,iteration_limit,0.009986481629312
+74,PTS,1,returned,True,completed,0.0012303949333727
+75,PTS,1,returned,True,completed,0.0009944848716259
+76,PTS,1,returned,True,completed,0.000456407200545
+77,PTS,1,returned,True,completed,0.0023680990561842
+78,PTS,1,returned,False,iteration_limit,0.0100448741577565
+79,PTS,1,returned,False,iteration_limit,0.0082484148442745
+80,PTS,1,returned,True,completed,0.001271765679121
+81,PTS,1,returned,True,completed,0.0009669810533523
+82,PTS,1,returned,True,completed,0.0063861305825412
+83,PTS,1,returned,False,iteration_limit,0.0108444080688059
+84,PTS,1,returned,True,completed,9.855534881353378e-05
+85,PTS,1,returned,True,completed,0.0063255666755139
+86,PTS,1,returned,False,iteration_limit,0.0091116460971534
+87,PTS,1,returned,False,iteration_limit,0.0078719030134379
+88,PTS,1,returned,True,completed,0.0096849058754742
+89,PTS,1,returned,False,iteration_limit,0.0100460266694426
+90,PTS,1,returned,True,completed,0.0006262408569455
+91,PTS,1,returned,True,completed,0.0062411502003669
+92,PTS,1,returned,True,completed,0.0010266760364174
+93,PTS,1,returned,True,completed,0.0078168506734073
+94,PTS,1,returned,True,completed,0.0031214719638228
+95,PTS,1,returned,True,completed,0.0007665590383112
+96,PTS,1,returned,True,completed,0.0004352792166173
+97,PTS,1,returned,True,completed,0.0004602577537298
+98,PTS,1,returned,True,completed,0.0084593170322477
+99,PTS,1,returned,True,completed,0.0026575024239718
+0,eps-ILP g=16,1,returned,True,grid_complete,1.620329207740724
+1,eps-ILP g=16,1,returned,True,grid_complete,5.112274834886193
+2,eps-ILP g=16,1,returned,True,grid_complete,3.571371714118868
+3,eps-ILP g=16,1,returned,True,grid_complete,1.5233974088914692
+4,eps-ILP g=16,1,returned,True,grid_complete,1.6608248515985906
+5,eps-ILP g=16,1,returned,True,grid_complete,2.654966949950904
+6,eps-ILP g=16,1,returned,True,grid_complete,1.0230042580515146
+7,eps-ILP g=16,1,returned,True,grid_complete,1.716671081259847
+8,eps-ILP g=16,1,returned,True,grid_complete,1.2461868543177843
+9,eps-ILP g=16,1,returned,True,grid_complete,2.509240878280252
+10,eps-ILP g=16,1,returned,True,grid_complete,1.8235734542831776
+11,eps-ILP g=16,1,returned,True,grid_complete,6.17297456599772
+12,eps-ILP g=16,1,returned,True,grid_complete,1.7990798149257898
+13,eps-ILP g=16,1,returned,True,grid_complete,1.2259574439376593
+14,eps-ILP g=16,1,returned,True,grid_complete,2.77152687497437
+15,eps-ILP g=16,1,returned,True,grid_complete,1.5601816601119936
+16,eps-ILP g=16,1,returned,True,grid_complete,3.2105949502438307
+17,eps-ILP g=16,1,returned,True,grid_complete,3.8442240301519632
+18,eps-ILP g=16,1,returned,True,grid_complete,2.3555428902618587
+19,eps-ILP g=16,1,returned,True,grid_complete,2.684946452267468
+20,eps-ILP g=16,1,returned,True,grid_complete,1.639004830736667
+21,eps-ILP g=16,1,returned,True,grid_complete,3.0138083482161164
+22,eps-ILP g=16,1,returned,True,grid_complete,2.3068428211845458
+23,eps-ILP g=16,1,returned,True,grid_complete,1.52748940885067
+24,eps-ILP g=16,1,returned,True,grid_complete,1.3030806463211777
+25,eps-ILP g=16,1,returned,True,grid_complete,1.9532340923324227
+26,eps-ILP g=16,1,returned,True,grid_complete,3.419096161145717
+27,eps-ILP g=16,1,returned,True,grid_complete,4.418252537958324
+28,eps-ILP g=16,1,returned,True,grid_complete,1.3127887952141464
+29,eps-ILP g=16,1,returned,True,grid_complete,2.079165447037667
+30,eps-ILP g=16,1,returned,True,grid_complete,1.548777441959828
+31,eps-ILP g=16,1,returned,True,grid_complete,3.0175530849955976
+32,eps-ILP g=16,1,returned,True,grid_complete,4.30321244103834
+33,eps-ILP g=16,1,returned,True,grid_complete,1.735075839329511
+34,eps-ILP g=16,1,returned,True,grid_complete,3.421858994755894
+35,eps-ILP g=16,1,returned,True,grid_complete,5.776658711954951
+36,eps-ILP g=16,1,returned,True,grid_complete,2.660986336879432
+37,eps-ILP g=16,1,returned,True,grid_complete,1.912266650237143
+38,eps-ILP g=16,1,returned,True,grid_complete,3.069945853203535
+39,eps-ILP g=16,1,returned,True,grid_complete,5.97549491841346
+40,eps-ILP g=16,1,returned,True,grid_complete,1.889349517878145
+41,eps-ILP g=16,1,returned,True,grid_complete,1.6873648492619395
+42,eps-ILP g=16,1,returned,True,grid_complete,1.7496925541199744
+43,eps-ILP g=16,1,returned,True,grid_complete,2.4345719097182155
+44,eps-ILP g=16,1,returned,True,grid_complete,1.532703029923141
+45,eps-ILP g=16,1,returned,True,grid_complete,2.892905361019075
+46,eps-ILP g=16,1,returned,True,grid_complete,1.4886890184134245
+47,eps-ILP g=16,1,returned,True,grid_complete,0.7766564688645303
+48,eps-ILP g=16,1,returned,True,grid_complete,5.205705516040325
+49,eps-ILP g=16,1,returned,True,grid_complete,1.9915532930754123
+50,eps-ILP g=16,1,returned,True,grid_complete,6.241565837990493
+51,eps-ILP g=16,1,returned,True,grid_complete,2.3035583342425525
+52,eps-ILP g=16,1,returned,True,grid_complete,2.1737866778858006
+53,eps-ILP g=16,1,returned,True,grid_complete,1.6408016453497112
+54,eps-ILP g=16,1,returned,True,grid_complete,1.6824346450157464
+55,eps-ILP g=16,1,returned,True,grid_complete,3.977395657915622
+56,eps-ILP g=16,1,returned,True,grid_complete,1.257483183871955
+57,eps-ILP g=16,1,returned,True,grid_complete,1.6081002918072045
+58,eps-ILP g=16,1,returned,True,grid_complete,1.950949703808874
+59,eps-ILP g=16,1,returned,True,grid_complete,1.415745547041297
+60,eps-ILP g=16,1,returned,True,grid_complete,1.6181784351356328
+61,eps-ILP g=16,1,returned,True,grid_complete,2.008512519299984
+62,eps-ILP g=16,1,returned,True,grid_complete,4.255672852974385
+63,eps-ILP g=16,1,returned,True,grid_complete,2.693685602862388
+64,eps-ILP g=16,1,returned,True,grid_complete,1.7423770958557725
+65,eps-ILP g=16,1,returned,True,grid_complete,2.153112408705056
+66,eps-ILP g=16,1,returned,True,grid_complete,4.114376249257475
+67,eps-ILP g=16,1,returned,True,grid_complete,1.8717736760154369
+68,eps-ILP g=16,1,returned,True,grid_complete,2.123844564892352
+69,eps-ILP g=16,1,returned,True,grid_complete,3.0603266321122646
+70,eps-ILP g=16,1,returned,True,grid_complete,1.2155337478034198
+71,eps-ILP g=16,1,returned,True,grid_complete,2.39121029060334
+72,eps-ILP g=16,1,returned,True,grid_complete,2.5363819552585483
+73,eps-ILP g=16,1,returned,True,grid_complete,5.108676867093891
+74,eps-ILP g=16,1,returned,True,grid_complete,1.515991476830095
+75,eps-ILP g=16,1,returned,True,grid_complete,1.488676077220589
+76,eps-ILP g=16,1,returned,True,grid_complete,1.3457563486881554
+77,eps-ILP g=16,1,returned,True,grid_complete,3.756187515333295
+78,eps-ILP g=16,1,returned,True,grid_complete,2.7010558848269284
+79,eps-ILP g=16,1,returned,True,grid_complete,6.3055773340165615
+80,eps-ILP g=16,1,returned,True,grid_complete,1.8480822001583876
+81,eps-ILP g=16,1,returned,True,grid_complete,2.44700002996251
+82,eps-ILP g=16,1,returned,True,grid_complete,1.899757874198258
+83,eps-ILP g=16,1,returned,True,grid_complete,3.0388372451998293
+84,eps-ILP g=16,1,returned,True,grid_complete,0.5351934120990336
+85,eps-ILP g=16,1,returned,True,grid_complete,1.475410406012088
+86,eps-ILP g=16,1,returned,True,grid_complete,3.7385055529884994
+87,eps-ILP g=16,1,returned,True,grid_complete,3.2580409701913595
+88,eps-ILP g=16,1,returned,True,grid_complete,1.9403513451106849
+89,eps-ILP g=16,1,returned,True,grid_complete,3.365717487875372
+90,eps-ILP g=16,1,returned,True,grid_complete,1.7732192520052197
+91,eps-ILP g=16,1,returned,True,grid_complete,2.6166479368694127
+92,eps-ILP g=16,1,returned,True,grid_complete,1.5486426558345556
+93,eps-ILP g=16,1,returned,True,grid_complete,3.199153453111649
+94,eps-ILP g=16,1,returned,True,grid_complete,1.8749300385825336
+95,eps-ILP g=16,1,returned,True,grid_complete,2.0217507393099368
+96,eps-ILP g=16,1,returned,True,grid_complete,1.7472009621560574
+97,eps-ILP g=16,1,returned,True,grid_complete,0.7333370270207524
+98,eps-ILP g=16,1,returned,True,grid_complete,2.100269478280097
+99,eps-ILP g=16,1,returned,True,grid_complete,1.7779762437567117
+0,Pareto-DP,1,returned,True,completed,0.0013641309924423
+1,Pareto-DP,1,returned,True,completed,0.7406923053786159
+2,Pareto-DP,1,returned,True,completed,0.0053370939567685
+3,Pareto-DP,1,returned,True,completed,0.0004721409641206
+4,Pareto-DP,1,returned,True,completed,0.0004870276898145
+5,Pareto-DP,1,returned,True,completed,0.0038127610459923
+6,Pareto-DP,1,returned,True,completed,0.0003304141573607
+7,Pareto-DP,1,returned,True,completed,0.0043611899018287
+8,Pareto-DP,1,returned,True,completed,0.0003475127741694
+9,Pareto-DP,1,returned,True,completed,0.0059923203662037
+10,Pareto-DP,1,returned,True,completed,0.0311676333658397
+11,Pareto-DP,1,returned,True,completed,0.202410876750946
+12,Pareto-DP,1,returned,True,completed,0.0008059362880885
+13,Pareto-DP,1,returned,True,completed,0.0025674598291516
+14,Pareto-DP,1,returned,True,completed,0.0095119401812553
+15,Pareto-DP,1,returned,True,completed,0.0009811399504542
+16,Pareto-DP,1,returned,True,completed,0.0131421717815101
+17,Pareto-DP,1,returned,True,completed,0.0545117873698473
+18,Pareto-DP,1,returned,True,completed,0.0848324610851705
+19,Pareto-DP,1,returned,True,completed,0.0144287031143903
+20,Pareto-DP,1,returned,True,completed,0.0003971238620579
+21,Pareto-DP,1,returned,True,completed,0.0240314211696386
+22,Pareto-DP,1,returned,True,completed,0.0194711359217762
+23,Pareto-DP,1,returned,True,completed,0.0009370800107717
+24,Pareto-DP,1,returned,True,completed,0.0005159247666597
+25,Pareto-DP,1,returned,True,completed,0.0663735694251954
+26,Pareto-DP,1,returned,True,completed,0.0202322667464613
+27,Pareto-DP,1,returned,True,completed,0.0272889076732099
+28,Pareto-DP,1,returned,True,completed,0.0007018977776169
+29,Pareto-DP,1,returned,True,completed,0.0023811529390513
+30,Pareto-DP,1,returned,True,completed,0.000288447830826
+31,Pareto-DP,1,returned,True,completed,0.023184067569673
+32,Pareto-DP,1,returned,True,completed,0.5398797299712896
+33,Pareto-DP,1,returned,True,completed,0.0005997447296977
+34,Pareto-DP,1,returned,True,completed,0.0040336735546588
+35,Pareto-DP,1,returned,True,completed,0.0185905769467353
+36,Pareto-DP,1,returned,True,completed,0.0597667298279702
+37,Pareto-DP,1,returned,True,completed,0.0063394610770046
+38,Pareto-DP,1,returned,True,completed,0.0112682208418846
+39,Pareto-DP,1,returned,True,completed,0.3652621461078524
+40,Pareto-DP,1,returned,True,completed,0.0051460033282637
+41,Pareto-DP,1,returned,True,completed,0.0020709410309791
+42,Pareto-DP,1,returned,True,completed,0.0006142947822809
+43,Pareto-DP,1,returned,True,completed,0.0063260970637202
+44,Pareto-DP,1,returned,True,completed,0.001014931127429
+45,Pareto-DP,1,returned,True,completed,0.0052946642972528
+46,Pareto-DP,1,returned,True,completed,0.0007112128660082
+47,Pareto-DP,1,returned,True,completed,0.0005377219058573
+48,Pareto-DP,1,returned,True,completed,0.0083628399297595
+49,Pareto-DP,1,returned,True,completed,0.0016499343328177
+50,Pareto-DP,1,returned,True,completed,0.0305722821503877
+51,Pareto-DP,1,returned,True,completed,0.0110720517113804
+52,Pareto-DP,1,returned,True,completed,0.0037449817173182
+53,Pareto-DP,1,returned,True,completed,0.0080414959229528
+54,Pareto-DP,1,returned,True,completed,0.0031255492940545
+55,Pareto-DP,1,returned,True,completed,0.0076177511364221
+56,Pareto-DP,1,returned,True,completed,0.0004337970167398
+57,Pareto-DP,1,returned,True,completed,0.0005926662124693
+58,Pareto-DP,1,returned,True,completed,0.0009161918424069
+59,Pareto-DP,1,returned,True,completed,0.0015393448993563
+60,Pareto-DP,1,returned,True,completed,0.0011060051620006
+61,Pareto-DP,1,returned,True,completed,0.002600226085633
+62,Pareto-DP,1,returned,True,completed,0.1086117490194737
+63,Pareto-DP,1,returned,True,completed,0.0103993923403322
+64,Pareto-DP,1,returned,True,completed,0.0027763531543314
+65,Pareto-DP,1,returned,True,completed,0.0559144760482013
+66,Pareto-DP,1,returned,True,completed,0.0059171337634325
+67,Pareto-DP,1,returned,True,completed,0.0002919007092714
+68,Pareto-DP,1,returned,True,completed,0.0190778425894677
+69,Pareto-DP,1,returned,True,completed,0.0304647730663418
+70,Pareto-DP,1,returned,True,completed,0.0006203642114996
+71,Pareto-DP,1,returned,True,completed,0.0549391442909836
+72,Pareto-DP,1,returned,True,completed,0.0037291189655661
+73,Pareto-DP,1,returned,True,completed,0.0935676200315356
+74,Pareto-DP,1,returned,True,completed,0.0007113697938621
+75,Pareto-DP,1,returned,True,completed,0.0004916270263493
+76,Pareto-DP,1,returned,True,completed,0.0002038362435996
+77,Pareto-DP,1,returned,True,completed,0.0034759189002215
+78,Pareto-DP,1,returned,True,completed,0.2147984593175351
+79,Pareto-DP,1,returned,True,completed,0.1879100557416677
+80,Pareto-DP,1,returned,True,completed,0.0010017249733209
+81,Pareto-DP,1,returned,True,completed,0.000568323303014
+82,Pareto-DP,1,returned,True,completed,0.0034121638163924
+83,Pareto-DP,1,returned,True,completed,0.0194982369430363
+84,Pareto-DP,1,returned,True,completed,8.189026266336441e-05
+85,Pareto-DP,1,returned,True,completed,0.0033365949057042
+86,Pareto-DP,1,returned,True,completed,0.0143184913322329
+87,Pareto-DP,1,returned,True,completed,0.0305011230520904
+88,Pareto-DP,1,returned,True,completed,0.0078305238857865
+89,Pareto-DP,1,returned,True,completed,0.0324048823677003
+90,Pareto-DP,1,returned,True,completed,0.0003311801701784
+91,Pareto-DP,1,returned,True,completed,0.006626424845308
+92,Pareto-DP,1,returned,True,completed,0.0005042199045419
+93,Pareto-DP,1,returned,True,completed,0.0093170353211462
+94,Pareto-DP,1,returned,True,completed,0.001558827701956
+95,Pareto-DP,1,returned,True,completed,0.0008612619712948
+96,Pareto-DP,1,returned,True,completed,0.0002797441557049
+97,Pareto-DP,1,returned,True,completed,0.0002183243632316
+98,Pareto-DP,1,returned,True,completed,0.0046156849712133
+99,Pareto-DP,1,returned,True,completed,0.0014281859621405
+0,PBF,1,returned,True,complete,0.0250536166131496
+1,PBF,1,work_limit,False,combination_limit,3.4980010241270065e-05
+2,PBF,1,work_limit,False,combination_limit,2.4870969355106357e-05
+3,PBF,1,returned,True,complete,0.0031291367486119
+4,PBF,1,returned,True,complete,0.0134853371419012
+5,PBF,1,solver_timeout,False,timeout,30.27979727461934
+6,PBF,1,returned,True,complete,0.0006687599234282
+7,PBF,1,returned,True,complete,0.2894490398466587
+8,PBF,1,returned,True,complete,0.0006409790366888
+9,PBF,1,returned,True,complete,0.6817868379876018
+10,PBF,1,solver_timeout,False,timeout,30.301989597734064
+11,PBF,1,work_limit,False,combination_limit,1.9611790776252747e-05
+12,PBF,1,returned,True,complete,0.0052161132916808
+13,PBF,1,returned,True,complete,0.6133676329627633
+14,PBF,1,returned,True,complete,4.090541020967066
+15,PBF,1,returned,True,complete,0.0183401308022439
+16,PBF,1,work_limit,False,combination_limit,2.2375956177711487e-05
+17,PBF,1,work_limit,False,combination_limit,2.506934106349945e-05
+18,PBF,1,solver_timeout,False,timeout,30.273691239766777
+19,PBF,1,returned,True,complete,6.952163702342659
+20,PBF,1,returned,True,complete,0.0040854401886463
+21,PBF,1,returned,True,complete,18.04650718905032
+22,PBF,1,returned,True,complete,9.382316923700271
+23,PBF,1,returned,True,complete,0.006798337213695
+24,PBF,1,returned,True,complete,0.0018379669636487
+25,PBF,1,returned,True,complete,25.528683035634455
+26,PBF,1,work_limit,False,combination_limit,2.2917985916137692e-05
+27,PBF,1,solver_timeout,False,timeout,30.15818023029715
+28,PBF,1,returned,True,complete,0.0015766648575663
+29,PBF,1,returned,True,complete,0.1866417787969112
+30,PBF,1,returned,True,complete,0.0026230136863887
+31,PBF,1,solver_timeout,False,timeout,30.33964446792379
+32,PBF,1,work_limit,False,combination_limit,2.3132190108299252e-05
+33,PBF,1,returned,True,complete,0.0040433262474834
+34,PBF,1,returned,True,complete,23.63354243012145
+35,PBF,1,returned,True,complete,5.043981424067169
+36,PBF,1,solver_timeout,False,timeout,30.38976096222177
+37,PBF,1,returned,True,complete,2.4186605559661984
+38,PBF,1,returned,True,complete,18.94191828230396
+39,PBF,1,work_limit,False,combination_limit,2.440391108393669e-05
+40,PBF,1,returned,True,complete,4.960096317343414
+41,PBF,1,returned,True,complete,0.8956782147288322
+42,PBF,1,returned,True,complete,0.0201072809286415
+43,PBF,1,returned,True,complete,10.525076823774723
+44,PBF,1,returned,True,complete,1.1158292680047452
+45,PBF,1,returned,True,complete,2.957798602990806
+46,PBF,1,returned,True,complete,0.0219175079837441
+47,PBF,1,returned,True,complete,0.0352532328106462
+48,PBF,1,returned,True,complete,1.136810814961791
+49,PBF,1,returned,True,complete,0.1077176579274237
+50,PBF,1,solver_timeout,False,timeout,30.5208570221439
+51,PBF,1,returned,True,complete,0.9599858331494032
+52,PBF,1,work_limit,False,combination_limit,1.398986205458641e-05
+53,PBF,1,returned,True,complete,1.363627971149981
+54,PBF,1,returned,True,complete,0.1212815889157354
+55,PBF,1,returned,True,complete,2.2042868938297038
+56,PBF,1,returned,True,complete,0.0026141218841075
+57,PBF,1,returned,True,complete,0.0015368079766631
+58,PBF,1,returned,True,complete,0.0278132748790085
+59,PBF,1,returned,True,complete,0.0030501303263008
+60,PBF,1,returned,True,complete,0.0357167730107903
+61,PBF,1,solver_timeout,False,timeout,30.370926526840776
+62,PBF,1,work_limit,False,combination_limit,2.255663275718689e-05
+63,PBF,1,returned,True,complete,1.387390322983265
+64,PBF,1,returned,True,complete,0.0278968727216124
+65,PBF,1,work_limit,False,combination_limit,2.333475276827812e-05
+66,PBF,1,returned,True,complete,0.5411406578496099
+67,PBF,1,returned,True,complete,0.0035394309088587
+68,PBF,1,work_limit,False,combination_limit,3.001326695084572e-05
+69,PBF,1,returned,True,complete,29.626972103957087
+70,PBF,1,returned,True,complete,0.0045152478851377
+71,PBF,1,work_limit,False,combination_limit,2.46809795498848e-05
+72,PBF,1,returned,True,complete,5.359689752105624
+73,PBF,1,work_limit,False,combination_limit,2.3320317268371585e-05
+74,PBF,1,returned,True,complete,0.0019412892870604
+75,PBF,1,returned,True,complete,0.0057615200057625
+76,PBF,1,returned,True,complete,0.0004010889679193
+77,PBF,1,returned,True,complete,12.50396570097655
+78,PBF,1,solver_timeout,False,timeout,30.377275940030813
+79,PBF,1,work_limit,False,combination_limit,2.5418121367692947e-05
+80,PBF,1,returned,True,complete,0.0200229128822684
+81,PBF,1,returned,True,complete,0.0114304511807858
+82,PBF,1,returned,True,complete,4.44083754112944
+83,PBF,1,returned,True,complete,1.0867996481247246
+84,PBF,1,returned,True,complete,0.0001270687207579
+85,PBF,1,returned,True,complete,0.1734351040795445
+86,PBF,1,solver_timeout,False,timeout,30.16243976028636
+87,PBF,1,work_limit,False,combination_limit,2.423301339149475e-05
+88,PBF,1,returned,True,complete,0.256566115655005
+89,PBF,1,solver_timeout,False,timeout,30.580602405127134
+90,PBF,1,returned,True,complete,0.013397566974163
+91,PBF,1,returned,True,complete,0.9506592559628187
+92,PBF,1,returned,True,complete,0.0052114282734692
+93,PBF,1,work_limit,False,combination_limit,1.29062682390213e-05
+94,PBF,1,returned,True,complete,2.457026567775756
+95,PBF,1,returned,True,complete,0.0104110711254179
+96,PBF,1,returned,True,complete,0.0029561929404735
+97,PBF,1,returned,True,complete,0.0023391311988234
+98,PBF,1,returned,True,complete,5.387349425815046
+99,PBF,1,returned,True,complete,0.0060995151288807

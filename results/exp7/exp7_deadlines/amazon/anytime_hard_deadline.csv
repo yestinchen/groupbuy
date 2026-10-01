@@ -1,0 +1,43 @@
+method,deadline_ms,median,q25,q75,metric,n_evaluated,clock,mode
+PACS,1.1,0.0,0.0,0.0,recall,100,method,hard
+PACS,3.0,0.0,0.0,1.0,recall,100,method,hard
+PACS,10.0,1.0,0.344047619047619,1.0,recall,100,method,hard
+PACS,30.0,1.0,0.3764336917562724,1.0,recall,100,method,hard
+PACS,100.0,1.0,0.40359237536656895,1.0,recall,100,method,hard
+PACS,300.0,1.0,0.40359237536656895,1.0,recall,100,method,hard
+PACS,1000.0,1.0,0.40359237536656895,1.0,recall,100,method,hard
+PTS,1.1,0.0,0.0,0.0,recall,100,method,hard
+PTS,3.0,0.01209207459207455,0.0,0.04590298711975883,recall,100,method,hard
+PTS,10.0,0.07825203252032514,0.014722222222222199,0.2545731707317073,recall,100,method,hard
+PTS,30.0,0.19352869352869345,0.02604726100966695,0.8269230769230769,recall,100,method,hard
+PTS,100.0,0.7484375,0.11228706358576482,1.0,recall,100,method,hard
+PTS,300.0,1.0,0.5275020678246485,1.0,recall,100,method,hard
+PTS,1000.0,1.0,0.6682692307692308,1.0,recall,100,method,hard
+eps-ILP g=4,1.1,0.0,0.0,0.0,recall,100,method,hard
+eps-ILP g=4,3.0,0.0,0.0,0.0,recall,100,method,hard
+eps-ILP g=4,10.0,0.0,0.0,0.017401960784313678,recall,100,method,hard
+eps-ILP g=4,30.0,0.0368222891566265,0.013508046390362275,0.08205782312925163,recall,100,method,hard
+eps-ILP g=4,100.0,0.0722996515679442,0.03176930596285432,0.15143369175627236,recall,100,method,hard
+eps-ILP g=4,300.0,0.09556425309849965,0.049896694214876025,0.18497474747474746,recall,100,method,hard
+eps-ILP g=4,1000.0,0.09556425309849965,0.05026978417266185,0.18497474747474746,recall,100,method,hard
+eps-ILP g=16,1.1,0.0,0.0,0.0,recall,100,method,hard
+eps-ILP g=16,3.0,0.0,0.0,0.0,recall,100,method,hard
+eps-ILP g=16,10.0,0.0,0.0,0.014440639269406376,recall,100,method,hard
+eps-ILP g=16,30.0,0.03761792452830185,0.01484712230215825,0.08,recall,100,method,hard
+eps-ILP g=16,100.0,0.07596153846153844,0.04022762951334375,0.12938288920056096,recall,100,method,hard
+eps-ILP g=16,300.0,0.10731907894736839,0.06349734042553187,0.155546020167346,recall,100,method,hard
+eps-ILP g=16,1000.0,0.1195238095238095,0.06595744680851057,0.2177309782608695,recall,100,method,hard
+PBS-unbounded,1.1,0.0,0.0,0.0,recall,100,method,hard
+PBS-unbounded,3.0,0.0,0.0,1.0,recall,100,method,hard
+PBS-unbounded,10.0,1.0,1.0,1.0,recall,100,method,hard
+PBS-unbounded,30.0,1.0,1.0,1.0,recall,100,method,hard
+PBS-unbounded,100.0,1.0,1.0,1.0,recall,100,method,hard
+PBS-unbounded,300.0,1.0,1.0,1.0,recall,100,method,hard
+PBS-unbounded,1000.0,1.0,1.0,1.0,recall,100,method,hard
+Pareto-DP,1.1,0.0,0.0,0.0,recall,100,method,hard
+Pareto-DP,3.0,0.0,0.0,1.0,recall,100,method,hard
+Pareto-DP,10.0,1.0,0.0,1.0,recall,100,method,hard
+Pareto-DP,30.0,1.0,1.0,1.0,recall,100,method,hard
+Pareto-DP,100.0,1.0,1.0,1.0,recall,100,method,hard
+Pareto-DP,300.0,1.0,1.0,1.0,recall,100,method,hard
+Pareto-DP,1000.0,1.0,1.0,1.0,recall,100,method,hard

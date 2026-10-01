@@ -1,0 +1,37 @@
+method,deadline_ms,median,q25,q75,metric,n_evaluated,clock,mode
+PACS,3.3,0.0,0.0,0.0,hv,100,fresh-stages,observation
+PACS,10.0,0.0,0.0,0.9676834306996379,hv,100,fresh-stages,observation
+PACS,30.0,0.6790789888622342,0.0,0.9963679800879394,hv,100,fresh-stages,observation
+PACS,100.0,0.8124198188142464,0.6058268957688165,0.9963679800879394,hv,100,fresh-stages,observation
+PACS,300.0,0.8337182727816521,0.6160320407549973,0.9993622609127384,hv,100,fresh-stages,observation
+PACS,1000.0,0.8337182727816521,0.635295657592968,0.9993622609127384,hv,100,fresh-stages,observation
+PTS,3.3,0.0,0.0,0.0,hv,100,fresh-stages,observation
+PTS,10.0,0.13135754381386366,0.0,0.4453169716237079,hv,100,fresh-stages,observation
+PTS,30.0,0.2897872570241178,0.12912760167280496,0.7062112717854547,hv,100,fresh-stages,observation
+PTS,100.0,0.5048295268648987,0.20991445805488834,0.934652431901524,hv,100,fresh-stages,observation
+PTS,300.0,0.6731888733485586,0.308727058934253,1.0,hv,100,fresh-stages,observation
+PTS,1000.0,0.6889946406104601,0.33741865944380356,1.0,hv,100,fresh-stages,observation
+eps-ILP g=4,3.3,0.0,0.0,0.0,hv,100,fresh-stages,observation
+eps-ILP g=4,10.0,0.0,0.0,0.0,hv,100,fresh-stages,observation
+eps-ILP g=4,30.0,0.0,0.0,0.02111435503501585,hv,100,fresh-stages,observation
+eps-ILP g=4,100.0,0.1428976021096853,0.002532452907748,0.4254710834176476,hv,100,fresh-stages,observation
+eps-ILP g=4,300.0,0.39142432595653387,0.20995227330722296,0.5146520338015199,hv,100,fresh-stages,observation
+eps-ILP g=4,1000.0,0.4129370652678964,0.2871135972076365,0.5467707054821767,hv,100,fresh-stages,observation
+eps-ILP g=16,3.3,0.0,0.0,0.0,hv,100,fresh-stages,observation
+eps-ILP g=16,10.0,0.0,0.0,0.0,hv,100,fresh-stages,observation
+eps-ILP g=16,30.0,0.0,0.0,0.019397937512403124,hv,100,fresh-stages,observation
+eps-ILP g=16,100.0,0.10508944917597729,0.0017127414838175,0.3797475627778026,hv,100,fresh-stages,observation
+eps-ILP g=16,300.0,0.44448189716281283,0.22421416901232738,0.5894307742192094,hv,100,fresh-stages,observation
+eps-ILP g=16,1000.0,0.5193513939985615,0.4170618121083331,0.6693048536012774,hv,100,fresh-stages,observation
+PBS-unbounded,3.3,0.0,0.0,0.0,hv,100,fresh-stages,observation
+PBS-unbounded,10.0,0.0,0.0,1.0,hv,100,fresh-stages,observation
+PBS-unbounded,30.0,0.0,0.0,1.0,hv,100,fresh-stages,observation
+PBS-unbounded,100.0,1.0,0.0,1.0,hv,100,fresh-stages,observation
+PBS-unbounded,300.0,1.0,1.0,1.0,hv,100,fresh-stages,observation
+PBS-unbounded,1000.0,1.0,1.0,1.0,hv,100,fresh-stages,observation
+Pareto-DP,3.3,0.0,0.0,0.0,hv,100,fresh-stages,observation
+Pareto-DP,10.0,0.0,0.0,0.0,hv,100,fresh-stages,observation
+Pareto-DP,30.0,0.0,0.0,1.0,hv,100,fresh-stages,observation
+Pareto-DP,100.0,0.0,0.0,1.0,hv,100,fresh-stages,observation
+Pareto-DP,300.0,1.0,0.0,1.0,hv,100,fresh-stages,observation
+Pareto-DP,1000.0,1.0,1.0,1.0,hv,100,fresh-stages,observation

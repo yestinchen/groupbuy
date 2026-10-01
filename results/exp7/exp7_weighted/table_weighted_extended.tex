@@ -1,0 +1,13 @@
+\begin{tabular}{lrrrrrr}
+\toprule
+& \multicolumn{3}{c}{Amazon} & \multicolumn{3}{c}{Airbnb} \\
+\cmidrule(lr){2-4}\cmidrule(lr){5-7}
+method & optimal & $n$ & med.\ time & optimal & $n$ & med.\ time \\
+\midrule
+\texttt{ILP} (exact) & $1.000$ & 700 & $1.17$\,ms & $1.000$ & 700 & $4.16$\,ms \\
+\texttt{PBS} & $1.000$ & 700 & $1.28$\,ms & $0.984$ & 700 & $5.91$\,ms \\
+\texttt{PTS} & $1.000$ & 700 & $1.35$\,ms & $0.960$ & 700 & $5.83$\,ms \\
+\texttt{PBS} (no LP bound) & $0.997$ & 700 & $3.09$\,ms & $0.783$ & 700 & $16.79$\,ms \\
+\texttt{PTS} (no LP bound) & $0.874$ & 700 & $4.89$\,ms & $0.559$ & 700 & $10.15$\,ms \\
+\bottomrule
+\end{tabular}

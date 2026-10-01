@@ -1,0 +1,21 @@
+setting,method,e2e_median_ms
+e11_cat10k,PACS,3.0811289325356
+e11_cat30k_recal,PACS,5.34861534833905
+e12_cat1m_recal,PACS,13.580869184806902
+e12_cat2m_recal,PACS,21.167786559089997
+e11_cat10k,PTS,7.10366154089565
+e11_cat30k_recal,PTS,10.0625320337712
+e12_cat1m_recal,PTS,15.402500052005001
+e12_cat2m_recal,PTS,21.4418792165815
+e11_cat10k,PACS unbounded,3.1419810838997
+e11_cat30k_recal,PACS unbounded,5.471357377245949
+e12_cat1m_recal,PACS unbounded,14.0762194059789
+e12_cat2m_recal,PACS unbounded,22.16812805272635
+e11_cat10k,Pareto-DP,5.26121119037265
+e11_cat30k_recal,Pareto-DP,11.59462449140845
+e12_cat1m_recal,Pareto-DP,37.75261947885155
+e12_cat2m_recal,Pareto-DP,70.64376375637946
+e11_cat10k,retrieval,0.9277558419853
+e11_cat30k_recal,retrieval,1.9866526126861
+e12_cat1m_recal,retrieval,5.9824613854289
+e12_cat2m_recal,retrieval,11.44697144627565

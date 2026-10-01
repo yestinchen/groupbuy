@@ -1,0 +1,100 @@
+{
+  "builder_sha256": "9a5a9de262729d28cf2f65e138f6e6ba87be1a7640c84a2a80ffe342d4289184",
+  "presentation": "PTS is the depth-first policy (runner process DFS); the UCT process is excluded from both tables and remains only in the raw records. The epsilon arm is the isolated g=4 process measured by the memory-grid harness on the campaign inputs (revision_memory_grids_20260916, validated there and re-checked here); the campaign g=2 process is not presented. Pareto DP is the conventional DP without candidate reduction (*_dpconv process); the reduced DP process is not presented",
+  "source_commit": "b0562b8e066397b512c95a221ab94d97e5b400c8",
+  "dirty_diff_sha256": "736b70ba74217cca974ddf05402afdaaed8fcf8286f628879793abe7939f6536",
+  "sources": {
+    "e11_cat10k": {
+      "path": "<paper>/revision_campaign_20260914/memory/e11_cat10k/mem_e11_cat10k.json",
+      "sha256": "09c1393c125be7521ed7f179f1afea0e1259268ae6f264b1bc875eec4b2987c7",
+      "reconstruction_sha256": "b99371dc47ef54039f18abb47fa3fb938f544813dfc7010f895e68c53067ed8e"
+    },
+    "<paper>/revision_memory_grids_20260916/e11_cat10k/mem_e11_cat10k.json": {
+      "path": "<paper>/revision_memory_grids_20260916/e11_cat10k/mem_e11_cat10k.json",
+      "sha256": "26d2f7eb62c2a9a5696befef3e80755d440745409683053890a75c32381c7a4d"
+    },
+    "<paper>/revision_memory_grids_20260916/e11_cat10k/validation.json": {
+      "path": "<paper>/revision_memory_grids_20260916/e11_cat10k/validation.json",
+      "sha256": "599bd3d604d764a6089d32421a196f3be571a824fca4bf0c9ff1b0a5bc76ee31"
+    },
+    "<paper>/revision_campaign_20260914/memory/e11_cat10k_dpconv/mem_e11_cat10k.json": {
+      "path": "<paper>/revision_campaign_20260914/memory/e11_cat10k_dpconv/mem_e11_cat10k.json",
+      "sha256": "a964da9cf92190050da3765828d1b333691846b5473532b537d007c1867f7826"
+    },
+    "e11_cat30k": {
+      "path": "<paper>/revision_campaign_20260914/memory/e11_cat30k/mem_e11_cat30k.json",
+      "sha256": "ef424998d7a47bfe599674c8e9f19f08ef263842250c8db37d5af6c33e130cb0",
+      "reconstruction_sha256": "fcfced3d59353bf8f2ff0789d338911a0d8e754c4284ef86a10367c16557b514"
+    },
+    "<paper>/revision_memory_grids_20260916/e11_cat30k/mem_e11_cat30k.json": {
+      "path": "<paper>/revision_memory_grids_20260916/e11_cat30k/mem_e11_cat30k.json",
+      "sha256": "c8a21004fe4e1ad6f9f1b5eca3114d27ec056625f2bb9f495c96532436580877"
+    },
+    "<paper>/revision_memory_grids_20260916/e11_cat30k/validation.json": {
+      "path": "<paper>/revision_memory_grids_20260916/e11_cat30k/validation.json",
+      "sha256": "679040ded2471785436602808942781899c5b2ea3d260bea0e6aefb420f62cdd"
+    },
+    "<paper>/revision_campaign_20260914/memory/e11_cat30k_dpconv/mem_e11_cat30k.json": {
+      "path": "<paper>/revision_campaign_20260914/memory/e11_cat30k_dpconv/mem_e11_cat30k.json",
+      "sha256": "33f68367ab3138d986153b193e5fccfffb902cae6df684b7ef5cff19a9cc9de6"
+    },
+    "e12_cat1m": {
+      "path": "<paper>/revision_campaign_20260914/memory/e12_cat1m/mem_e12_cat1m.json",
+      "sha256": "f8b407ca00a92f7727fccbc7245de6f3e4b0cb98691172081a863af710c890c6",
+      "reconstruction_sha256": "7beb060882cfab4ff3b625dbc928a9c17bf0403318fc03f6cdb4f08baa528e55"
+    },
+    "<paper>/revision_memory_grids_20260916/e12_cat1m/mem_e12_cat1m.json": {
+      "path": "<paper>/revision_memory_grids_20260916/e12_cat1m/mem_e12_cat1m.json",
+      "sha256": "92c5bad1debd267dbbbb9854981dc55c71710288fd4237139fb9bb712c675cca"
+    },
+    "<paper>/revision_memory_grids_20260916/e12_cat1m/validation.json": {
+      "path": "<paper>/revision_memory_grids_20260916/e12_cat1m/validation.json",
+      "sha256": "337c3b978ab7bd49f1d7ed3d632a23fb9c09974c7dcc7170c72bcde1ec8fad4a"
+    },
+    "<paper>/revision_campaign_20260914/memory/e12_cat1m_dpconv/mem_e12_cat1m.json": {
+      "path": "<paper>/revision_campaign_20260914/memory/e12_cat1m_dpconv/mem_e12_cat1m.json",
+      "sha256": "0abf681f6daa4d852e7af1a58c36da78a7bebd25bb68ddc94ab1b39ee2a019dd"
+    },
+    "e12_cat2m": {
+      "path": "<paper>/revision_campaign_20260914/memory/e12_cat2m/mem_e12_cat2m.json",
+      "sha256": "2fc329c4598b56ea70b57d974fdbbb83bb5637f36bbd5385f3596b61d7fa7e08",
+      "reconstruction_sha256": "9e49f442356b5a523e490f170c92cda6a7c9626428bd830afd12f9e568d97bdb"
+    },
+    "<paper>/revision_memory_grids_20260916/e12_cat2m/mem_e12_cat2m.json": {
+      "path": "<paper>/revision_memory_grids_20260916/e12_cat2m/mem_e12_cat2m.json",
+      "sha256": "9364d36d72625166aa577fa7594641a867440ffaaa138adb762744dea4598aa5"
+    },
+    "<paper>/revision_memory_grids_20260916/e12_cat2m/validation.json": {
+      "path": "<paper>/revision_memory_grids_20260916/e12_cat2m/validation.json",
+      "sha256": "cde6401de4dc58493d706fcdfd6399aeb6409fad08f079c81e3b354a519fd745"
+    },
+    "<paper>/revision_campaign_20260914/memory/e12_cat2m_dpconv/mem_e12_cat2m.json": {
+      "path": "<paper>/revision_campaign_20260914/memory/e12_cat2m_dpconv/mem_e12_cat2m.json",
+      "sha256": "2575f579be3e7653a386cc9226f11e4443611181ef4c1f05cc9712a8a20b4ddf"
+    },
+    "airbnb_12c": {
+      "path": "<paper>/revision_campaign_20260914/memory/airbnb_12c/mem_airbnb_12c.json",
+      "sha256": "35e96eea7b1570c95b6e4eeb8d2dd6dff74411b16b4e36ac514ee7657557bf97",
+      "reconstruction_sha256": "2cadf415de08b0ab79403bfd26fe4b0bf732b5f6c3a345454e999e45ef107b6a"
+    },
+    "<paper>/revision_memory_grids_20260916/airbnb_12c/mem_airbnb_12c.json": {
+      "path": "<paper>/revision_memory_grids_20260916/airbnb_12c/mem_airbnb_12c.json",
+      "sha256": "1b5ee15dd34fd7d7c9886c9b77c4be236704fa56a9f60b7a25de63218bc3a390"
+    },
+    "<paper>/revision_memory_grids_20260916/airbnb_12c/validation.json": {
+      "path": "<paper>/revision_memory_grids_20260916/airbnb_12c/validation.json",
+      "sha256": "68d0585a7c960f814d1acefd381d3f9ef6f142f093e445ee5fea95e7723436e2"
+    },
+    "<paper>/revision_campaign_20260914/memory/airbnb_12c_dpconv/mem_airbnb_12c.json": {
+      "path": "<paper>/revision_campaign_20260914/memory/airbnb_12c_dpconv/mem_airbnb_12c.json",
+      "sha256": "5c0d4d5e0e971c56308adeb1575685e0995cf46d2e503b47fe4d9741a2756650"
+    }
+  },
+  "semantics": "host RSS values are monotonic process high-water marks (baseline, after imports, after catalog load, after fresh retrieval); GPU peak is the larger of the post-load and retrieval allocation peaks on the selected device, reported separately from other occupants of the host GPUs; isolated search peaks are the sampled resident peaks (1 ms) of one fresh process per method with the stripped candidate inputs; the recorded ru_maxrss of those children equals the parent high-water mark (inherited across fork) and is retained in the raw records but not reported; the presented epsilon memory arm is the isolated grid-4 process from the memory-grid harness; the campaign grid-2 process is retained in the raw records only",
+  "generated": {
+    "table_memory.tex": "0b60700639bc900f30174ce84aded0bdca6012b549317ea4f26d2d66e62bab56",
+    "table_memory_methods.tex": "bcda682d65bfd433bb9c4903caaeba27359b6d279970b0abf57a0933c5b99a9e",
+    "memory_methods.csv": "ee99e4db3253fb5fc29c45e59ffbc018400aab2f15a142f9e5b7c5a4574d849f",
+    "memory_catalog.csv": "c2dc16def5230f68677f1148c4922748e1e67f6466a9907d598abf802f7ef0f3"
+  }
+}

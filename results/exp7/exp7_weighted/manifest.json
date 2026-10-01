@@ -1,0 +1,34 @@
+{
+  "builder_sha256": "2bb1dc400a1dae44ba35010775c93833c01086337e65ff59b9301b07556b8a97",
+  "presentation": "PTS is the depth-first policy: both tables read the *_dfs jobs, whose runner records traversal=depth_first on every PTS row; the UCT jobs remain only in the raw records",
+  "source_commit": "675c41a71a2eee1515495637d8c6ebe997f21fde",
+  "dirty_diff_sha256": "ade5926b2f6b6a3508239478708475cb4ddf582c4c81737444478ff025c3318a",
+  "sources": {
+    "amazon_dfs": {
+      "path": "<paper>/revision_campaign_20260914/weighted/amazon_dfs/all_results.csv",
+      "sha256": "eac84058f29f957ae0334760512d154e81773a69657f7293a019cce786f2011b",
+      "reconstruction_sha256": "5eed305e4bb4ed2927a061ae239582a44cd890c700437ab04795abe27467f20c"
+    },
+    "airbnb_dfs": {
+      "path": "<paper>/revision_campaign_20260914/weighted/airbnb_dfs/all_results.csv",
+      "sha256": "e93f8e4f8b9a3d242d9d031c5908c8d72032a2107aa73115ca7ae6fc15553060",
+      "reconstruction_sha256": "f0157048fe5c3c7440ca2016f2307eb54d635f172f47e7d121f2c69abe3a9d02"
+    },
+    "amazon_beta_diagnostic": {
+      "path": "<paper>/revision_campaign_20260914/weighted/amazon_beta_diagnostic/weighted.csv",
+      "sha256": "f74392f8f135481b8ed6d5cd9beca192a9c3d3cd3f771532187c983329e24536",
+      "reconstruction_sha256": "75ac3f4327cdf9092d97e6ed2f754b527f2a805eebdaeaa038eb0606cf9a7d35"
+    }
+  },
+  "optimal_denominator": "rows whose exact ILP reference is proved optimal within the limit (metric_eligible); a feasible search that returns nothing counts as not optimal",
+  "time_definition": "median fresh retrieval plus measured method wall time over attempted invocations (total_ms_median), consistent with the other tables; method-only medians are in the CSV summaries",
+  "generated": {
+    "amazon_weighted_by_weight.csv": "45e2825bc6a7ed866f4f38e153f4676104f4128d243250f6259302f30690874d",
+    "amazon_beta_diagnostic_summary.csv": "a57c513dafc4e34bab0184aeb1003670e9aa3939233ce87faabf2f719cbeda60",
+    "airbnb_weighted_summary.csv": "b5e80200732a84984991ac01640140bbd89b9731009897a9a0062615c7abf0dc",
+    "table_weighted_extended.tex": "94c5c17f5e7db610395d2d45cbdbdacca001937d87fe2f9c5165b14c856f8727",
+    "table_weighted.tex": "e1224442b13c501c3ff6fd61aabc86fa9793524ee1d93f2f2c74dab619237ab8",
+    "amazon_weighted_summary.csv": "9df8114fef44284e5b08bbf4aad7a7b2f83445c77c9c14e3fe0d65b6ef183517",
+    "airbnb_weighted_by_weight.csv": "791c27ae358888c5962742eb7d0f762ddbf12bbce04690f3ccf434a61e608bf4"
+  }
+}

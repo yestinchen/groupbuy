@@ -1,0 +1,9 @@
+budgets,setting,tight80_share
+per-catalog budgets,airbnb_lad29k,0.71
+per-catalog budgets,airbnb_lad58k_recal,0.71
+per-catalog budgets,airbnb_lad115k_recal,0.71
+per-catalog budgets,airbnb_lad231k_recal,0.71
+fixed 29K budgets,airbnb_lad29k,0.71
+fixed 29K budgets,airbnb_lad58k,0.33
+fixed 29K budgets,airbnb_lad115k,0.06
+fixed 29K budgets,airbnb_lad231k,0.01
